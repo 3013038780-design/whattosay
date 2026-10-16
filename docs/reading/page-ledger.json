@@ -6663,6 +6663,996 @@
           "status": "read",
           "note": "白衣送酒重阳与陶潜饮酒其五；悠然自得可为秋日雅聚线索，见同现和创作年等解释仍需校核。",
           "proofread": false
+        },
+        {
+          "pdfPage": 86,
+          "status": "read",
+          "note": "陶诗唱和、颜延之付酒钱与陶侃限酒；二万史事与李白二十万夸饰分开，陈遗饭感解释需核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 87,
+          "status": "read",
+          "note": "刘惔倾酿、王恭痛饮读离骚与酒兵，理解名士文化不将饮酒消愁写为实际推荐。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 88,
+          "status": "read",
+          "note": "费衮反对一饮必醉、以把盏为乐；曹景宗竞病韵即席诗，限韵互动可研究。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 89,
+          "status": "read",
+          "note": "曹景宗自比霍去病与庾信对酒歌典故，人物胸襟的贬评属于作者判断。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 90,
+          "status": "read",
+          "note": "庾信醉游身世及踏谣娘戏剧源流；家暴题材不用于幽默祝酒或酒桌游戏。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 91,
+          "status": "read",
+          "note": "古人酒量与宋前无蒸馏酒概括待核；独酌者三类是作者分析，不据此判断现实用户性格。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 92,
+          "status": "read",
+          "note": "沈炯独酌谣与反权贵阐释；许史年代称汉武帝等人物史实需核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 93,
+          "status": "read",
+          "note": "已看原图：卷三唐五代品酒诗话扉页，楼阁月夜与酒壶图。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 94,
+          "status": "read",
+          "note": "已看原图，空白页。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 95,
+          "status": "read",
+          "note": "唐诗涉酒字数和诗数属作者统计，字次不等于作品数；唐诗似酒审美框架起首。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 96,
+          "status": "read",
+          "note": "茶酒阴阳与性别为比喻；损坏行已查原图为诗与酒是历代文人排解情绪特效剂等文化阐述，非医疗或创作功效。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 97,
+          "status": "read",
+          "note": "唐初官员赐酒配额、魏徵治酒与翠涛，酒名OCR字损需核；不可把历史品秩配额变现代宴规。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 98,
+          "status": "read",
+          "note": "王绩斗酒学士及五斗先生传、酒经酒谱；酒为何物用多种文化角色铺排，可研究节奏结构。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 99,
+          "status": "read",
+          "note": "李峤咏酒典故及僧侣斥酒教义，竹叶酒产地前后需核，教义不等宗派个人画像。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 100,
+          "status": "read",
+          "note": "王梵志诗戒酒与员半千酒名诗，缺字方框明确不能补猜为准确引句。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 101,
+          "status": "read",
+          "note": "酒名嵌诗形式及陈子昂喜马参军相遇醉歌，题有喜但内含孤愤隐逸。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 102,
+          "status": "read",
+          "note": "陈子昂幽默指静默非搞笑；钱字字源与古今金钱观概括为作者解释，榆钱沽酒引入。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 103,
+          "status": "read",
+          "note": "岑参以榆钱作钱诙谐自然，适合研究借眼前物起兴；酒泉太守醉后诗欢乐中含思乡。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 104,
+          "status": "read",
+          "note": "孟浩然过故人庄，来宾受邀、老友情谊、重阳再会；泛称唐农业全庄园农奴经济不据此断定。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 105,
+          "status": "read",
+          "note": "田园诗理想境界非现实无苦痛；吕温乡饮酒试帖诗及生平记载年代待核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 106,
+          "status": "read",
+          "note": "元寂酒秃自嘲与王维少年行，游侠意气不同于礼饮；不可据僧人饮酒概括佛教。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 107,
+          "status": "read",
+          "note": "王维渭城曲明确饯别，劝君更尽不变成要求对方喝完；元结石鱼湖醉歌开篇。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 108,
+          "status": "read",
+          "note": "石鱼湖大尺度想象、别董大慰勉前路；诗的想象和说话者可承担的承诺分开。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 109,
+          "status": "read",
+          "note": "别董大第二首贫贱境遇、徐夤别诗；别字从口力刀解释疑错，离别态度职业性别划分不沿用。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 110,
+          "status": "read",
+          "note": "丁仙芝余杭醉歌明月送君回，适合诗意送客线索；贵妃醉酒故事与戏剧来源需分史料和后世改编。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 111,
+          "status": "read",
+          "note": "李白谪仙自况与忆贺监二首，知遇友情伴随悼亡，不能把金龟换酒全篇当现时欢会。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 112,
+          "status": "read",
+          "note": "李白怀贺老与天才人格阐释，梦笔生花等出生神话不据此实录；杜甫不懂李白属作者评断。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 113,
+          "status": "read",
+          "note": "海上钓鳌及华阴骑驴后世轶闻、李白侠客行，正史诗歌轶闻分层。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 114,
+          "status": "read",
+          "note": "侠客行颂侯嬴朱亥，笑歌行悲歌行伪作争论明确；没有酒便无李白为作者修辞非因果证据。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 115,
+          "status": "read",
+          "note": "南陵别儿童入京的喜悦自负、买臣用典；儿童指家中子女，蓬蒿人的贬义不用于对席上人比较。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 116,
+          "status": "read",
+          "note": "宣州谢朓楼诗理想愁绪及饯别，李云李华对象有争议待核；强者弱者之愁不作用户情绪等级。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 117,
+          "status": "read",
+          "note": "建安风骨概念源流，书列多种学者解释；人格力量与辞采统一可为文采方向而非结论唯一。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 118,
+          "status": "read",
+          "note": "风骨总结及将进酒全诗，劝酒文学与现代实际饮量分开；752年创作说须以可靠注本核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 119,
+          "status": "read",
+          "note": "将进酒典故与万古愁分析，天生我材适合励志候选但轻财任侠不能转成投资消费建议。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 120,
+          "status": "read",
+          "note": "月下独酌三首录文，举杯邀月的孤独想象不硬套热闹朋友局；诗句有异文和OCR疑损。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 121,
+          "status": "read",
+          "note": "月下独酌末首、清平调故事；韦叡与韦颋作者名、三年后赐金还山时间须核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 122,
+          "status": "read",
+          "note": "清平调三首注释，人花古今比喻与巫山云雨涉及亲密语境，不作为初识社交默认称赞。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 123,
+          "status": "read",
+          "note": "清平调评述与兰陵美酒郁金香，把郁金香当独立酒名和植物解释须核；洞庭湖如酒为文学比喻。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 124,
+          "status": "read",
+          "note": "洞庭酒湖排比与元好问雁丘词，恨人间等引字疑错；生死相许不能概括所有恋爱追求。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 125,
+          "status": "read",
+          "note": "杜甫月夜夫妻相思、赠内冷落及饮中八仙开篇，爱恋、歉意、欢宴情绪分开。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 126,
+          "status": "read",
+          "note": "饮中八仙录文与贺知章生平；杜甫牛肉白酒死明确作者用据说，不能写成确定死因。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 127,
+          "status": "read",
+          "note": "杜甫醉歌行鼓励落第从侄，认可既有才学、暂挫与前程可研究；不保证考试名次结果。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 128,
+          "status": "read",
+          "note": "怀素醉酒狂草及许瑶诗，诗中醒后却书书不得不等于一字不会写；贾至对酒曲开篇。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 129,
+          "status": "read",
+          "note": "贾至贬谪感叹人生转蓬；长安酒肆建筑尺寸及诗歌城市想象分开，不据诗断精确数据。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 130,
+          "status": "read",
+          "note": "韦应物酒肆行华美广告与酒味失真批判，名酒列举需校酒名产地；不能只取前半当繁荣赞歌。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 131,
+          "status": "read",
+          "note": "李冶卧病喜友相逢题喜而含泪、八至亲疏夫妻；李治OCR混名需校，探病不推荐劝酒。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 132,
+          "status": "read",
+          "note": "薛涛元稹莺莺传离思关系与年代混杂；书承认悼亡不同说，情诗不能作真实人物绯闻证据。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 133,
+          "status": "read",
+          "note": "鱼玄机乞酒乡思、卢群淮西醉歌议论及酒佐，古代乐妓身份不作现代男女社交模板。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 134,
+          "status": "read",
+          "note": "高骈薛涛年代错书引用校笺已指出高崇文；秦王饮酒所指存疑，诗境神话非实录。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 135,
+          "status": "read",
+          "note": "上一页存疑下一页断定李世民赞歌有论证跳跃；李贺将进酒真珠红与末尾生命无常分开。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 136,
+          "status": "read",
+          "note": "元稹狂醉失意与把酒问天；元白皮陆诗歌形式、对象、唱和比较可研究，不照等级结论。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 137,
+          "status": "read",
+          "note": "有酒十章序说及其一问宇宙，一章一杯是诗歌结构，不等于实际写作现场逐杯记录。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 138,
+          "status": "read",
+          "note": "有酒其二问山川日月与其三历史开篇，宇宙观是古代文学想象非自然科学。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 139,
+          "status": "read",
+          "note": "其三上古至汉魏历史发问，传说帝君与史事不同证据；古代名物OCR多误。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 140,
+          "status": "read",
+          "note": "其三注释及其四问天，禅让源于五岳禅封等语源解释疑错，人才困境为作者释义。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 141,
+          "status": "read",
+          "note": "其四注释及其五劝人问世，精卫枯鱼等无力意象，不作积极庆宴通用文案。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 142,
+          "status": "read",
+          "note": "其六草木荣落月盈亏与其七拔剑醉舞，时间流变意象伴有哀叹，不能按季节词直接匹配。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 143,
+          "status": "read",
+          "note": "其七注释及其八临江问水、其九开篇，包大荒境界为诗义研究，神话不作真实地理事件。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 144,
+          "status": "read",
+          "note": "其九黄昏及其十祝天地泰宁人康岁熟，可研究祝福由大到小的排比；君臣寄托不照搬现代局。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 145,
+          "status": "read",
+          "note": "有酒十章总评及白居易醉吟先生、酒功赞开篇；统计饮酒诗数为书引宋人，不当精确全集计数。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 146,
+          "status": "read",
+          "note": "白居易乐饮禅意与七老会九老图，845年年龄书列七十三须核；退休官职、人数年龄不自动确证。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 147,
+          "status": "read",
+          "note": "俗饮文字饮两类及招友诗，提供雅集互动方式不按是否吟诗评价用户；以镜换酒开篇。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 148,
+          "status": "read",
+          "note": "刘禹锡和镜换酒与聂夷中饮酒乐，镜酒典故可研究比喻，解百结等不作为饮酒效用承诺。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 149,
+          "status": "read",
+          "note": "聂夷中劝酒续及韩愈甜酒、酬寄酒，一壶情所寄可作致谢候选；脚注明确唐烧酒起源争议。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 150,
+          "status": "read",
+          "note": "韩愈莫辞酒涉及战争；遣兴作者归属及仕途被酒断送解释须核；卢仝七碗茶开篇。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 151,
+          "status": "read",
+          "note": "卢仝七碗茶和解闷诗为文学体验，颜真卿等醉语联句提示定韵定格多人接句，不鼓励醉倒。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 152,
+          "status": "read",
+          "note": "酒语联句字名OCR严重损坏需核；孟郊劝酒与前引聂夷中诗大部重合，须查归属和版本。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 153,
+          "status": "read",
+          "note": "李贺相劝酒神话意象，所有人醉后心态概括不用于用户画像；羲和历史官职与太阳神分开。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 154,
+          "status": "read",
+          "note": "赵牧对酒多神话兼历史冯唐，不能称全部都是神话故事；裂衣换酒非现代建议。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 155,
+          "status": "read",
+          "note": "赵牧典故及雍陶非酒、韦庄离筵诉酒，拒酒可承接朋友情意，不把不饮误作无情。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 156,
+          "status": "read",
+          "note": "离筵诉酒续及酒妓诗，唐代社会身份、谋生处境不转成当代男女社交玩法。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 157,
+          "status": "read",
+          "note": "汪遵咏酒反思亡国与江湖梦，皮陆酒道体系开篇；最早词源只为作者断言待核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 158,
+          "status": "read",
+          "note": "皮日休酒中十咏序与酒星，序中政治处境及自适并存；经典引字多损需核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 159,
+          "status": "read",
+          "note": "皮氏酒泉酒篘酒床酒垆酒楼酒旗酒樽诗，器具、酿造、酒楼、虚构乡城分清。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 160,
+          "status": "read",
+          "note": "皮氏酒城酒乡及诸诗注释，我愿葬兹泉被解释成毁弃酒泉有语义疑点，需核原文。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 161,
+          "status": "read",
+          "note": "皮氏十咏总结及和添酒六咏开篇，酒城酒乡为虚构夸饰不是地名与旅游点。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 162,
+          "status": "read",
+          "note": "皮氏酒船酒铛酒杯、陆氏奉和十咏开篇，同一对象不同语气立场，不按题材统一情绪。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 163,
+          "status": "read",
+          "note": "陆氏十咏酒泉至酒城，林间月共酌可为雅聚候选，醉与两忘言不作为产品使用条件。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 164,
+          "status": "read",
+          "note": "陆氏酒乡及皮陆对比，酒泉解释前后沿用疑点；汉书美禄养疾是古代论述不作医学建议。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 165,
+          "status": "read",
+          "note": "陆氏四荒二高序、酒池龙瓮船，明示讽刺奢淫，不能把诗中盛景摘作庆功赞词。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 166,
+          "status": "read",
+          "note": "陆氏酒铛酒杯和四荒释义，器具同题有褒贬；毕卓盗酒不可当可效仿幽默行为。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 167,
+          "status": "read",
+          "note": "四荒二高总结与司空图都下酒灉湖茶，官场隐逸为文学象征；咸通十年配878年明显疑错。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 168,
+          "status": "read",
+          "note": "司空图寿杯词为皇帝祝寿，南山意象需转化身份语气；有诗有酒有高歌与时间抗争。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 169,
+          "status": "read",
+          "note": "诗酒高歌是文学永葆青春非功效；故乡杏花寄花寄酒，喜与故人不来之怨并存。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 170,
+          "status": "read",
+          "note": "修史亭与乌程酒，司空图自适及罗隐仕途感慨；乌程地理沿革需分时代，诗字疑损。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 171,
+          "status": "read",
+          "note": "徐凝春饮若下遣愁、罗隐忆夏口乡地情，旧地旧游不同于新识社交。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 172,
+          "status": "read",
+          "note": "投壶规则、人员器物与司马光投壶新格引入，古代罚酒不纳入默认玩法。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 173,
+          "status": "read",
+          "note": "投壶新格图像已看，有初贯耳连中骁箭有初贯耳连中贯耳横耳横壶等八种示意；图题需校不按OCR零字实现。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 174,
+          "status": "read",
+          "note": "投壶新格图像已看，倚竿耳倚竿倒中倒耳全壶有终骁箭带剑等八种，方向位置可视化但规则另核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 175,
+          "status": "read",
+          "note": "投壶新格图像已看，龙首龙尾狼壶败壶四种，合前三页二十图；郑谷读太白集文星酒星为诗化赞叹。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 176,
+          "status": "read",
+          "note": "李白文星酒星传说续、李商隐美酒成都拟杜工部体离席，送老与卓文君典故不等个人实际养老计划。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 177,
+          "status": "read",
+          "note": "江南酒乡忆江南菩萨蛮与张籍江南曲；韦庄未老莫还乡的故国难归背景需另核，不据此只说愿老江南。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 178,
+          "status": "read",
+          "note": "杜牧泊秦淮亡国讽喻与江南春引入；祯明年代587—597疑错，商业史从诗歌不能直接断全面普及。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 179,
+          "status": "read",
+          "note": "江南春寺数非实数，诗旨存在不同阐释；清明不总在农历三月，牧童不限定牧羊，杏花村地点不能以一说定案。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 180,
+          "status": "read",
+          "note": "九日齐山登高及时欢乐中有生死感喟，牛山涕非普通欢庆典故；韩偓半醉开篇。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 181,
+          "status": "read",
+          "note": "韩偓半醉往事壮心斜阳，仕途得意为作者评价不据此客观定性；韦庄东阳赠别。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 182,
+          "status": "read",
+          "note": "东阳赠别天涯同为异乡苦；顾云池阳醉歌赠姚岩杰开篇，体感醉病不是欢乐体验文案。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 183,
+          "status": "read",
+          "note": "池阳醉歌赞人才、惜不遇及宴边将，张乔咸通进士又罢举叙事须核；横笛不吹塞声是体恤情绪。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 184,
+          "status": "read",
+          "note": "王贞白陶潜醉石重阳怀古与徐夤酒胡子，醉石为相传遗迹；木偶指向游戏可研究随机形式。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 185,
+          "status": "read",
+          "note": "卢注酒胡子讥刺无情劝与失意；随机出题可自愿跳过，不用木偶外貌给族群定性；徐夤送酒起首。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 186,
+          "status": "read",
+          "note": "徐夤送白酒诗与酒音乐文化，古代白酒不默认现代蒸馏白酒；中西音乐心理对比属作者概括。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 187,
+          "status": "read",
+          "note": "雅清燕三分及阶段论为作者框架，不能作严格音乐史唯一分类；朗朗上口可研究声韵与听感。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 188,
+          "status": "read",
+          "note": "社日治聋为俗信非功效；社日立春立秋后戊日说需核，李涛李昉人名OCR；敦煌茶酒论开篇。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 189,
+          "status": "read",
+          "note": "茶酒论各执功劳互讥，古代药效、价格及贬抑为角色说辞，不当事实广告；文本大量OCR待校。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 190,
+          "status": "read",
+          "note": "水调停茶酒争胜可为兼容茶酒轻松表达线索；刘乙百悔经自警戒酒，李煜鸩酒死开篇须核史源。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 191,
+          "status": "read",
+          "note": "李煜亡国与虞美人，978年仍称宋太祖赵匡胤及四十二岁存在年代人物错误，毒酒死因史源待核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 192,
+          "status": "read",
+          "note": "已看原图，空白页。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 193,
+          "status": "read",
+          "note": "已看原图：卷四宋金元品酒诗话扉页，月夜楼阁与酒壶图。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 194,
+          "status": "read",
+          "note": "已看原图，空白页。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 195,
+          "status": "read",
+          "note": "杯酒释兵权故事，建隆三年配961年疑错；丁谓咏酒礼饮，现代政治酒局不直接套古史。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 196,
+          "status": "read",
+          "note": "宫廷酒乐与杨亿正冬上寿乐章，杨忆OCR误名；祝寿阶次服务帝王礼制非现代通用敬酒顺序。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 197,
+          "status": "read",
+          "note": "杨亿咏醉规劝、王禹偁清明开篇；狂药为古典比喻，清明非必有酒。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 198,
+          "status": "read",
+          "note": "王禹偁无花无酒清明与石曼卿怪饮，不能把囚饮巢饮鳖饮等作趣味可模仿玩法。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 199,
+          "status": "read",
+          "note": "石曼卿送游杭与梅挚昭州酒，祛湿强身为古代解释不作健康建议；爵釂释义需核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 200,
+          "status": "read",
+          "note": "彭齐酒旗，神宗天圣年号人物明显错配；余靖出使契丹胡语诗起首。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 201,
+          "status": "read",
+          "note": "余靖胡语诗体现交往，历史引文族称不作现时称谓；梅尧臣腊酒起首。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 202,
+          "status": "read",
+          "note": "腊酒成熟季节释义与诗，屠苏先幼后长是特定习俗；王安石元日曈曈疑OCR损，醉翁亭开篇。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 203,
+          "status": "read",
+          "note": "欧阳修醉翁亭与黄庭坚瑞鹤仙隐括，一韵同也字是独木桥体，可研究复句结构不抄整词。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 204,
+          "status": "read",
+          "note": "宋代瓶装酒的最早断言需核；饮湖初晴后雨比喻新颖，不代表诗必因酒精生成。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 205,
+          "status": "read",
+          "note": "蒸鬻直接等蒸馏证据不足，恶酒并不只表示高度；苏轼金山醉诗与和陶饮酒开篇。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 206,
+          "status": "read",
+          "note": "苏轼和陶序以把盏为乐、空杯常持可为重相聚意趣的候选；生黎熟黎为历史称谓。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 207,
+          "status": "read",
+          "note": "苏轼冬至和诗记录海南饮聚，华夷语境需释义不作现代族群分层；归期乡信艰难情绪并存。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 208,
+          "status": "read",
+          "note": "冬至诗典故与物类相感志生活用途；署苏轼著作归属待核，硼砂不醉等禁作现代建议。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 209,
+          "status": "read",
+          "note": "颜几枪手寄酒友诗与苏轼赦罪故事，作弊故事非考试宴鼓励；羔儿酒引入。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 210,
+          "status": "read",
+          "note": "羊羔酒烹茶轶闻与君实不饮酒诗；江休复1060卒与神宗元丰退居相连时间不合，王子猷非仙人。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 211,
+          "status": "read",
+          "note": "黄庭坚对酒答谢公静，用典及寒士民生，名句桃李春风杯酒和江湖十年灯需分别识别往昔与离散。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 212,
+          "status": "read",
+          "note": "山谷诗释义与酒书法关系，惟有醉酒才能草圣过度断言；章草与诸家书体不能混称。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 213,
+          "status": "read",
+          "note": "山谷戏答学书与晚年戒誓，戏语不自动等同终生主张；秦观酒醒回环诗开篇。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 214,
+          "status": "read",
+          "note": "回环诗圆图已看，顺时针赏花归去马如飞酒力微醒时已暮，顶真接续；秦观醉死故事起首。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 215,
+          "status": "read",
+          "note": "秦观酒泉混合脑溢血的历史诊断无证据不采用；孔平仲嵌妇人名诗及合卺婚俗起首。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 216,
+          "status": "read",
+          "note": "合卺交杯沿革称酒杯北宋才出现与前文唐杯矛盾，须核；曲秀才为酒别名神异故事。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 217,
+          "status": "read",
+          "note": "向子諲酒词题戏赠不等于实质质疑八仙史实；樊楼与正店脚店经营制度。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 218,
+          "status": "read",
+          "note": "刘子翚汴京纪事怀旧与宋名酒录；前说民间普及后说尚未普及对象需区分，古酒名不作现时品牌。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 219,
+          "status": "read",
+          "note": "北山酒经及酒税粮食数据属史料引述待核；丁谓由杜诗推酒价书明说附会，不作唐市场统一价。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 220,
+          "status": "read",
+          "note": "名利如酒讽喻、和酒劲酒与庄子篇名，低度不伤人养生说不转为健康标签或推荐理由。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 221,
+          "status": "read",
+          "note": "易安体酒与愁、陈与义诗酒起首，词篇数和作者统计范围有限；不将女性酒愁限定为闺怨。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 222,
+          "status": "read",
+          "note": "陈与义对酒春景与世事、宋词燕乐起源；作者说无怨愤等属阐释不等唯一原意。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 223,
+          "status": "read",
+          "note": "酒词牌、张抡春日咏酒、中秋及寿词数量，统计有待版本核对，非痴即愚劝饮不沿用。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 224,
+          "status": "read",
+          "note": "宋词寿词饯行渔父与情绪分类；酒醉字次统计不等作品数，边塞相思与泛相思词分开。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 225,
+          "status": "read",
+          "note": "沈端节酒愁梦破反思、陆游存诗与饮酒题统计，文学史历代最多之类需核范围。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 226,
+          "status": "read",
+          "note": "陆游江楼想象与剑门微雨开篇，1172赴范成大幕与实际任职年代疑混，地理叙述待核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 227,
+          "status": "read",
+          "note": "陆游诗人未的失意自问与杨万里饮酒诗目录，骑驴不简单等于民而非官身份。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 228,
+          "status": "read",
+          "note": "杨万里醉吟古今诗人价值，酒痕酒泪为人生映照；桂叶鹿蹄酒记录不作为可用酿酒配方。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 229,
+          "status": "read",
+          "note": "桂叶鹿蹄酒续与辘轳体双进双出进退格，韵部系统及定义有差别，产品写顺口不自动宣称合古律。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 230,
+          "status": "read",
+          "note": "杨万里中秋病中不饮酒仍赏月可作同席自适方向；茶酒赠答互相回应开篇。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 231,
+          "status": "read",
+          "note": "李正民茶酒皆灵物与思无邪，称文化史第一比较茶酒诗缺证且前文更早茶酒论需区分；多景楼醉歌。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 232,
+          "status": "read",
+          "note": "刘过醉歌报国无路与葡萄酒史源，葡萄酒原产吐鲁番的概括须核全球起源范围。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 233,
+          "status": "read",
+          "note": "葡萄酿法描述及酒瓶插图已看，器物为书标宋元葡萄酒瓶；南宋遗民诗酒黍离悲非欢会模板。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 234,
+          "status": "read",
+          "note": "汪元量北上诗史、郑思肖林景熙谢翱诗酒；1276临安降不等整个南宋立即灭亡。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 235,
+          "status": "read",
+          "note": "谢翱鸿门宴影射、黄庚醉时歌宏大想象、陈普生平，不把遗民忧愁当一般豪迈祝词。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 236,
+          "status": "read",
+          "note": "陈普不饮酒歌假设排比以不饮作气势，可研究拒酒也有文采的结构；诗僧刺贾似道故事起首。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 237,
+          "status": "read",
+          "note": "诗僧渔翁讽刺与刘秉忠鹧鸪天酒，退进随缘是词中人生观，不给用户判断名利选择。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 238,
+          "status": "read",
+          "note": "白朴寄生草饮逃功名兴亡与元曲酒牌，仙宫OCR疑仙吕，通俗明快不等适合庆宴内容。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 239,
+          "status": "read",
+          "note": "无名氏蟾宫曲酒功效文学夸辞不作医学文案；蒲道源新曲米酒歌起首，米酒不默认蒸馏。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 240,
+          "status": "read",
+          "note": "米酒歌脱巾且漉等未见蒸馏却被释为蒸馏，需核；丰稔祝愿可研究劳动相聚，杨维桢御酒。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 241,
+          "status": "read",
+          "note": "张士诚御酒转赠与胡乘龙醉歌行天问，乱世苦恼和宇宙时间发问并存。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 242,
+          "status": "read",
+          "note": "天游醉歌系日驻时愿世人不老为文学想象，不作真实长寿功效或历法知识。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 243,
+          "status": "read",
+          "note": "已看原图：卷五明清品酒诗话扉页，楼阁月夜与酒器图。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 244,
+          "status": "read",
+          "note": "已看原图，空白页。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 245,
+          "status": "read",
+          "note": "张简醉樵歌的樵夫、酒瓢、仙境及诗书晚境，金银赠诗故事需核，不按文学排名当客观排序。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 246,
+          "status": "read",
+          "note": "醉樵典故与霸陵醉尉，李广复任太尉及元光二年战役年代疑错，需核原史。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 247,
+          "status": "read",
+          "note": "高启读史对李广韩信宽恕比较、伦文叙有柴出卖鹤顶体，藏头可为可选文字趣味而非强行出诗。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 248,
+          "status": "read",
+          "note": "唐寅把酒对月歌与李白月意象，明月几时有误归李白将进酒，明确待纠，原诗版本亦需核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 249,
+          "status": "read",
+          "note": "石榴裙酴酥康海宴诗，美女侑酒不作现代价值标准；杨慎新都地望及西江月词牌疑错。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 250,
+          "status": "read",
+          "note": "滚滚长江东逝水全文实应核临江仙，书仍称西江月；喜相逢与成败转空并存；三国演义酒叙事起首。",
+          "proofread": false
         }
       ]
     }
