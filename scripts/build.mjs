@@ -1,0 +1,12 @@
+import {build} from 'esbuild';
+import {mkdir,cp,writeFile,readFile,stat} from 'node:fs/promises';
+await mkdir('dist/miniprogram/pages/index',{recursive:true});
+await build({entryPoints:['src/app.ts','src/pages/index/index.ts'],outdir:'dist/miniprogram',outbase:'src',bundle:true,platform:'neutral',format:'cjs',target:'es2018',minify:true,legalComments:'eof'});
+for(const f of ['app.json','app.wxss','sitemap.json','pages/index/index.json','pages/index/index.wxml','pages/index/index.wxss'])await cp('src/'+f,'dist/miniprogram/'+f);
+await cp('node_modules/lunar-javascript/LICENSE','dist/miniprogram/LICENSE-lunar.txt');
+await mkdir('dist/preview',{recursive:true});
+await build({entryPoints:['preview/main.ts'],outfile:'dist/preview/main.js',bundle:true,platform:'browser',format:'iife',target:'es2020',minify:true});
+await cp('preview/index.html','dist/preview/index.html');
+const css=(await readFile('src/app.wxss','utf8')+'\n'+await readFile('src/pages/index/index.wxss','utf8')).replace(/(-?\d+(?:\.\d+)?)rpx/g,(_,n)=>`${Number(n)/2}px`);
+await writeFile('dist/preview/style.css',css+'\n'+await readFile('preview/style.css','utf8'));
+const size=(await stat('dist/miniprogram/pages/index/index.js')).size;console.log('Built native mini-program + browser preview; page bundle '+Math.round(size/1024)+' KiB.');

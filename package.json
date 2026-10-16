@@ -1,0 +1,23 @@
+{
+  "name": "whattosay",
+  "version": "0.1.0",
+  "private": true,
+  "description": "有出处、合场景的微信祝酒词小程序",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test tests/*.test.ts",
+    "preview": "npm run build && node scripts/serve.mjs",
+    "pretest": "node scripts/build.mjs",
+    "package": "node scripts/package.mjs"
+  },
+  "dependencies": {
+    "lunar-javascript": "1.7.7"
+  },
+  "devDependencies": {
+    "@types/wechat-miniprogram": "^3.4.8",
+    "esbuild": "^0.25.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.0"
+  }
+}
