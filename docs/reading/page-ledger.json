@@ -10251,6 +10251,852 @@
           "status": "read",
           "note": "现代祝词简约与书面两型支持长短版本，主欢迎客谢意清楚；人人饮尽不是内容质量标准，简短有吸引力才可研究。",
           "proofread": false
+        },
+        {
+          "pdfPage": 351,
+          "status": "read",
+          "note": "称谓兼顾被敬者与全桌，不必逐一堆叠职衔。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 352,
+          "status": "read",
+          "note": "正文由目的到祝愿再举杯，写稿仍需设想实际听众。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 353,
+          "status": "read",
+          "note": "为耳朵写，短句为主，长短整散相间，留停顿重音。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 354,
+          "status": "read",
+          "note": "关注听众环境，尼克松长城引句拟用前核原始记录。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 355,
+          "status": "read",
+          "note": "借景如园林开窗设门，原图已读；感官与亲人经历据实。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 356,
+          "status": "read",
+          "note": "山景由阻碍转为情谊坚实可首尾呼应，不默认性别山水分工。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 357,
+          "status": "read",
+          "note": "专业事物可作比喻，幽默舒展气氛；老舍六点故事待核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 358,
+          "status": "read",
+          "note": "造势后简短转折、概括前人可幽默收束，救急不求长篇。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 359,
+          "status": "read",
+          "note": "鲁迅、毛泽东、洛厄尔道具逸闻待核，学习双关构思。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 360,
+          "status": "read",
+          "note": "适应反馈与时限，肢体姿势不能准确推出心理。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 361,
+          "status": "read",
+          "note": "眼神姿态仅为观察线索，不作自动读心规则。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 362,
+          "status": "read",
+          "note": "酒起源与考古分层，夏商诗经不足单独确证五千年。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 363,
+          "status": "read",
+          "note": "酒星为文学意象，猿酒记述不等于有意酿造已证实。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 364,
+          "status": "read",
+          "note": "天然发酵与有意酿造分开，仪狄故事和古籍引文待核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 365,
+          "status": "read",
+          "note": "秫、醪不只高粱、糯米，仪狄官职与酒种起源待核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 366,
+          "status": "read",
+          "note": "郭沫若认可不等于史实，杜康空桑剩饭为传说非教程。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 367,
+          "status": "read",
+          "note": "少康杜康与华尧故事待核；原图酒水加西为原书错误。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 368,
+          "status": "read",
+          "note": "酒量智力无据联系不采用，买春古义与现代意思分开。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 369,
+          "status": "read",
+          "note": "梁实秋批强灌可研究，夏纣、笑林广记署名和凯撒故事待核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 370,
+          "status": "read",
+          "note": "钟毓钟会礼与非礼可研究机锋，不做儿童饮酒活动。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 371,
+          "status": "read",
+          "note": "古礼不是今规；原图凫酿与沐冠释义须查古籍再引用。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 372,
+          "status": "read",
+          "note": "斟满与八分相矛盾非通行规则，祝词不打断用餐。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 373,
+          "status": "read",
+          "note": "不能烈酒偷混汽水，饮品真实选择，不必伪装或只准香槟。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 374,
+          "status": "read",
+          "note": "领导先敬、代饮、错话罚酒不默认，杯高低为具体习惯。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 375,
+          "status": "read",
+          "note": "不饮不代表虚伪，热水酸奶解酒不作医学指导；话题兼顾全桌。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 376,
+          "status": "read",
+          "note": "劝饮不能压过个人选择，场景觉察与按职级行事分开。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 377,
+          "status": "read",
+          "note": "混酒药引、红酒启封时限须核，非正式推荐依据。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 378,
+          "status": "read",
+          "note": "餐酒搭配非义务，祭酒职务起源和左右尊位待核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 379,
+          "status": "read",
+          "note": "礼俗因地域而异，性别入席退席顺序不设通用要求。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 380,
+          "status": "read",
+          "note": "公筷与尊重同桌可体现体贴，烫食强吞不是礼貌任务。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 381,
+          "status": "read",
+          "note": "不为礼貌强吃异物，女士以夫贵不作产品价值标准。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 382,
+          "status": "read",
+          "note": "夫妻分席男女末席非普遍规范，配偶不从属丈夫地位。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 383,
+          "status": "read",
+          "note": "尊重食物偏好适用于所有人，民族无酒不成礼不泛化。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 384,
+          "status": "read",
+          "note": "民族敬饮需地域年代，不把幼者受罚、共杯设成活动。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 385,
+          "status": "read",
+          "note": "咂酒交臂同心有变体，亲密动作自愿，抗倭起源为传说。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 386,
+          "status": "read",
+          "note": "连杯同甘共苦可作意象，具体双杯仪式不强制，土族不强饮。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 387,
+          "status": "read",
+          "note": "酒当茶须透明，赫哲经济概括有时效，佤族量力同乐。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 388,
+          "status": "read",
+          "note": "藏族三口瑶族关卡为具体习俗，试酒去毒非安全指导。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 389,
+          "status": "read",
+          "note": "普米客来福来太阳比喻可研究，不设计点火饮酒活动。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 390,
+          "status": "read",
+          "note": "黎满裕固习俗不泛化，醉不证明亲密，儿童不敬酒。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 391,
+          "status": "read",
+          "note": "珞巴为旧民族志，不推广跪饮野味和强饮。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 392,
+          "status": "read",
+          "note": "祝劝拒酒历史分开，贵妃戏剧不直接当史实。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 393,
+          "status": "read",
+          "note": "突被点名从真感受开口，可用其他饮品，非一律站立。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 394,
+          "status": "read",
+          "note": "文敬不等于饮尽，职权命令与面子激将不默认。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 395,
+          "status": "read",
+          "note": "黑甜释浊酒存疑，拒饮无需公开疾病或伴郎代罚。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 396,
+          "status": "read",
+          "note": "药瓶备孕借口非必要，拒饮直接表达，不套女性撒娇框架。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 397,
+          "status": "read",
+          "note": "茶代酒也有情意节奏，歌词不整段套，数量不衡量感情。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 398,
+          "status": "read",
+          "note": "拒饮留温和机锋，不攻击君子小人或逼拥抱，改诗标化用。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 399,
+          "status": "read",
+          "note": "自醉劝醉赌醉媚醉四戒待核，刘公荣及周恩来逸闻起。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 400,
+          "status": "read",
+          "note": "免饮问答有机趣，周恩来胡宗南熊向晖故事尚无原始核验。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 401,
+          "status": "read",
+          "note": "邓颖超茶代酒互敬为候选，须核原始来源。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 402,
+          "status": "read",
+          "note": "酒令演变、贾逵史述待核，公平互动不沿军令处罚。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 403,
+          "status": "read",
+          "note": "投壶单位器具待核，刘章杀人不可转游戏奖惩。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 404,
+          "status": "read",
+          "note": "兰亭曲水、拈字、射覆可研究互动，人数年份另核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 405,
+          "status": "read",
+          "note": "雅通筹令与顶真双关提供形式，不按学识分人高下。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 406,
+          "status": "read",
+          "note": "传花猜物可用祝福积分替罚饮，古名规则不明暂缓。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 407,
+          "status": "read",
+          "note": "划拳骰子与虎棒鸡虫循环规则可研究，日本拳起源待核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 408,
+          "status": "read",
+          "note": "汤匙戏名揭彩007数青蛙评估门槛，规则不清不硬实现。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 409,
+          "status": "read",
+          "note": "拍七原图明七含七暗七倍数，猜物轻玩，不以笑声自动评分。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 410,
+          "status": "read",
+          "note": "官兵捉贼原图提字不一致须统一，地名开火车不问真实住址。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 411,
+          "status": "read",
+          "note": "鲁迅自嘲丰子恺可诗下酒引句待核，文人不全依酒创作。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 412,
+          "status": "read",
+          "note": "周作人酒头工有听觉手艺细节，旧价格工艺不作教程。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 413,
+          "status": "read",
+          "note": "周作人喜饮量小是个人自述，酒代药不作建议。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 414,
+          "status": "read",
+          "note": "周作人重过程意趣，梁实秋篇起，族群衰灭单因归酒不采用。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 415,
+          "status": "read",
+          "note": "梁童年醉酒为回忆非倡导，文王千钟孔子百觚受质疑。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 416,
+          "status": "read",
+          "note": "梁回望狂饮为狂非勇，胡适戒指戒及花半开待核，反强灌。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 417,
+          "status": "read",
+          "note": "陆文夫苏州酒客为地方叙事，温酒除甲醇不采用，研究感官描写。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 418,
+          "status": "read",
+          "note": "河窗船雪黄昏呈空间气氛，酒吧批评为观点，北岛篇起。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 419,
+          "status": "read",
+          "note": "北岛酒神日神为阐释，露宿酒取暖不推广，童年饮酒是旧事。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 420,
+          "status": "read",
+          "note": "唱歌挥发酒精缺证，强劝为叙事，螃蟹令可改无酒互动。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 421,
+          "status": "read",
+          "note": "酒厂工人与南北欧酒习非群体事实，旧挪威政策非现行规则。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 422,
+          "status": "read",
+          "note": "北岛朋友酒杯气息可研究，光照性格为比喻，不以酒衡友谊。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 423,
+          "status": "read",
+          "note": "半醉驾车不采用，酒价为旧见闻，唐鲁孙篇分两类竹叶青。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 424,
+          "status": "read",
+          "note": "绍酒盲品定价为回忆，陈年皆优隔夜必酸不泛化，贡膏待核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 425,
+          "status": "read",
+          "note": "酒膏醉数日、腿拧酒量为奇谈，研究描写不传神奇酒量。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 426,
+          "status": "read",
+          "note": "茅台盐商起源回沙工艺巴拿马奖待核，不上头非功效卡。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 427,
+          "status": "read",
+          "note": "赖茅次品说须核品牌史，汾酒不上头绿茵陈疗效不采用。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 428,
+          "status": "read",
+          "note": "莲花白郑公悫时代宝竹坡起源待核，冬酒保暖不推广。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 429,
+          "status": "read",
+          "note": "宋瓷自动斟酒为器物逸闻，瓷州疑磁州待核，不解原理非确证。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 430,
+          "status": "read",
+          "note": "元至顺酒桥起源待核，老舍酒友篇起，写作周年与两部赠书。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 431,
+          "status": "read",
+          "note": "台静农青岛识老舍，天气衣着牵女散步酒味写朋友，用户往事不编。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 432,
+          "status": "read",
+          "note": "台静农战争探友酒后论字写变化情谊，署作者，不以病中饮酒作榜样。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 433,
+          "status": "read",
+          "note": "英雄章混史诗书画传说，文学形象不证明饮酒造就艺术。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 434,
+          "status": "read",
+          "note": "曹丕诏群医、葡萄与孔子百觚待核，葛藟非葡萄种植证据。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 435,
+          "status": "read",
+          "note": "孔子三不乱为编者解释非安全线，刘邦撕账与仍欠酒债矛盾。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 436,
+          "status": "read",
+          "note": "刘伶酒德颂死便埋我分文献与解释，古今辞典明誓来源待核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 437,
+          "status": "read",
+          "note": "刘伶任诞与机锋是旧故事，不照搬；白居易酒诗篇起。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 438,
+          "status": "read",
+          "note": "白居易西湖以景入情，长诗创作醉白楼诗句归属待核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 439,
+          "status": "read",
+          "note": "醉翁亭山水百姓之乐可候选，欧阳修贬官年份对话须核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 440,
+          "status": "read",
+          "note": "六一居士器物与李白八仙形象分开，戏联不佐证酒促创作。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 441,
+          "status": "read",
+          "note": "李白骑驴县衙为传说，三百杯和夷平山洲为诗歌夸张。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 442,
+          "status": "read",
+          "note": "李白兼豪兴孤愤，哭纪叟为悼亡，死因八仙交往不据此定论。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 443,
+          "status": "read",
+          "note": "杜李共游典衣酒债需诗境，不把懒朝简单解旷工。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 444,
+          "status": "read",
+          "note": "杜甫落马与死因留争议，不以嗜酒性格裁定历史。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 445,
+          "status": "read",
+          "note": "陶渊明种秫解印归园饮酒序须核，田亩数字不直接套。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 446,
+          "status": "read",
+          "note": "陶潜寄怀不排斥闲适，石盒酒香为传说，苏轼豁达不推寿命因果。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 447,
+          "status": "read",
+          "note": "苏轼量小喜客举杯可候选，东皋题名补血升仙故事待核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 448,
+          "status": "read",
+          "note": "苏轼酿酒持杯劝月可研意象，李清照如梦令年龄不由词推定。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 449,
+          "status": "read",
+          "note": "李清照词与婚姻因果是解释，不据诗诊断依赖，卒年院落须核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 450,
+          "status": "read",
+          "note": "辛弃疾问松树有拟人转折，两首戒酒词不证戒酒是假的。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 451,
+          "status": "read",
+          "note": "刘过羊羹即席诗陈亮鹅湖会须核时间原作，学习现场取材。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 452,
+          "status": "read",
+          "note": "许世友少林禁酒例外战役为逸闻，不以酒量解释功业。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 453,
+          "status": "read",
+          "note": "弥留饮酒站立待核非疗效，叶圣陶慢饮不应受劝促。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 454,
+          "status": "read",
+          "note": "叶圣陶日记开明酒会须原始记述，饮量不作社交门槛。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 455,
+          "status": "read",
+          "note": "海棠小聚家人交流有生活温度，一生两醉长寿因酒不直接认可。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 456,
+          "status": "read",
+          "note": "陶行知守规则自省待核，强劝不效仿，乔冠华执笔饮酒篇起。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 457,
+          "status": "read",
+          "note": "乔冠华外交事故末次饮酒为待核史述，不宣传饮酒不误事。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 458,
+          "status": "read",
+          "note": "华盛顿产业继承淡啤册大选须核，格鲁吉亚风格疑乔治亚式误译。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 459,
+          "status": "read",
+          "note": "丘吉尔斯大林回信、叶利钦失态分记述推测解释，非确证引言。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 460,
+          "status": "read",
+          "note": "叶利钦博物馆夸酒有预期反差，赠酒数字待核；周恩来、徐邈圣人、金奖国宴与药效须分核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 461,
+          "status": "read",
+          "note": "周恩来尼克松田中访问先后须核，治百病不上头不入功效卡。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 462,
+          "status": "read",
+          "note": "茅台汾酒河流先后不证起源；狄兰托马斯、海明威、菲茨杰拉德故事与死因待核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 463,
+          "status": "read",
+          "note": "外国作家暴力、婚姻、死亡不无核传播，不将饮酒作为所有遭遇单一原因。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 464,
+          "status": "read",
+          "note": "典故章鲁酒薄邯郸围辨寓言史实，折冲樽俎为外交语境，不泛用普通饭局。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 465,
+          "status": "read",
+          "note": "晏婴识礼与白衣送酒核来源，可研雪中送炭，不虚构赠酒。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 466,
+          "status": "read",
+          "note": "金龟换酒识才知遇但诗有悼亡，违法动机与髡词源须核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 467,
+          "status": "read",
+          "note": "淳于髡一斗一石由场景到讽谏可学层递，不换算安全酒量。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 468,
+          "status": "read",
+          "note": "醉斩白蛇为神异叙事，酒壮胆非历史因果，高阳酒徒篇起。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 469,
+          "status": "read",
+          "note": "高阳酒徒遭烹杀非欢乐标签，大风歌有荣归乡情忧思。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 470,
+          "status": "read",
+          "note": "醉打金枝以殴妻获幸福的评价不采用，戏史与现代分寸分开。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 471,
+          "status": "read",
+          "note": "贵妃醉酒为戏剧，改编史须核；刘伶任诞、新亭家国忧思分语境。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 472,
+          "status": "read",
+          "note": "新亭与杯酒释兵权需史料，宋亡归一场酒局过度简化。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 473,
+          "status": "read",
+          "note": "千叟宴五十年一办141岁对联须核，江东群英会为小说。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 474,
+          "status": "read",
+          "note": "蒋干盗书周瑜装醉按三国演义讲，不当外交史实识人规范。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 475,
+          "status": "read",
+          "note": "青梅煮酒原书明示小说，政治试探不默认普通友好饭局。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 476,
+          "status": "read",
+          "note": "小说英雄对话与史记鸿门宴分来源，三起三落可研叙事。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 477,
+          "status": "read",
+          "note": "鸿门三落与八仙想象分证据，原书承认无八仙齐聚史载。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 478,
+          "status": "read",
+          "note": "八仙诗拟用逐字核，水形火性艾青引句须核，劝乱分评论。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 479,
+          "status": "read",
+          "note": "亡国不归单因酒，李后主词作时间在位年数须核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 480,
+          "status": "read",
+          "note": "齐桓公列战国却与管仲同段，辽穆宗北齐故事需史料核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 481,
+          "status": "read",
+          "note": "古方与陶渊明五子智力断言不入推荐，诗不证明医学因果。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 482,
+          "status": "read",
+          "note": "十一忌药物与生理解释为旧书阅读，不转医疗建议。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 483,
+          "status": "read",
+          "note": "温酒除甲醇电视射线红酒护心未经当前核验不采用。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 484,
+          "status": "read",
+          "note": "允许量与威士忌换算矛盾不用，醉字酉卒释亡待核。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 485,
+          "status": "read",
+          "note": "血醇分级泥虫字源需核，葡萄柚子酸奶芹菜解酒不发布。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 486,
+          "status": "read",
+          "note": "香蕉胸闷蜂蜜果糖西红柿汁不据书作急症处理，不接入食疗。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 487,
+          "status": "read",
+          "note": "中药解酒方剂剂量为旧材料，不做服药推荐工具。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 488,
+          "status": "read",
+          "note": "桑葚芦根乌梅药方不转健康卡，文化药酒史与治疗分开。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 489,
+          "status": "read",
+          "note": "各国解酒为概括传闻，不推广以酒解酒、海水醒酒。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 490,
+          "status": "read",
+          "note": "牛排羊眼按掌等民俗非科学指导，正文结束书内476页。",
+          "proofread": false
+        },
+        {
+          "pdfPage": 491,
+          "status": "read",
+          "note": "数字化元数据页数1000非实际491页，未新增正文。",
+          "proofread": false
         }
       ],
       "authors": [
