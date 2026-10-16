@@ -9,3 +9,5 @@ coverage/
 tmp/
 local-corpus/
 *.pdf
+__pycache__/
+*.pyc
