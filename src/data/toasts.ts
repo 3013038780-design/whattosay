@@ -67,3 +67,8 @@ toasts.push(
 for(const [oldId,newId,target] of [['family-01','family-elder-01','elder'],['thanks-02','thanks-host-01','host']] as const){const old=toasts.find(t=>t.id===oldId)!;old.active=false;toasts.push({...old,id:newId,target,active:true});}
 toasts.find(t=>t.id==='family-verse-01')!.target='elder';
 toasts.find(t=>t.id==='thanks-verse-02')!.target='host';
+
+// Preserve the original version for shared links while correcting a misleading phrase.
+const gatheringV1=toasts.find(t=>t.id==='general-verse-02'&&t.version===1)!;
+gatheringV1.active=false;
+toasts.push({...gatheringV1,version:2,active:true,full:'“有朋自远方来，不亦乐乎？”相聚不论远近，心意贵在真诚。今天借这一杯，敬此刻同席，也祝往后常聚；愿各位行有所成，归有所安。'});
