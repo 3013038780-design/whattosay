@@ -1,0 +1,1140 @@
+{
+  "schemaVersion": 1,
+  "definition": "逐页文字已在对话中完整呈现并阅读；不等同于逐字校对或史实核实。空白/封面同样登记。",
+  "books": {
+    "B05": {
+      "title": "一杯酒醉尽盛唐：唐诗里的落寞与风流",
+      "totalPages": 188,
+      "pages": [
+        {
+          "pdfPage": 1,
+          "status": "read",
+          "note": "封面出版标识",
+          "proofread": false
+        },
+        {
+          "pdfPage": 2,
+          "status": "read",
+          "note": "空白页",
+          "proofread": false
+        },
+        {
+          "pdfPage": 3,
+          "status": "read",
+          "note": "出版标识页",
+          "proofread": false
+        },
+        {
+          "pdfPage": 4,
+          "status": "read",
+          "note": "书名与编著信息",
+          "proofread": false
+        },
+        {
+          "pdfPage": 5,
+          "status": "read",
+          "note": "序：风流与落寞并存，不能只抽欢饮字面",
+          "proofread": false
+        },
+        {
+          "pdfPage": 6,
+          "status": "read",
+          "note": "序：爱情、隐逸、离别各有情绪",
+          "proofread": false
+        },
+        {
+          "pdfPage": 7,
+          "status": "read",
+          "note": "目录：豪迈与爱情",
+          "proofread": false
+        },
+        {
+          "pdfPage": 8,
+          "status": "read",
+          "note": "目录：归隐、茶与秋意",
+          "proofread": false
+        },
+        {
+          "pdfPage": 9,
+          "status": "read",
+          "note": "目录：女性与相思",
+          "proofread": false
+        },
+        {
+          "pdfPage": 10,
+          "status": "read",
+          "note": "目录：离别、凭吊与忧愁",
+          "proofread": false
+        },
+        {
+          "pdfPage": 11,
+          "status": "read",
+          "note": "目录：乡愁及附录",
+          "proofread": false
+        },
+        {
+          "pdfPage": 12,
+          "status": "read",
+          "note": "饮中八仙歌：夸张群像，不能作饮量指导",
+          "proofread": false
+        },
+        {
+          "pdfPage": 13,
+          "status": "read",
+          "note": "八仙个性与酒兴，作者叙述须与史实区分",
+          "proofread": false
+        },
+        {
+          "pdfPage": 14,
+          "status": "read",
+          "note": "将进酒：悲愤中的自信与长短句节奏",
+          "proofread": false
+        },
+        {
+          "pdfPage": 15,
+          "status": "read",
+          "note": "豪侠与送征，宜保留壮志主题",
+          "proofread": false
+        },
+        {
+          "pdfPage": 16,
+          "status": "read",
+          "note": "送郑少府：边塞典故需理解指向",
+          "proofread": false
+        },
+        {
+          "pdfPage": 17,
+          "status": "read",
+          "note": "少年行与从军行，诗中角色不等于诗人经历",
+          "proofread": false
+        },
+        {
+          "pdfPage": 18,
+          "status": "read",
+          "note": "从军行：夸张、战场烘托，不宜普通祝寿",
+          "proofread": false
+        },
+        {
+          "pdfPage": 19,
+          "status": "read",
+          "note": "凉州词与边塞情绪，欢饮背后含生死",
+          "proofread": false
+        },
+        {
+          "pdfPage": 20,
+          "status": "read",
+          "note": "走马川行：苦寒景象反衬豪情",
+          "proofread": false
+        },
+        {
+          "pdfPage": 21,
+          "status": "read",
+          "note": "从军行其四：艰难与决心相连",
+          "proofread": false
+        },
+        {
+          "pdfPage": 22,
+          "status": "read",
+          "note": "行路难：仕途受挫与前路信心",
+          "proofread": false
+        },
+        {
+          "pdfPage": 23,
+          "status": "read",
+          "note": "姜尚伊尹典故：赏识主题不宜借机抱怨领导",
+          "proofread": false
+        },
+        {
+          "pdfPage": 24,
+          "status": "read",
+          "note": "望岳：青年志气，登顶描写与愿望需区分",
+          "proofread": false
+        },
+        {
+          "pdfPage": 25,
+          "status": "read",
+          "note": "长干行：青梅竹马须有真实关系基础",
+          "proofread": false
+        },
+        {
+          "pdfPage": 26,
+          "status": "read",
+          "note": "长干行：婚后相思与远行担忧",
+          "proofread": false
+        },
+        {
+          "pdfPage": 27,
+          "status": "read",
+          "note": "李商隐荷花故事标为传闻候核",
+          "proofread": false
+        },
+        {
+          "pdfPage": 28,
+          "status": "read",
+          "note": "春游曲：女性主体与春景，避免外貌物化",
+          "proofread": false
+        },
+        {
+          "pdfPage": 29,
+          "status": "read",
+          "note": "长孙皇后叙述含戏剧化情节，不直接发布",
+          "proofread": false
+        },
+        {
+          "pdfPage": 30,
+          "status": "read",
+          "note": "徐惠进太宗：熟悉关系中的嗔趣不能用于领导局",
+          "proofread": false
+        },
+        {
+          "pdfPage": 31,
+          "status": "read",
+          "note": "相思怨：相思之苦，不宜初见祝福",
+          "proofread": false
+        },
+        {
+          "pdfPage": 32,
+          "status": "read",
+          "note": "新嫁娘：体察对方习惯，旧礼俗不作现代强制",
+          "proofread": false
+        },
+        {
+          "pdfPage": 33,
+          "status": "read",
+          "note": "节妇吟：表面爱情与政治寄托分层",
+          "proofread": false
+        },
+        {
+          "pdfPage": 34,
+          "status": "read",
+          "note": "题都城南庄：初遇与失落，不能只取桃花吉利",
+          "proofread": false
+        },
+        {
+          "pdfPage": 35,
+          "status": "read",
+          "note": "崔护复生故事属文学传说",
+          "proofread": false
+        },
+        {
+          "pdfPage": 36,
+          "status": "read",
+          "note": "长干曲：初识问乡，亲切交流有分寸",
+          "proofread": false
+        },
+        {
+          "pdfPage": 37,
+          "status": "read",
+          "note": "离思：悼亡背景，不作初次约会套话",
+          "proofread": false
+        },
+        {
+          "pdfPage": 38,
+          "status": "read",
+          "note": "离思：比喻浓烈，警惕关系过度",
+          "proofread": false
+        },
+        {
+          "pdfPage": 39,
+          "status": "read",
+          "note": "锦瑟：解释多义，不强定唯一情事",
+          "proofread": false
+        },
+        {
+          "pdfPage": 40,
+          "status": "read",
+          "note": "含蓄爱情与生活情书，区分热恋与日常",
+          "proofread": false
+        },
+        {
+          "pdfPage": 41,
+          "status": "read",
+          "note": "夜雨寄北：寄友寄内有争议，暂不定论",
+          "proofread": false
+        },
+        {
+          "pdfPage": 42,
+          "status": "read",
+          "note": "赠内子：共苦互慰，贫困典故需尊重",
+          "proofread": false
+        },
+        {
+          "pdfPage": 43,
+          "status": "read",
+          "note": "赠内：自嘲与酒后歉意，现代场合慎用",
+          "proofread": false
+        },
+        {
+          "pdfPage": 44,
+          "status": "read",
+          "note": "寻花：明快春景可作时令素材",
+          "proofread": false
+        },
+        {
+          "pdfPage": 45,
+          "status": "read",
+          "note": "对仗叠字与动静结合，朗读节奏可借鉴",
+          "proofread": false
+        },
+        {
+          "pdfPage": 46,
+          "status": "read",
+          "note": "渭川田家：归家与归隐，不编造用户处境",
+          "proofread": false
+        },
+        {
+          "pdfPage": 47,
+          "status": "read",
+          "note": "江雪：清冷孤傲，不作热闹聚会首选",
+          "proofread": false
+        },
+        {
+          "pdfPage": 48,
+          "status": "read",
+          "note": "渔翁：声色变化与自处情怀",
+          "proofread": false
+        },
+        {
+          "pdfPage": 49,
+          "status": "read",
+          "note": "江雪藏头属于解读，不包装为作者意图",
+          "proofread": false
+        },
+        {
+          "pdfPage": 50,
+          "status": "read",
+          "note": "山居秋暝：山水意境与清雅风格",
+          "proofread": false
+        },
+        {
+          "pdfPage": 51,
+          "status": "read",
+          "note": "中隐：朝市丘樊之辨，避免强作处世定律",
+          "proofread": false
+        },
+        {
+          "pdfPage": 52,
+          "status": "read",
+          "note": "终南捷径与入京：人物动机是作者解释",
+          "proofread": false
+        },
+        {
+          "pdfPage": 53,
+          "status": "read",
+          "note": "南陵入京：昂扬自信，不宜自抬身份",
+          "proofread": false
+        },
+        {
+          "pdfPage": 54,
+          "status": "read",
+          "note": "留别王维：不遇与惜友，不能泛作庆功",
+          "proofread": false
+        },
+        {
+          "pdfPage": 55,
+          "status": "read",
+          "note": "邻里相聚：归隐与乡情，跨朝人物勿混为同代",
+          "proofread": false
+        },
+        {
+          "pdfPage": 56,
+          "status": "read",
+          "note": "过故人庄与客至：友情与主人待客身份",
+          "proofread": false
+        },
+        {
+          "pdfPage": 57,
+          "status": "read",
+          "note": "客至：自谦待客，宜主人而非普通来宾",
+          "proofread": false
+        },
+        {
+          "pdfPage": 58,
+          "status": "read",
+          "note": "皎然饮茶歌：茶也能承载文化表达",
+          "proofread": false
+        },
+        {
+          "pdfPage": 59,
+          "status": "read",
+          "note": "皎然陆羽友情与茶道，起源断言需核实",
+          "proofread": false
+        },
+        {
+          "pdfPage": 60,
+          "status": "read",
+          "note": "重阳茶聚：茶友知己与重逢主题",
+          "proofread": false
+        },
+        {
+          "pdfPage": 61,
+          "status": "read",
+          "note": "鹿柴：听觉与视觉层次，原诗和解释异字需校对",
+          "proofread": false
+        },
+        {
+          "pdfPage": 62,
+          "status": "read",
+          "note": "山居秋暝：秋景清朗，适合清雅时令研究",
+          "proofread": false
+        },
+        {
+          "pdfPage": 63,
+          "status": "read",
+          "note": "诗画与慢生活，不能泛化所有唐人生活",
+          "proofread": false
+        },
+        {
+          "pdfPage": 64,
+          "status": "read",
+          "note": "秋词：反悲秋的积极精神，适合秋日励志",
+          "proofread": false
+        },
+        {
+          "pdfPage": 65,
+          "status": "read",
+          "note": "宣州谢朓楼：豪兴与愁苦同在，作者无愁结论应复核",
+          "proofread": false
+        },
+        {
+          "pdfPage": 66,
+          "status": "read",
+          "note": "山行：霜叶与收获，适合秋意表达",
+          "proofread": false
+        },
+        {
+          "pdfPage": 67,
+          "status": "read",
+          "note": "鸟鸣涧：闲静心境与动静相衬",
+          "proofread": false
+        },
+        {
+          "pdfPage": 68,
+          "status": "read",
+          "note": "山中引诗后转述芙蓉，疑似不同诗作混置",
+          "proofread": false
+        },
+        {
+          "pdfPage": 69,
+          "status": "read",
+          "note": "王维苏轼比较属作者阐释，勿当同一种经历",
+          "proofread": false
+        },
+        {
+          "pdfPage": 70,
+          "status": "read",
+          "note": "竹枝词：借险水比人心，不用于友善初识",
+          "proofread": false
+        },
+        {
+          "pdfPage": 71,
+          "status": "read",
+          "note": "八至：至亲至疏的反差，不宜婚宴祝福",
+          "proofread": false
+        },
+        {
+          "pdfPage": 72,
+          "status": "read",
+          "note": "八至：层层铺垫到夫妻关系，修辞与结论分开",
+          "proofread": false
+        },
+        {
+          "pdfPage": 73,
+          "status": "read",
+          "note": "章节收束，劝内心节制",
+          "proofread": false
+        },
+        {
+          "pdfPage": 74,
+          "status": "read",
+          "note": "白居易诗歌传播与葛清故事，事实待核",
+          "proofread": false
+        },
+        {
+          "pdfPage": 75,
+          "status": "read",
+          "note": "旗亭画壁：故事讲述与真实史料分层",
+          "proofread": false
+        },
+        {
+          "pdfPage": 76,
+          "status": "read",
+          "note": "画壁三诗：送别与悼亡内容不可混为欢庆",
+          "proofread": false
+        },
+        {
+          "pdfPage": 77,
+          "status": "read",
+          "note": "画壁结局与杜牧赠别，人物称谓需适配",
+          "proofread": false
+        },
+        {
+          "pdfPage": 78,
+          "status": "read",
+          "note": "赠别：花喻与烛泪，离情不宜相亲初见",
+          "proofread": false
+        },
+        {
+          "pdfPage": 79,
+          "status": "read",
+          "note": "叹花：寓意与人物逸闻分离",
+          "proofread": false
+        },
+        {
+          "pdfPage": 80,
+          "status": "read",
+          "note": "打油诗：期待与反差构成幽默",
+          "proofread": false
+        },
+        {
+          "pdfPage": 81,
+          "status": "read",
+          "note": "张打油咏雪：通俗而有构思，起源故事待核",
+          "proofread": false
+        },
+        {
+          "pdfPage": 82,
+          "status": "read",
+          "note": "南阳打油诗：反差结尾，传说不当史实",
+          "proofread": false
+        },
+        {
+          "pdfPage": 83,
+          "status": "read",
+          "note": "打油诗章节结语",
+          "proofread": false
+        },
+        {
+          "pdfPage": 84,
+          "status": "read",
+          "note": "如意娘：思念与失宠，不宜祝福正文",
+          "proofread": false
+        },
+        {
+          "pdfPage": 85,
+          "status": "read",
+          "note": "徐惠武媚娘对话标作传闻，不拿来作史实",
+          "proofread": false
+        },
+        {
+          "pdfPage": 86,
+          "status": "read",
+          "note": "腊日宣诏：帝王命令口吻不宜普通敬酒",
+          "proofread": false
+        },
+        {
+          "pdfPage": 87,
+          "status": "read",
+          "note": "玉真公主：出家与宫廷叙事，具体事实待核",
+          "proofread": false
+        },
+        {
+          "pdfPage": 88,
+          "status": "read",
+          "note": "玉真仙人词：夸张赞颂不宜直接比拟领导",
+          "proofread": false
+        },
+        {
+          "pdfPage": 89,
+          "status": "read",
+          "note": "敬亭山：爱情说与前辈影响说并列，勿定唯一原意",
+          "proofread": false
+        },
+        {
+          "pdfPage": 90,
+          "status": "read",
+          "note": "清平调：花人交映，宫廷赞美背景需讲清",
+          "proofread": false
+        },
+        {
+          "pdfPage": 91,
+          "status": "read",
+          "note": "荔枝与华清宫：讽喻背景，不作庆功开场",
+          "proofread": false
+        },
+        {
+          "pdfPage": 92,
+          "status": "read",
+          "note": "贵妃命运与责任议论是作者观点",
+          "proofread": false
+        },
+        {
+          "pdfPage": 93,
+          "status": "read",
+          "note": "金缕衣：惜时主题，作者归属需核验",
+          "proofread": false
+        },
+        {
+          "pdfPage": 94,
+          "status": "read",
+          "note": "杜秋娘宫廷故事：戏剧化引语和诗作均待核",
+          "proofread": false
+        },
+        {
+          "pdfPage": 95,
+          "status": "read",
+          "note": "杜秋娘人生解读，不作一般女性处境定论",
+          "proofread": false
+        },
+        {
+          "pdfPage": 96,
+          "status": "read",
+          "note": "薛涛与巫山庙：个人传记依据待核",
+          "proofread": false
+        },
+        {
+          "pdfPage": 97,
+          "status": "read",
+          "note": "薛涛笺与韦皋叙事，不复制物化视角",
+          "proofread": false
+        },
+        {
+          "pdfPage": 98,
+          "status": "read",
+          "note": "孔雀故事年代与人物存疑，需对读史料",
+          "proofread": false
+        },
+        {
+          "pdfPage": 99,
+          "status": "read",
+          "note": "薛涛结论含性别泛化，不转化为推荐原则",
+          "proofread": false
+        },
+        {
+          "pdfPage": 100,
+          "status": "read",
+          "note": "上阳白发人：被禁锢的生命，与庆祝相反",
+          "proofread": false
+        },
+        {
+          "pdfPage": 101,
+          "status": "read",
+          "note": "上阳人：对白、倒叙与乐哀反衬",
+          "proofread": false
+        },
+        {
+          "pdfPage": 102,
+          "status": "read",
+          "note": "行宫：花红与人老的反差，适合作情绪背景",
+          "proofread": false
+        },
+        {
+          "pdfPage": 103,
+          "status": "read",
+          "note": "梅妃故事需标传说，谢赐珍珠归属待核",
+          "proofread": false
+        },
+        {
+          "pdfPage": 104,
+          "status": "read",
+          "note": "望夫山：重叠强化思念，不宜初识承诺",
+          "proofread": false
+        },
+        {
+          "pdfPage": 105,
+          "status": "read",
+          "note": "相思：友谊与爱情双重用法，关系决定推荐",
+          "proofread": false
+        },
+        {
+          "pdfPage": 106,
+          "status": "read",
+          "note": "丝思谐音与秋风词，相思程度要匹配",
+          "proofread": false
+        },
+        {
+          "pdfPage": 107,
+          "status": "read",
+          "note": "竹窗闻风：故人将至的期待，霍小玉关联待核",
+          "proofread": false
+        },
+        {
+          "pdfPage": 108,
+          "status": "read",
+          "note": "霍小玉与李益：传奇叙事，不等于人物实录",
+          "proofread": false
+        },
+        {
+          "pdfPage": 109,
+          "status": "read",
+          "note": "写情：情事归属推断，避免过度确定",
+          "proofread": false
+        },
+        {
+          "pdfPage": 110,
+          "status": "read",
+          "note": "陇西行：征人思妇悲剧，不作吉庆语料",
+          "proofread": false
+        },
+        {
+          "pdfPage": 111,
+          "status": "read",
+          "note": "逢病军人：战争苦难，背景阅读",
+          "proofread": false
+        },
+        {
+          "pdfPage": 112,
+          "status": "read",
+          "note": "春怨与寄夫：细节承载牵挂，顶针可研究",
+          "proofread": false
+        },
+        {
+          "pdfPage": 113,
+          "status": "read",
+          "note": "寄夫：问衣报暖，朴素情意也有文化深度",
+          "proofread": false
+        },
+        {
+          "pdfPage": 114,
+          "status": "read",
+          "note": "闺怨：从不愁到悔，春景不全是喜情",
+          "proofread": false
+        },
+        {
+          "pdfPage": 115,
+          "status": "read",
+          "note": "柳留与折柳：离别意象需查原始依据",
+          "proofread": false
+        },
+        {
+          "pdfPage": 116,
+          "status": "read",
+          "note": "青楼曲：军功与闺情，青楼古义需区别",
+          "proofread": false
+        },
+        {
+          "pdfPage": 117,
+          "status": "read",
+          "note": "章节收束，守候与思念",
+          "proofread": false
+        },
+        {
+          "pdfPage": 118,
+          "status": "read",
+          "note": "淮上喜会：旧情与流年，重逢适用",
+          "proofread": false
+        },
+        {
+          "pdfPage": 119,
+          "status": "read",
+          "note": "故人重会与外弟相逢，勿虚构十年时间",
+          "proofread": false
+        },
+        {
+          "pdfPage": 120,
+          "status": "read",
+          "note": "问姓称名：叙事细节与再别，关系基础重要",
+          "proofread": false
+        },
+        {
+          "pdfPage": 121,
+          "status": "read",
+          "note": "长恨歌：爱情与政治双重主题",
+          "proofread": false
+        },
+        {
+          "pdfPage": 122,
+          "status": "read",
+          "note": "长恨歌：誓愿与悲剧并存，取句需明原意",
+          "proofread": false
+        },
+        {
+          "pdfPage": 123,
+          "status": "read",
+          "note": "比翼连理：婚恋祝愿可研究，勿引用悲剧结尾",
+          "proofread": false
+        },
+        {
+          "pdfPage": 124,
+          "status": "read",
+          "note": "白雪歌：武判官题名与正文封常清不一致，待核",
+          "proofread": false
+        },
+        {
+          "pdfPage": 125,
+          "status": "read",
+          "note": "别董大：开朗劝勉，适合饯别鼓励",
+          "proofread": false
+        },
+        {
+          "pdfPage": 126,
+          "status": "read",
+          "note": "离别可豪迈，不必每条苦情",
+          "proofread": false
+        },
+        {
+          "pdfPage": 127,
+          "status": "read",
+          "note": "金陵酒肆留别：友人饯行与酒香场景",
+          "proofread": false
+        },
+        {
+          "pdfPage": 128,
+          "status": "read",
+          "note": "谢亭与赠汪伦：送别情深，不能编造对方送行",
+          "proofread": false
+        },
+        {
+          "pdfPage": 129,
+          "status": "read",
+          "note": "送别章节收束",
+          "proofread": false
+        },
+        {
+          "pdfPage": 130,
+          "status": "read",
+          "note": "蜀相：凭吊忠心，勿用身先死祝贺",
+          "proofread": false
+        },
+        {
+          "pdfPage": 131,
+          "status": "read",
+          "note": "诸葛生平与昭君故事，史与传说分层",
+          "proofread": false
+        },
+        {
+          "pdfPage": 132,
+          "status": "read",
+          "note": "咏怀古迹：地景与身世，不作一般迎宾",
+          "proofread": false
+        },
+        {
+          "pdfPage": 133,
+          "status": "read",
+          "note": "昭君怨恨与杜甫寄托，作者解读非唯一",
+          "proofread": false
+        },
+        {
+          "pdfPage": 134,
+          "status": "read",
+          "note": "石头城：自然常在与故国寂寞",
+          "proofread": false
+        },
+        {
+          "pdfPage": 135,
+          "status": "read",
+          "note": "泊秦淮：酒家背景含亡国讽喻",
+          "proofread": false
+        },
+        {
+          "pdfPage": 136,
+          "status": "read",
+          "note": "后庭花：讽刺对象和典故不可错置",
+          "proofread": false
+        },
+        {
+          "pdfPage": 137,
+          "status": "read",
+          "note": "凤凰台：回环与今昔对照，不宜失意暗示领导",
+          "proofread": false
+        },
+        {
+          "pdfPage": 138,
+          "status": "read",
+          "note": "太白峰：仙境意象与政治阐释分开",
+          "proofread": false
+        },
+        {
+          "pdfPage": 139,
+          "status": "read",
+          "note": "登台与孤独：情绪层次需标注",
+          "proofread": false
+        },
+        {
+          "pdfPage": 140,
+          "status": "read",
+          "note": "登幽州台：不遇之叹，不适合庆功",
+          "proofread": false
+        },
+        {
+          "pdfPage": 141,
+          "status": "read",
+          "note": "上阳宫：宫苑华美不意味着诗歌只为歌颂",
+          "proofread": false
+        },
+        {
+          "pdfPage": 142,
+          "status": "read",
+          "note": "乌衣巷：燕子与盛衰，怀古非乔迁吉语",
+          "proofread": false
+        },
+        {
+          "pdfPage": 143,
+          "status": "read",
+          "note": "乌衣巷：旧与今的对照，含蓄表达范例",
+          "proofread": false
+        },
+        {
+          "pdfPage": 144,
+          "status": "read",
+          "note": "乐游原：夕阳解读有分歧，勿定单一",
+          "proofread": false
+        },
+        {
+          "pdfPage": 145,
+          "status": "read",
+          "note": "黄鹤楼：日暮乡愁与怀古",
+          "proofread": false
+        },
+        {
+          "pdfPage": 146,
+          "status": "read",
+          "note": "暮江吟：景色明快，音韵入声解释有疑点",
+          "proofread": false
+        },
+        {
+          "pdfPage": 147,
+          "status": "read",
+          "note": "暮江吟与九日蓝田：惜时和悲秋须区分",
+          "proofread": false
+        },
+        {
+          "pdfPage": 148,
+          "status": "read",
+          "note": "孟嘉落帽：典故、诗人自况与哀老，祝寿慎用",
+          "proofread": false
+        },
+        {
+          "pdfPage": 149,
+          "status": "read",
+          "note": "关河道中：时光与曲折，出处需逐句核",
+          "proofread": false
+        },
+        {
+          "pdfPage": 150,
+          "status": "read",
+          "note": "橡媪叹：社会苦难，不作丰收颂词",
+          "proofread": false
+        },
+        {
+          "pdfPage": 151,
+          "status": "read",
+          "note": "卖炭翁：反衬与同情，勿截取天寒做祝福",
+          "proofread": false
+        },
+        {
+          "pdfPage": 152,
+          "status": "read",
+          "note": "卖炭翁：心理与叙事的情感力量",
+          "proofread": false
+        },
+        {
+          "pdfPage": 153,
+          "status": "read",
+          "note": "罗隐云英：不遇与自嘲，初见关系不适用",
+          "proofread": false
+        },
+        {
+          "pdfPage": 154,
+          "status": "read",
+          "note": "云英：掌上舞典故不作身体评价",
+          "proofread": false
+        },
+        {
+          "pdfPage": 155,
+          "status": "read",
+          "note": "遣怀：十年扬州梦含悔意，勿当游乐赞词",
+          "proofread": false
+        },
+        {
+          "pdfPage": 156,
+          "status": "read",
+          "note": "章节结语，不遇的时代区别为作者概括",
+          "proofread": false
+        },
+        {
+          "pdfPage": 157,
+          "status": "read",
+          "note": "宜芳公主：和亲哀愁，不作婚宴素材",
+          "proofread": false
+        },
+        {
+          "pdfPage": 158,
+          "status": "read",
+          "note": "宜芳身世与遇害：年代细节待核",
+          "proofread": false
+        },
+        {
+          "pdfPage": 159,
+          "status": "read",
+          "note": "落花：以物自况，惜春含怨",
+          "proofread": false
+        },
+        {
+          "pdfPage": 160,
+          "status": "read",
+          "note": "落花：参差迢递与芳心，勿割裂前后",
+          "proofread": false
+        },
+        {
+          "pdfPage": 161,
+          "status": "read",
+          "note": "严恽杜牧唱和：花开并非尽是吉祥",
+          "proofread": false
+        },
+        {
+          "pdfPage": 162,
+          "status": "read",
+          "note": "春江花月夜：景、哲理与相思统一",
+          "proofread": false
+        },
+        {
+          "pdfPage": 163,
+          "status": "read",
+          "note": "江月人生：代际延续，整诗情绪不单一",
+          "proofread": false
+        },
+        {
+          "pdfPage": 164,
+          "status": "read",
+          "note": "李煜与子夜吴歌：清冷与家国牵挂",
+          "proofread": false
+        },
+        {
+          "pdfPage": 165,
+          "status": "read",
+          "note": "子夜吴歌：捣衣之声与征人思念",
+          "proofread": false
+        },
+        {
+          "pdfPage": 166,
+          "status": "read",
+          "note": "兵车行：反战争视角，战事不可作喜庆典故",
+          "proofread": false
+        },
+        {
+          "pdfPage": 167,
+          "status": "read",
+          "note": "己亥岁：功名背后苦难，绝不作庆功金句",
+          "proofread": false
+        },
+        {
+          "pdfPage": 168,
+          "status": "read",
+          "note": "一将功成：一万对比的批判意义",
+          "proofread": false
+        },
+        {
+          "pdfPage": 169,
+          "status": "read",
+          "note": "杂诗故乡：寒梅承载乡情，适合乡友主题研究",
+          "proofread": false
+        },
+        {
+          "pdfPage": 170,
+          "status": "read",
+          "note": "九月九日：重阳与游子，不默认全桌离乡",
+          "proofread": false
+        },
+        {
+          "pdfPage": 171,
+          "status": "read",
+          "note": "重阳传说与茱萸：节俗与神异分开",
+          "proofread": false
+        },
+        {
+          "pdfPage": 172,
+          "status": "read",
+          "note": "秋思：临发开封表达细微牵挂",
+          "proofread": false
+        },
+        {
+          "pdfPage": 173,
+          "status": "read",
+          "note": "逢入京使：简短报平安有深意",
+          "proofread": false
+        },
+        {
+          "pdfPage": 174,
+          "status": "read",
+          "note": "顾家与报国不简单对立，作者观点不套人",
+          "proofread": false
+        },
+        {
+          "pdfPage": 175,
+          "status": "read",
+          "note": "春夜闻笛：归雁与迁客，地名解释有疑点",
+          "proofread": false
+        },
+        {
+          "pdfPage": 176,
+          "status": "read",
+          "note": "回乡偶书：近乡陌生与不改乡音",
+          "proofread": false
+        },
+        {
+          "pdfPage": 177,
+          "status": "read",
+          "note": "儿童旧友解释缺乏依据，不能当标准解释",
+          "proofread": false
+        },
+        {
+          "pdfPage": 178,
+          "status": "read",
+          "note": "古意：男儿报国与思乡并存",
+          "proofread": false
+        },
+        {
+          "pdfPage": 179,
+          "status": "read",
+          "note": "从军行其一：羌笛引愁，不作纯豪迈诗",
+          "proofread": false
+        },
+        {
+          "pdfPage": 180,
+          "status": "read",
+          "note": "从军行：写景蓄情与遥想家人",
+          "proofread": false
+        },
+        {
+          "pdfPage": 181,
+          "status": "read",
+          "note": "章节收束，音乐唤起乡情",
+          "proofread": false
+        },
+        {
+          "pdfPage": 182,
+          "status": "read",
+          "note": "参考文献1—12，记录可供核验的书目",
+          "proofread": false
+        },
+        {
+          "pdfPage": 183,
+          "status": "read",
+          "note": "参考文献13—15",
+          "proofread": false
+        },
+        {
+          "pdfPage": 184,
+          "status": "read",
+          "note": "读者互动与出版营销页，无产品语料",
+          "proofread": false
+        },
+        {
+          "pdfPage": 185,
+          "status": "read",
+          "note": "读者联络页，无产品语料",
+          "proofread": false
+        },
+        {
+          "pdfPage": 186,
+          "status": "read",
+          "note": "版权编目：2013年7月、编著与出版信息",
+          "proofread": false
+        },
+        {
+          "pdfPage": 187,
+          "status": "read",
+          "note": "出版热线页，无产品语料",
+          "proofread": false
+        },
+        {
+          "pdfPage": 188,
+          "status": "read",
+          "note": "下载来源附加页，不作为书籍内容依据",
+          "proofread": false
+        }
+      ]
+    }
+  }
+}
