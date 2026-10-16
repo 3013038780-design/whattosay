@@ -1,1 +1,37 @@
-{"description":"轮到我了 · 有出处的席间祝酒词","miniprogramRoot":"dist/miniprogram/","compileType":"miniprogram","appid":"touristappid","projectname":"whattosay","setting":{"es6":true,"minified":true,"urlCheck":true,"enhance":true},"libVersion":"latest"}
+{
+  "description": "轮到我了 · 有出处的席间祝酒词",
+  "miniprogramRoot": "dist/miniprogram/",
+  "compileType": "miniprogram",
+  "appid": "touristappid",
+  "projectname": "whattosay",
+  "setting": {
+    "es6": true,
+    "minified": true,
+    "urlCheck": true,
+    "enhance": true,
+    "postcss": false,
+    "compileWorklet": false,
+    "uglifyFileName": false,
+    "uploadWithSourceMap": true,
+    "packNpmManually": false,
+    "packNpmRelationList": [],
+    "minifyWXSS": true,
+    "minifyWXML": true,
+    "localPlugins": false,
+    "disableUseStrict": false,
+    "useCompilerPlugins": false,
+    "condition": false,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    }
+  },
+  "libVersion": "latest",
+  "simulatorPluginLibVersion": {},
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "editorSetting": {}
+}

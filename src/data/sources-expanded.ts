@@ -1,0 +1,12 @@
+import type {Source} from '../core/types';
+export const expandedSources:Record<string,Source> = {
+ lanting:{id:'lanting',title:'王羲之《兰亭集序》',book:'《祝酒辞全书》',pages:'PDF 464（书内450）',original:'一觞一咏，亦足以畅叙幽情。',url:'https://zh.wikisource.org/wiki/蘭亭集序',meaning:'文章写兰亭雅集，从相聚畅谈转入人生感慨。此处只借一杯一咏、畅叙心意的相聚之乐；全文并非单纯欢宴祝词。',note:'引句已对照所供原页与古典原作。觞读shāng，指酒杯；幽情指深藏的情思，不专指爱情。正文其余部分独立整理，不预设实际地点、天气或古代仪式。'},
+ lantingMeet:{id:'lantingMeet',title:'欣于所遇，珍惜此刻',book:'《祝酒辞全书》表达线索；补核《兰亭集序》',pages:'PDF 464为雅集引文线索；本短句来自另核的原作',original:'欣于所遇',url:'https://zh.wikisource.org/wiki/蘭亭集序',meaning:'原作在相聚和人生变化之间，写人在欣赏所遇之事时的满足。此处转为珍惜初见、从容交谈的祝愿。',note:'这是沿所供书线索补读原作后选出的短句，未声称该四字在PDF464出现。未替双方预设爱情、承诺或既有关系。'},
+ welcoming:{id:'welcoming',title:'《论语·学而》',book:'《祝酒辞全书》',pages:'PDF 213（书内199）',original:'有朋自远方来，不亦乐乎？',url:'https://ctext.org/analects/xue-er/zh',meaning:'原章谈学习、朋友来访及君子修养。这里取乐于相聚的心意，不要求在座都来自远方，也不把初识写成多年旧交。',note:'引句已看所供原页，并核《论语》原章；其余祝词为独立整理。'},
+ longevity:{id:'longevity',title:'《诗经·豳风·七月》',book:'《中国品酒诗话》',pages:'PDF 36（书内16）',original:'为此春酒，以介眉寿。',url:'https://zh.wikisource.org/wiki/詩經/七月',meaning:'《七月》写农事与一年生活，其中酿酒祝寿。眉寿为长寿的祝愿，不是酒有延寿功效；这里取对长辈的珍重。',note:'已看所供原页并核原诗。春酒是古代酒意象，酿成季节有不同旧注，祝词不据此推断今天是春天。'},
+ bode:{id:'bode',title:'王勃《送杜少府之任蜀州》',book:'《一杯酒醉尽盛唐》',pages:'PDF 126',original:'海内存知己，天涯若比邻。',url:'https://zh.wikisource.org/wiki/送杜少府之任蜀州',meaning:'原诗送友人赴任，用知己情谊宽慰离别。这里保留相隔仍相亲的心意，不默认用户也是官员赴任。',note:'已对照所供原页与原作；篇名有蜀州／蜀川异文，隣转简体为邻。正文为引句后的独立整理。'},
+ gaoshi:{id:'gaoshi',title:'高适《别董大》其一',book:'《一杯酒醉尽盛唐》',pages:'PDF 125',original:'莫愁前路无知己',url:'https://zh.wikisource.org/wiki/別董大',meaning:'送别诗以开阔语气慰勉友人。这里引用为鼓励，不承诺对方一定成名或所有人都认识他。',note:'已对照所供原页与原作。诗中黄云、北风、雪不等于现场天气；其余祝愿独立整理。'},
+ zhang:{id:'zhang',title:'张九龄《送韦城李少府》',book:'《诗酒风流赋华章》',pages:'PDF 70（书内69）',original:'相知无远近，万里尚为邻。',url:'https://zh.wikisource.org/wiki/送韋城李少府',meaning:'原诗送别，表达相知不受距离隔断。朋友重逢取此情意；初识只借其开放的心境，不宣称双方已经是知己。',note:'已对照所供原页与原作。张九龄此句与王勃天涯若比邻分别署名，不混成同一首诗。'},
+ practice:{id:'practice',title:'《论语·里仁》：敬贤与笃行',book:'《祝酒辞全书》就职表达方法；补核《论语》原典',pages:'PDF 332—346为身份与自勉结构；引句来自《里仁》第17、24章',original:'见贤思齐焉。君子欲讷于言而敏于行。',url:'https://zh.wikisource.org/wiki/論語/里仁第四',meaning:'见到贤者向其学习，并以行动跟上言语。此处用于说话者的自勉，尊重对方同时把重点落回自己的用心。',note:'两句为补充核对的原典，不声称现代书中含这些字句。正文只选其中一处引用，其余独立整理；不编造领导具体事迹。'},
+ reciprocate:{id:'reciprocate',title:'《诗经·大雅·抑》：投桃报李',book:'《中国品酒诗话》茶酒赠答线索；补核《诗经》',pages:'PDF 230—231为赠答线索；引句来自另核《抑》',original:'投我以桃，报之以李。',url:'https://zh.wikisource.org/wiki/詩經/抑',meaning:'原诗有自警与劝诫内容，这一句比喻善意的回应。此处用于致谢或回敬，不把它解释成整首诗都写朋友宴饮。',note:'现代书所引是李正民茶酒赠答诗；本句另核《诗经·抑》，不是李正民原句。其余祝词独立整理，不量化礼物与人情。'}
+};

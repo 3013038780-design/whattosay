@@ -7,6 +7,6 @@ await mkdir('dist/release/whattosay',{recursive:true});
 await cp('dist/miniprogram','dist/release/whattosay/miniprogram',{recursive:true});
 const config=JSON.parse(await readFile('project.config.json','utf8'));config.miniprogramRoot='miniprogram/';
 await writeFile('dist/release/whattosay/project.config.json',JSON.stringify(config,null,2)+'\n');
-await cp('docs/run.md','dist/release/whattosay/README.md');
+await cp('docs/package-readme.md','dist/release/whattosay/README.md');
 execFileSync('zip',['-rq','../whattosay-mini-program.zip','whattosay'],{cwd:'dist/release'});
 console.log('Packaged: dist/whattosay-mini-program.zip');

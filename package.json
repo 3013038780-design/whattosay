@@ -9,7 +9,8 @@
     "test": "tsx --test tests/*.test.ts",
     "preview": "npm run build && node scripts/serve.mjs",
     "pretest": "node scripts/build.mjs",
-    "package": "node scripts/package.mjs"
+    "package": "node scripts/package.mjs",
+    "check:wechat": "node scripts/check-wechat.mjs"
   },
   "dependencies": {
     "lunar-javascript": "1.7.7"

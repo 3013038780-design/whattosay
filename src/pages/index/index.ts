@@ -18,5 +18,6 @@ Page({
  removeSaved(e:WechatMiniprogram.BaseEvent){this.session!.removeSaved(e.currentTarget.dataset.query);this.sync();},
  copy(){wx.setClipboardData({data:this.session!.view().text,success:()=>{this.session!.notice='已复制，可以直接粘贴。';this.sync();},fail:()=>{this.session!.notice='复制未成功，请重试。';this.sync();}});},
  copySource(){const s=this.session!.view().source;wx.setClipboardData({data:[s.title,s.book+' '+s.pages,s.url||''].join('\n')});},
- onShareAppMessage(event:WechatMiniprogram.Page.IShareAppMessageOption){const home=event.target?.dataset.home;return {title:home?'轮到我了：饭局上，一句话说得漂亮':'送你一张席间小笺：'+this.session!.toast.title,path:'/pages/index/index'+(home?'':'?'+this.session!.query())};}
+ about(){wx.showModal({title:'关于这张小笺',content:'轮到我了，帮你在席间找到有出处、合场景的话。当前为试读版。收藏只保存在这台设备；我们不要求注册，不收集手机号、定位或通讯录。分享仅携带精选内容和选项。',showCancel:false});},
+ onShareAppMessage(event:WechatMiniprogram.Page.IShareAppMessageOption){const home=event.target?.dataset.home;return {imageUrl:'/assets/share-cover.png',title:home?'轮到我了：饭局上，一句话说得漂亮':'送你一张席间小笺：'+this.session!.toast.title,path:'/pages/index/index'+(home?'':'?'+this.session!.query())};}
 });
