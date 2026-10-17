@@ -10,7 +10,7 @@
 - 图标：assets/app-icon.png，1024×1024；源图assets/icon.svg。
 - 分享封面：assets/share-cover.png，1000×800；原生分享事件已引用。
 - 数据说明：privacy.md；小程序内也能查看简要说明。
-- 工程包：[预构建下载](../releases/whattosay-0.1.0-preview.zip)，无需npm；源码可运行npm run package重新生成dist/whattosay-mini-program.zip。
+- 工程包：[预构建下载](../releases/whattosay-0.2.0-preview.zip)，无需npm；源码可运行npm run package重新生成dist/whattosay-mini-program.zip。
 - 测试记录：verification/engineering-initial.md（含官方模拟器验证与英文路径建议）；内容出处记录：verification/content-initial.md。
 
 ## 发布者需要接续的实际操作
@@ -21,7 +21,7 @@
 4. 在后台核对名称、简介、服务类目、隐私声明、备案与审核要求，补齐实际运营主体和联系方式；上传体验版并试读。
 5. 试读确认后提交微信审核，通过后发布，再检查公众可进入和分享。
 
-管理员登录和真实AppID预览上传已完成；手机实测、体验版、审核与发布尚未完成。项目代码推送或网页体验不代表完成微信审核。不是所有条目都需要增加付费服务。
+管理员登录和真实AppID预览上传已完成；用户已确认0.1手机可打开与点击；0.2本轮修改、双账号分享、体验版、审核与发布继续验证。项目代码推送或网页体验不代表完成微信审核。不是所有条目都需要增加付费服务。
 
 ## 官方入口
 
