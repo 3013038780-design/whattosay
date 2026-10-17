@@ -2,7 +2,7 @@
   "description": "轮到我了 · 有出处的席间祝酒词",
   "miniprogramRoot": "dist/miniprogram/",
   "compileType": "miniprogram",
-  "appid": "touristappid",
+  "appid": "wxe93e3ed037f6fd0c",
   "projectname": "whattosay",
   "setting": {
     "es6": true,
