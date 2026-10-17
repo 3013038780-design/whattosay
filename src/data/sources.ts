@@ -13,3 +13,8 @@ export const sources:Record<string,Source> = {
 };
 
 sources.lumingGuest={...sources.luming,id:'lumingGuest',meaning:'原诗表达主人的厚意。此处先引用描述主人的待客心，再由来宾明确表达感谢；主人与客人的话分开。',note:'引句已对照原页和原作电子文本。来宾没有自称我有嘉宾，引用后说明这是主人的心意；祝词其余部分独立整理。'};
+
+// Supplemental folk expressions: external checks supplement the supplied books, never impersonate them.
+sources.folkSesame={id:'folkSesame',title:'芝麻开花——节节高',book:'民间歇后语（补充核对）',pages:'非所供PDF原文',original:'芝麻开花——节节高',url:'https://jllc.jl.gov.cn/zsdw/jlslyjsxy/jsxy_jxky/jsxy_lykp/202009/t20200915_3034524.html',meaning:'借芝麻从下往上开花的特点，祝愿日子越来越好。',note:'用语与含义参照吉林省林业和草原局“芝麻”科普文章；其后祝愿为独立整理，不是古诗或书中原句。'};
+sources.folkEight={id:'folkEight',title:'八仙过海——各显神通',book:'民间典故（补充核对）',pages:'非所供PDF原文',original:'八仙过海——各显神通',url:'https://www.dpm.org.cn/lemmas/244863.html',meaning:'借八仙各用所长渡海的故事，赞赏各有所长。',note:'典故参照故宫博物院“八仙过海”词条；正文由此独立整理，不把神话说成历史事实。'};
+sources.folkDumplings={id:'folkDumplings',title:'茶壶里煮饺子——有货倒不出',book:'民间歇后语（补充核对）',pages:'非所供PDF原文',original:'茶壶里煮饺子——有货倒不出',url:'https://jgs.moa.gov.cn/gzdt/202404/t20240423_6454207.htm',meaning:'比喻心里有内容，却一时表达不出来；此处只用来自嘲突然词穷。',note:'用语参照农业农村部质量监管司2024年4月23日交流会记录；借鉴《祝酒辞全书》PDF352—359的短句与幽默方法，其余祝愿独立整理。'};

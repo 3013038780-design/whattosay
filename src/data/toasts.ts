@@ -1,4 +1,5 @@
 import {spokenToasts} from './spoken';
+import {culturalToasts} from './cultural';
 import type {Toast,Scene,Target} from '../core/types';
 // All speeches are independently edited after reading; quoted fragments are tracked in sources.ts.
 function entry(id:string,scene:Scene,title:string,source:string,short:string,full:string,english:string,translation:string,tip:string,tone:'poetic'|'fun'='poetic',target:Target='table',seasons?:string[]):Toast {
@@ -74,6 +75,6 @@ const gatheringV1=toasts.find(t=>t.id==='general-verse-02'&&t.version===1)!;
 gatheringV1.active=false;
 toasts.push({...gatheringV1,version:2,active:true,full:'“有朋自远方来，不亦乐乎？”相聚不论远近，心意贵在真诚。今天借这一杯，敬此刻同席，也祝往后常聚；愿各位行有所成，归有所安。'});
 
-// Previous wording remains available for exact restoration of already shared/saved versions.
-for(const toast of toasts)toast.active=false;
-toasts.push(...spokenToasts);
+// Poetry remains in recommendations. Conversational and rhythmic additions supplement it.
+// Only the explicitly superseded versions above stay archived for old shares.
+toasts.push(...spokenToasts,...culturalToasts);

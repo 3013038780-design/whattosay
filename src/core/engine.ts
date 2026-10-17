@@ -3,7 +3,7 @@ import {toasts} from '../data/toasts';
 import {sources} from '../data/sources';
 import {calendar,calendarLine,calendarEnglishLine,today,validDate} from './calendar';
 export const sceneOptions = [{id:'general',name:'临场救急',hint:'突然轮到我'}, {id:'work',name:'领导同事',hint:'有敬意，有分寸'}, {id:'friends',name:'朋友小聚',hint:'熟人，自在聊'}, {id:'meeting',name:'认识新朋友',hint:'轻松破个冰'}, {id:'dating',name:'相亲约会',hint:'初见，慢慢了解'}, {id:'family',name:'家人长辈',hint:'家常里见心意'}, {id:'host',name:'我是主人',hint:'欢迎大家来'}, {id:'farewell',name:'送别珍重',hint:'愿前路顺遂'}, {id:'thanks',name:'致谢答谢',hint:'感谢用心与款待'}, {id:'reply',name:'别人敬我',hint:'接住祝福，回敬心意'}, {id:'closing',name:'收个尾',hint:'把话漂亮地收住'}] as const;
-export const defaults = ():Choice=>({scene:'general',target:'table',tone:'auto',length:'short',tea:false,calendarMode:'none',date:today()});
+export const defaults = ():Choice=>({scene:'general',target:'table',tone:'verse',length:'short',tea:false,calendarMode:'none',date:today()});
 export function normalize(raw:Partial<Choice>):Choice {const d=defaults();return {...d,scene:sceneOptions.some(s=>s.id===raw.scene)?raw.scene!:d.scene,target:raw.scene==='work'&&raw.target==='leader'?'leader':raw.scene==='family'&&raw.target==='elder'?'elder':raw.scene==='thanks'&&raw.target==='host'?'host':'table',tone:['auto','poetic','verse','fun','english'].includes(raw.tone||'')?raw.tone!:d.tone,length:raw.length==='full'?'full':raw.length==='short'?'short':d.length,tea:raw.tea===true,date:raw.date&&validDate(raw.date)?raw.date:d.date,calendarMode:['none','day','season','term'].includes(raw.calendarMode||'')?raw.calendarMode!:d.calendarMode};}
 export function select(choice:Choice,seen:string[],rng=Math.random):Selection {
  const season=calendar(choice.date).season;
