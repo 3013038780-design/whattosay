@@ -6,6 +6,7 @@ Page({
  sync(){this.setData(this.session!.view());},
  scene(e:WechatMiniprogram.BaseEvent){this.session!.change({scene:e.currentTarget.dataset.id});this.sync();},
  target(e:WechatMiniprogram.BaseEvent){this.session!.change({target:e.currentTarget.dataset.id});this.sync();},
+ topic(e:WechatMiniprogram.BaseEvent){this.session!.change({topic:e.currentTarget.dataset.id});this.sync();},
  tone(e:WechatMiniprogram.BaseEvent){this.session!.change({tone:e.currentTarget.dataset.id});this.sync();},
  length(e:WechatMiniprogram.BaseEvent){this.session!.change({length:e.currentTarget.dataset.id});this.sync();},
  calendarMode(e:WechatMiniprogram.BaseEvent){this.session!.change({calendarMode:e.currentTarget.dataset.id});this.sync();},

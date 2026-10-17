@@ -1,4 +1,5 @@
 import {spokenToasts} from './spoken';
+import {collectedToasts} from './poetry-expanded';
 import {culturalToasts} from './cultural';
 import type {Toast,Scene,Target} from '../core/types';
 // All speeches are independently edited after reading; quoted fragments are tracked in sources.ts.
@@ -76,5 +77,8 @@ gatheringV1.active=false;
 toasts.push({...gatheringV1,version:2,active:true,full:'“有朋自远方来，不亦乐乎？”相聚不论远近，心意贵在真诚。今天借这一杯，敬此刻同席，也祝往后常聚；愿各位行有所成，归有所安。'});
 
 // Poetry remains in recommendations. Conversational and rhythmic additions supplement it.
-// Only the explicitly superseded versions above stay archived for old shares.
-toasts.push(...spokenToasts,...culturalToasts);
+// Preserve every old wording; the latest request also reserves specific familiar sources below.
+toasts.push(...spokenToasts,...culturalToasts,...collectedToasts);
+// User explicitly requested less overfamiliar references. Keep these exact versions for review/shares.
+const commonReferences=new Set(['welcoming','practice','bode','gaoshi','reciprocate']);
+for(const t of toasts)if(t.active!==false&&commonReferences.has(t.source)){t.active=false;t.archiveReason='common';}
