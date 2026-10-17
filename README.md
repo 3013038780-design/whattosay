@@ -74,7 +74,7 @@ npm ci
 npm run preview
 ```
 
-打开 **http://127.0.0.1:4173**。诗文审阅页在 **http://127.0.0.1:4173/library/poetry-library.html**；若未生成，运行 `npx tsx scripts/export-poetry.mts` 后再打开。
+打开 `http://127.0.0.1:4173`。诗文审阅页在 `http://127.0.0.1:4173/library/poetry-library.html`；若未生成，运行 `npx tsx scripts/export-poetry.mts` 后再打开。
 
 ### 再用微信开发者工具体验
 
