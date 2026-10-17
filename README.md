@@ -43,3 +43,7 @@ npm run preview
 推荐微信原生小程序（TypeScript + WXML + WXSS）；第一版以有文化依据的本地审核句库、规则筛选和本地收藏完成核心闭环。云端内容更新和 AI 改写按阶段加入，后端优先评估微信·云开发。
 
 这一方向是当前推荐，尚未创建云资源、选择付费套餐或绑定模型供应商。GitHub 托管代码与文档；微信用户使用的是单独构建、预览和发布的小程序。
+
+## 当前诗文库审阅
+
+[完整可搜索审阅页](docs/poetry-library.html) · [纯文本批注版](docs/poetry-library.txt) · [JSON原始导出](docs/poetry-library.json)。截至2026-10-17，228条推荐中有80条古诗文引用稿；去重仅8处古诗引句及5处古文／语录，不能把改写条数当作不同诗句数。严格古诗引用稿41条，占18.0%。导出保留全部80条现用稿及1个历史版本，正文未作修改。重新导出：`./node_modules/.bin/tsx scripts/export-poetry.mts`。
