@@ -1,6 +1,6 @@
 {
   "title": "i人的酒桌神器",
-  "revision": "story-v1",
+  "revision": "story-v2-white",
   "date": "2026-10-28",
   "corpusVersion": "0.3.0",
   "corpusHash": "e191de31046c88db12417b9023c4e1731e03796db8106019fca6096c4e73e25e",
@@ -51,8 +51,8 @@
   "formatReference": "https://github.com/3013038780-design/Machine-Observer-WeChat-Official-Account/blob/main/docs/style-guide.md",
   "workflowReference": "https://github.com/3013038780-design/Machine-Observer-WeChat-Official-Account/blob/main/docs/workflow.md",
   "palette": {
-    "paper": "#f5f0e7",
-    "card": "#fffdf7",
+    "paper": "#ffffff",
+    "card": "#ffffff",
     "ink": "#292b26",
     "cinnabar": "#a94334",
     "muted": "#7b7366",
