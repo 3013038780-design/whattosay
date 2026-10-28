@@ -1,0 +1,62 @@
+{
+  "title": "i人的酒桌神器",
+  "revision": "story-v1",
+  "date": "2026-10-28",
+  "corpusVersion": "0.3.0",
+  "corpusHash": "e191de31046c88db12417b9023c4e1731e03796db8106019fca6096c4e73e25e",
+  "cases": [
+    {
+      "id": "verse-huang-friend",
+      "version": 1,
+      "field": "full",
+      "text": "“桃李春风一杯酒，江湖夜雨十年灯。”黄庭坚写远方朋友，一边是相聚的春风，一边是别后的灯火。今天能坐在一起，就把各自奔忙的日子也聊聊。这杯敬你们，愿往后想见的时候，不总隔着一句“改天”；见面有话，分别也惦记。",
+      "sourceId": "poem-huang-friend"
+    },
+    {
+      "id": "verse-bai-invite",
+      "version": 1,
+      "field": "full",
+      "text": "白居易有句“晚来天欲雪，能饮一杯无？”外面什么天气不重要，重要的是这桌上的人，愿意把这一段时间交出来。这份心意，比酒贵。今天这杯敬大家：愿往后忙归忙，总还有人可约，有话可聊。",
+      "sourceId": "poem-bai-invite"
+    },
+    {
+      "id": "verse-su-breeze",
+      "version": 1,
+      "field": "short",
+      "text": "“一点浩然气，千里快哉风。”这杯向您致意，也勉励自己做事有担当，心里有坦荡。祝您忙有所成，闲有好心情。",
+      "sourceId": "poem-su-breeze"
+    },
+    {
+      "id": "verse-li-followmoon",
+      "version": 1,
+      "field": "short",
+      "text": "“人攀明月不可得，月行却与人相随。”有些牵挂也这样，不用天天挂在嘴边，却一直在心里。这杯敬您，愿日子舒心，咱们常聚。",
+      "sourceId": "poem-li-followmoon"
+    },
+    {
+      "id": "verse-wang-welcome",
+      "version": 1,
+      "field": "short",
+      "text": "“轻舸迎上客，悠悠湖上来。”古人用船迎客，今天你用一桌饭把大家聚起来。这杯敬主人，谢谢你把我们放在心上。",
+      "sourceId": "poem-wang-welcome"
+    },
+    {
+      "id": "general-03",
+      "version": 1,
+      "field": "short",
+      "text": "我的话可以短，祝福一定长：愿大家日日有喜，岁岁有光。",
+      "sourceId": "rhythm"
+    }
+  ],
+  "formatReference": "https://github.com/3013038780-design/Machine-Observer-WeChat-Official-Account/blob/main/docs/style-guide.md",
+  "workflowReference": "https://github.com/3013038780-design/Machine-Observer-WeChat-Official-Account/blob/main/docs/workflow.md",
+  "palette": {
+    "paper": "#f5f0e7",
+    "card": "#fffdf7",
+    "ink": "#292b26",
+    "cinnabar": "#a94334",
+    "muted": "#7b7366",
+    "line": "#d8d2c4"
+  },
+  "status": "已按用户要求制作HTML，待作者审阅，未提交公众号草稿或发表"
+}
