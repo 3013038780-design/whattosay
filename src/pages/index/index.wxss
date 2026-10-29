@@ -16,3 +16,5 @@
 .toolbar{align-items:center;flex-direction:row;flex-wrap:wrap;gap:8rpx}.tones{flex-wrap:wrap;gap:4rpx}.tones .chip,.tones .english-chip{width:auto;flex:0 0 auto;padding:10rpx 10rpx}.toolbar>.quiet{align-self:center;margin-left:auto}
 
 .poetry-topics{margin:8rpx 0 24rpx;padding:16rpx 0;border-top:1rpx dashed #d8d2c4}.topic-label{font-size:21rpx;color:#797866;display:block;margin-bottom:8rpx}.poetry-topics .tones{flex-wrap:wrap}.poetry-topics .chip{font-size:22rpx;padding:8rpx 12rpx}
+
+.source-full{margin:26rpx 0;padding:24rpx 0;border-top:1rpx solid #d8d2c4;border-bottom:1rpx solid #d8d2c4}.full-original-text{display:block;white-space:pre-wrap;font-family:"Songti SC","Noto Serif CJK SC",serif;font-size:28rpx;line-height:1.9;margin-top:18rpx;overflow-wrap:break-word}
