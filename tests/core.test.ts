@@ -54,7 +54,7 @@ test('spoken versions have their own ending; tea and old shared versions keep th
 test('recommendations rotate every eligible source work before another rewrite of the same source',()=>{const c=normalize({tone:'verse',date:'2026-10-17'}),pool=select(c,[],()=>0).poolIds;const count=new Set(toasts.filter(t=>pool.includes(t.id)).map(t=>sources[t.source].url||t.source)).size;assert.ok(count>=8);const ids:string[]=[],works=new Set<string>();for(let i=0;i<count;i++){const t=select(c,ids,()=>0).toast;ids.push(t.id);const key=sources[t.source].url||t.source;assert.ok(!works.has(key),key);works.add(key);}assert.equal(works.size,count);});
 
 test('original culture stays available, while specifically overfamiliar references are reserved and remain shareable',()=>{
- const originals=toasts.filter(t=>!['spoken-','culture-','verse-'].some(prefix=>t.id.startsWith(prefix)));
+ const originals=toasts.filter(t=>!['spoken-','culture-','verse-','r04-'].some(prefix=>t.id.startsWith(prefix)));
  assert.equal(originals.length,56);
  for(const t of originals.filter(t=>t.active!==false)){const c=normalize({scene:t.scene,target:t.target,tone:t.kind==='引句后整理'?'verse':t.tone,date:'2026-10-17'});assert.ok(select(c,[],()=>0).poolIds.includes(t.id),t.id);}
  for(const t of toasts.filter(t=>t.archiveReason==='common')){assert.equal(t.active,false);const c=normalize({scene:t.scene,target:t.target,date:'2026-10-17'});assert.ok(restore(parse(shareQuery(t,c))).toast);assert.ok(!select(c,[],()=>0).poolIds.includes(t.id));}
