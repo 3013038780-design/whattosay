@@ -1,3 +1,4 @@
+import {expansionSources} from './expansion-06';
 import {readingSources} from './reading-batch';
 import {fullOriginals} from './full-originals';
 import type {Source} from '../core/types';
@@ -5,6 +6,7 @@ import {collectedSources} from './poetry-expanded';
 import {expandedSources} from './sources-expanded';
 export const sources:Record<string,Source> = {
  ...readingSources,
+ ...expansionSources,
  ...expandedSources,
  ...collectedSources,
  rhythm:{id:'rhythm',title:'把话写给耳朵听',book:'《祝酒辞全书》',pages:'PDF 352—359',meaning:'从口头表达方法学习短句、停顿、长短相间与幽默转折。',note:'这里借鉴表达方法，正文是阅读后的独立整理，不是书中范文或古人原话。'},

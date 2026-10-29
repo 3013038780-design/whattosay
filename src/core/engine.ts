@@ -13,14 +13,19 @@ export function normalize(raw:Partial<Choice>):Choice {const d=defaults();const 
  choice.target=choice.purpose==='thanks'?'host':choice.purpose==='personal'?(choice.occasion==='work'&&raw.target!=='person'?'leader':choice.occasion==='family'&&raw.target!=='person'?'elder':'person'):'table';
  choice.tone=choice.language==='en'?'english':choice.flavor==='fun'?'fun':choice.flavor==='formal'?'poetic':'verse';
  }if(choice.calendarMode==='festival'&&!calendar(choice.date).festivalId)choice.calendarMode='none';return choice;}
-export function select(choice:Choice,seen:string[],rng=Math.random):Selection {
+function matchesScene(t:Toast,c:Choice){return t.scene===c.scene||(c.purpose==='personal'&&c.target==='person'&&t.purpose==='personal'&&t.scene==='general');}
+export function eligiblePool(choice:Choice) {
  const cal=calendar(choice.date),season=cal.season;
- let pool=toasts.filter(t=>t.active!==false&&t.scene===choice.scene&&t.target===choice.target&&matchesContext(t,choice)&&(!t.seasons||t.seasons.includes(season))&&(!t.festivals||!!cal.festivalId&&t.festivals.includes(cal.festivalId)));
+ let pool=toasts.filter(t=>t.active!==false&&matchesScene(t,choice)&&t.target===choice.target&&matchesContext(t,choice)&&(!t.seasons||t.seasons.includes(season))&&(!t.festivals||!!cal.festivalId&&t.festivals.includes(cal.festivalId)));
  const themed=choice.topic==='any'?pool:pool.filter(t=>t.topics?.includes(choice.topic));
  const topicRelaxed=choice.topic!=='any'&&!themed.length;if(themed.length)pool=themed;
  const preferred=pool.filter(t=>choice.occasion?(choice.flavor==='fun'?t.tone==='fun':choice.flavor==='formal'?t.tone!=='fun':t.kind==='引句后整理'):choice.tone==='auto'||choice.tone==='english'||(choice.tone==='verse'?t.kind==='引句后整理':t.tone===choice.tone&&(choice.tone!=='poetic'||t.kind!=='引句后整理')));
  const relaxed=preferred.length===0;if(preferred.length)pool=preferred;
  if(!pool.length)throw new Error('该场景暂无合适内容');
+ return {pool,relaxed,topicRelaxed};
+}
+export function select(choice:Choice,seen:string[],rng=Math.random):Selection {
+ const {pool,relaxed,topicRelaxed}=eligiblePool(choice),cal=calendar(choice.date);
  const visits=seen.filter(id=>pool.some(t=>t.id===id));
  let available=pool.filter(t=>!seen.includes(t.id));const allSeen=available.length===0;
  const exhausted=allSeen&&visits.length%pool.length===0;
@@ -56,7 +61,7 @@ export function speech(t:Toast,c:Choice):string {
 }
 export function ending(t:Toast,c:Choice):string {let s=speech(t,c);if(c.tone!=='english'&&!c.tea&&t.target==='leader')s=s.replace(/借这一杯，敬大家。$/,'借这一杯，敬您。');if(c.tone!=='english'&&!c.tea&&t.target==='elder')s=s.replace(/借这一杯，敬大家。$/,'这一杯，敬家中长辈。');if(c.tone!=='english'&&!c.tea&&t.target==='host')s=s.replace(/借这一杯，敬大家。$/,'这一杯，谢款待，也敬心意。');return s;}
 export function shareQuery(t:Toast,c:Choice):string {return Object.entries({id:t.id,v:String(t.version),scene:c.scene,target:c.target,tone:c.tone,length:c.length,tea:c.tea?'1':'0',mode:c.calendarMode,date:c.date,...(c.topic!=='any'?{topic:c.topic}:{}),...(c.occasion?{occasion:c.occasion,purpose:c.purpose!,flavor:c.flavor!,lang:c.language!}:{})}).map(([k,v])=>encodeURIComponent(k)+'='+encodeURIComponent(v)).join('&');}
-export function restore(params:Record<string,string>){const choice=normalize({occasion:params.occasion as Choice['occasion'],purpose:params.purpose as Choice['purpose'],flavor:params.flavor as Choice['flavor'],language:params.lang as Choice['language'],scene:params.scene as Scene,target:params.target as Target,tone:params.tone as Tone,length:params.length as Length,tea:params.tea==='1',calendarMode:params.mode as Choice['calendarMode'],date:params.date,topic:params.topic as Topic});const toast=toasts.find(t=>t.id===params.id&&String(t.version)===params.v);if((params.occasion&&params.scene!==choice.scene)||!toast||toast.scene!==choice.scene||toast.target!==choice.target||!matchesContext(toast,choice)||(!validDate(params.date))||(toast.seasons&&!toast.seasons.includes(calendar(choice.date).season))||(toast.festivals&&(!calendar(choice.date).festivalId||!toast.festivals.includes(calendar(choice.date).festivalId!))))return {choice,toast:undefined};return {choice,toast};}
+export function restore(params:Record<string,string>){const choice=normalize({occasion:params.occasion as Choice['occasion'],purpose:params.purpose as Choice['purpose'],flavor:params.flavor as Choice['flavor'],language:params.lang as Choice['language'],scene:params.scene as Scene,target:params.target as Target,tone:params.tone as Tone,length:params.length as Length,tea:params.tea==='1',calendarMode:params.mode as Choice['calendarMode'],date:params.date,topic:params.topic as Topic});const toast=toasts.find(t=>t.id===params.id&&String(t.version)===params.v);if((params.occasion&&params.scene!==choice.scene)||!toast||!matchesScene(toast,choice)||toast.target!==choice.target||!matchesContext(toast,choice)||(!validDate(params.date))||(toast.seasons&&!toast.seasons.includes(calendar(choice.date).season))||(toast.festivals&&(!calendar(choice.date).festivalId||!toast.festivals.includes(calendar(choice.date).festivalId!))))return {choice,toast:undefined};return {choice,toast};}
 export function sourceFor(t:Toast){return sources[t.source];}
 export function wrapLines(text:string):string[]{return text.split('\n');}
 

@@ -1,21 +1,21 @@
 {
   "stats": {
     "date": "2026-10-29",
-    "version": "0.5.0",
-    "activeTotal": 482,
-    "activeQuotedEntries": 334,
-    "activePoetryEntries": 255,
-    "activeProseEntries": 79,
-    "activeDistinctPoeticExcerpts": 104,
-    "activeDistinctProseExcerpts": 27,
-    "totalDistinctExcerptsIncludingReserved": 137,
-    "newExcerpts": 0,
-    "newWorks": 0,
-    "newDrafts": 62,
+    "version": "0.6.0",
+    "activeTotal": 546,
+    "activeQuotedEntries": 398,
+    "activePoetryEntries": 303,
+    "activeProseEntries": 95,
+    "activeDistinctPoeticExcerpts": 110,
+    "activeDistinctProseExcerpts": 29,
+    "totalDistinctExcerptsIncludingReserved": 145,
+    "newExcerpts": 8,
+    "newWorks": 8,
+    "newDrafts": 64,
     "modernExcerpts": 1,
     "commonReservedVersions": 30,
     "historicalVersions": 1,
-    "sourceSHA256": "68b79dd60d2f0876a5b74330c3e1404b0deffe81b66840630e1f2c4f66f5da64"
+    "sourceSHA256": "5474bca6f7dbc3d7e8be51a942921b6d28d9983614b14ecaadd072a0cc96b517"
   },
   "scope": "当前程序中全部古诗文引用文案及其历史版本；不代表所供十份PDF的全部诗句。",
   "entries": [
@@ -40,7 +40,7 @@
       "topics": [
         "reunion"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-44",
@@ -79,7 +79,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-44",
@@ -118,7 +118,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-232",
@@ -157,7 +157,7 @@
       "topics": [
         "friend"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-232",
@@ -196,7 +196,7 @@
       "topics": [
         "reunion"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-311",
@@ -235,7 +235,7 @@
       "topics": [
         "wine"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-311",
@@ -274,7 +274,7 @@
       "topics": [
         "reunion"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-335",
@@ -313,7 +313,7 @@
       "topics": [
         "reunion"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-335",
@@ -352,7 +352,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-339",
@@ -391,7 +391,7 @@
       "topics": [
         "wine"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-339",
@@ -430,7 +430,7 @@
       "topics": [
         "friend"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-357",
@@ -469,7 +469,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-357",
@@ -508,7 +508,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-369",
@@ -547,7 +547,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-369",
@@ -586,7 +586,7 @@
       "topics": [
         "wine"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-469",
@@ -625,7 +625,7 @@
       "topics": [
         "wine"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-469",
@@ -664,7 +664,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-637",
@@ -703,7 +703,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-637",
@@ -742,7 +742,7 @@
       "topics": [
         "reunion"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-642",
@@ -781,7 +781,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-642",
@@ -820,7 +820,7 @@
       "topics": [
         "friend"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-649",
@@ -859,7 +859,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-649",
@@ -898,7 +898,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-655",
@@ -937,7 +937,7 @@
       "topics": [
         "reunion"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-655",
@@ -976,7 +976,7 @@
       "topics": [
         "wine"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-683",
@@ -1015,7 +1015,7 @@
       "topics": [
         "wine"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-683",
@@ -1054,7 +1054,7 @@
       "topics": [
         "wine"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-687",
@@ -1093,7 +1093,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-687",
@@ -1132,7 +1132,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-691",
@@ -1171,7 +1171,7 @@
       "topics": [
         "reunion"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-691",
@@ -1210,7 +1210,7 @@
       "topics": [
         "friend"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-697",
@@ -1249,7 +1249,7 @@
       "topics": [
         "wine"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-697",
@@ -1288,7 +1288,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-702",
@@ -1327,7 +1327,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-702",
@@ -1366,7 +1366,7 @@
       "topics": [
         "wine"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-706",
@@ -1405,7 +1405,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-706",
@@ -1444,7 +1444,7 @@
       "topics": [
         "wine"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-710",
@@ -1483,7 +1483,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-710",
@@ -1522,7 +1522,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-758",
@@ -1561,7 +1561,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-758",
@@ -1600,7 +1600,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-765",
@@ -1639,7 +1639,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-765",
@@ -1678,7 +1678,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-987",
@@ -1717,7 +1717,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-987",
@@ -1756,7 +1756,7 @@
       "topics": [
         "reunion"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-991",
@@ -1795,7 +1795,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-991",
@@ -1834,7 +1834,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-1001",
@@ -1873,7 +1873,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-1001",
@@ -1912,7 +1912,7 @@
       "topics": [
         "wine"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-1074",
@@ -1951,7 +1951,7 @@
       "topics": [
         "wine"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-1074",
@@ -1990,7 +1990,7 @@
       "topics": [
         "reunion"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-1185",
@@ -2029,7 +2029,7 @@
       "topics": [
         "reunion"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-1185",
@@ -2068,7 +2068,7 @@
       "topics": [
         "reunion"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-1192",
@@ -2107,7 +2107,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-1192",
@@ -2146,7 +2146,7 @@
       "topics": [
         "friend"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-1223",
@@ -2185,7 +2185,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-1223",
@@ -2224,7 +2224,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-01",
@@ -2263,7 +2263,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-01",
@@ -2304,7 +2304,7 @@
         "moon",
         "night"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-02",
@@ -2345,7 +2345,7 @@
         "moon",
         "night"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-02",
@@ -2384,7 +2384,7 @@
       "topics": [
         "friend"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-03",
@@ -2423,7 +2423,7 @@
       "topics": [
         "wine"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-03",
@@ -2462,7 +2462,7 @@
       "topics": [
         "friend"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-04",
@@ -2501,7 +2501,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-04",
@@ -2540,7 +2540,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-05",
@@ -2579,7 +2579,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-05",
@@ -2620,7 +2620,7 @@
         "moon",
         "night"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-06",
@@ -2661,7 +2661,7 @@
         "moon",
         "night"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-06",
@@ -2700,7 +2700,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-07",
@@ -2739,7 +2739,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-07",
@@ -2780,7 +2780,7 @@
         "moon",
         "night"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-08",
@@ -2821,7 +2821,7 @@
         "moon",
         "night"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-08",
@@ -2860,7 +2860,7 @@
       "topics": [
         "wine"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-09",
@@ -2899,7 +2899,7 @@
       "topics": [
         "wine"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-09",
@@ -2938,7 +2938,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-10",
@@ -2977,7 +2977,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-10",
@@ -3016,7 +3016,7 @@
       "topics": [
         "reunion"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-11",
@@ -3055,7 +3055,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-11",
@@ -3094,7 +3094,7 @@
       "topics": [
         "friend"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-12",
@@ -3133,7 +3133,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-12",
@@ -3172,7 +3172,7 @@
       "topics": [
         "friend"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-13",
@@ -3211,7 +3211,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-13",
@@ -3250,7 +3250,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-14",
@@ -3289,7 +3289,7 @@
       "topics": [
         "reunion"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-14",
@@ -3328,7 +3328,7 @@
       "topics": [
         "friend"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-15",
@@ -3367,7 +3367,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-15",
@@ -3406,7 +3406,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-16",
@@ -3445,7 +3445,7 @@
       "topics": [
         "friend"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-16",
@@ -3484,7 +3484,7 @@
       "topics": [
         "reunion"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-17",
@@ -3523,7 +3523,7 @@
       "topics": [
         "reunion"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-17",
@@ -3564,7 +3564,7 @@
         "moon",
         "night"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-18",
@@ -3605,7 +3605,7 @@
         "moon",
         "night"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-18",
@@ -3644,7 +3644,7 @@
       "topics": [
         "friend"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-19",
@@ -3683,7 +3683,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-19",
@@ -3722,7 +3722,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-20",
@@ -3761,7 +3761,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-20",
@@ -3800,7 +3800,7 @@
       "topics": [
         "friend"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-21",
@@ -3839,7 +3839,7 @@
       "topics": [
         "reunion"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-21",
@@ -3878,7 +3878,7 @@
       "topics": [
         "friend"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-22",
@@ -3917,7 +3917,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-22",
@@ -3956,7 +3956,7 @@
       "topics": [
         "reunion"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-23",
@@ -3995,7 +3995,7 @@
       "topics": [
         "friend"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-23",
@@ -4034,7 +4034,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-24",
@@ -4073,7 +4073,7 @@
       "topics": [
         "friend"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-24",
@@ -4112,7 +4112,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-25",
@@ -4151,7 +4151,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-25",
@@ -4190,7 +4190,7 @@
       "topics": [
         "friend"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-26",
@@ -4229,7 +4229,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-26",
@@ -4268,7 +4268,7 @@
       "topics": [
         "friend"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-27",
@@ -4307,7 +4307,7 @@
       "topics": [
         "reunion"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-27",
@@ -4346,7 +4346,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-28",
@@ -4385,7 +4385,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-28",
@@ -4426,7 +4426,7 @@
         "moon",
         "night"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-01",
@@ -4467,7 +4467,7 @@
         "moon",
         "night"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-01",
@@ -4506,7 +4506,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-02",
@@ -4545,7 +4545,7 @@
       "topics": [
         "reunion"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-02",
@@ -4584,7 +4584,7 @@
       "topics": [
         "reunion"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-03",
@@ -4623,7 +4623,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-03",
@@ -4662,7 +4662,7 @@
       "topics": [
         "friend"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-04",
@@ -4701,7 +4701,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-04",
@@ -4740,7 +4740,7 @@
       "topics": [
         "wine"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-05",
@@ -4779,7 +4779,7 @@
       "topics": [
         "wine"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-05",
@@ -4818,7 +4818,7 @@
       "topics": [
         "friend"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-06",
@@ -4857,7 +4857,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-06",
@@ -4896,7 +4896,7 @@
       "topics": [
         "reunion"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-07",
@@ -4935,7 +4935,7 @@
       "topics": [
         "reunion"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-07",
@@ -4974,7 +4974,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-08",
@@ -5013,7 +5013,7 @@
       "topics": [
         "reunion"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-08",
@@ -5052,7 +5052,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-09",
@@ -5091,7 +5091,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-09",
@@ -5130,7 +5130,7 @@
       "topics": [
         "reunion"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-10",
@@ -5169,7 +5169,7 @@
       "topics": [
         "wine"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-10",
@@ -5208,7 +5208,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-11",
@@ -5247,7 +5247,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-11",
@@ -5286,7 +5286,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-12",
@@ -5325,7 +5325,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-12",
@@ -5364,7 +5364,7 @@
       "topics": [
         "wine"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-13",
@@ -5403,7 +5403,7 @@
       "topics": [
         "wine"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-13",
@@ -5442,7 +5442,7 @@
       "topics": [
         "friend"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-14",
@@ -5481,7 +5481,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-14",
@@ -5520,7 +5520,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-15",
@@ -5559,7 +5559,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-15",
@@ -5598,7 +5598,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-16",
@@ -5637,7 +5637,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-16",
@@ -5676,7 +5676,7 @@
       "topics": [
         "friend"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-17",
@@ -5715,7 +5715,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-17",
@@ -5754,7 +5754,7 @@
       "topics": [
         "friend"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-18",
@@ -5793,7 +5793,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-18",
@@ -5832,7 +5832,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-19",
@@ -5871,7 +5871,7 @@
       "topics": [
         "friend"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-19",
@@ -5910,7 +5910,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-20",
@@ -5949,7 +5949,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-20",
@@ -5988,7 +5988,7 @@
       "topics": [
         "friend"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-21",
@@ -6027,7 +6027,7 @@
       "topics": [
         "wine"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-21",
@@ -6066,7 +6066,7 @@
       "topics": [
         "friend"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-22",
@@ -6105,7 +6105,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-22",
@@ -6144,7 +6144,7 @@
       "topics": [
         "wine"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-23",
@@ -6183,7 +6183,7 @@
       "topics": [
         "wine"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-23",
@@ -6222,7 +6222,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-24",
@@ -6261,7 +6261,7 @@
       "topics": [
         "any"
       ],
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-24",
@@ -6301,7 +6301,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-710",
@@ -6341,7 +6341,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-710",
@@ -6381,7 +6381,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-1192",
@@ -6421,7 +6421,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-1192",
@@ -6461,7 +6461,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-13",
@@ -6501,7 +6501,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-13",
@@ -6541,7 +6541,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-683",
@@ -6581,7 +6581,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-683",
@@ -6621,7 +6621,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-765",
@@ -6661,7 +6661,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-765",
@@ -6701,7 +6701,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-44",
@@ -6741,7 +6741,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-44",
@@ -6781,7 +6781,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-642",
@@ -6821,7 +6821,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-642",
@@ -6861,7 +6861,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-17",
@@ -6901,7 +6901,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-17",
@@ -6941,7 +6941,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-1074",
@@ -6981,7 +6981,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-1074",
@@ -7021,7 +7021,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-06",
@@ -7061,7 +7061,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-06",
@@ -7101,7 +7101,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-22",
@@ -7141,7 +7141,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-22",
@@ -7181,7 +7181,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-15",
@@ -7221,7 +7221,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-15",
@@ -7261,7 +7261,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-687",
@@ -7301,7 +7301,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-687",
@@ -7341,7 +7341,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-05",
@@ -7381,7 +7381,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-05",
@@ -7421,7 +7421,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-01",
@@ -7461,7 +7461,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-01",
@@ -7501,7 +7501,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-991",
@@ -7541,7 +7541,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-991",
@@ -7581,7 +7581,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-01",
@@ -7621,7 +7621,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-01",
@@ -7661,7 +7661,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-702",
@@ -7701,7 +7701,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-702",
@@ -7741,7 +7741,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-13",
@@ -7781,7 +7781,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-13",
@@ -7821,7 +7821,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-07",
@@ -7861,7 +7861,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-07",
@@ -7901,7 +7901,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-369",
@@ -7941,7 +7941,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-369",
@@ -7981,7 +7981,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-28",
@@ -8021,7 +8021,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-28",
@@ -8061,7 +8061,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-357",
@@ -8101,7 +8101,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-357",
@@ -8141,7 +8141,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-09",
@@ -8181,7 +8181,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-09",
@@ -8221,7 +8221,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-28",
@@ -8261,7 +8261,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "词",
       "sourceDetails": {
         "id": "r04-ci-28",
@@ -8301,7 +8301,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-44",
@@ -8341,7 +8341,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-44",
@@ -8381,7 +8381,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-710",
@@ -8421,7 +8421,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-710",
@@ -8461,7 +8461,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-991",
@@ -8501,7 +8501,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-991",
@@ -8541,7 +8541,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-15",
@@ -8581,7 +8581,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古文／语录",
       "sourceDetails": {
         "id": "r04-story-15",
@@ -8621,7 +8621,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-369",
@@ -8661,7 +8661,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-369",
@@ -8701,7 +8701,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-357",
@@ -8741,7 +8741,7 @@
       "kind": "引句后整理",
       "teaLine": "我以茶代酒，心意一样真。",
       "englishTeaLine": "With tea in my cup and the same warm wishes.",
-      "status": "本轮新增 · 当前推荐",
+      "status": "0.4新增 · 当前推荐",
       "category": "古诗",
       "sourceDetails": {
         "id": "r04-shi-357",
@@ -13077,6 +13077,2870 @@
         "fullOriginal": "人生不相见，动如参与商。\n今夕复何夕，共此灯烛光。\n少壮能几时，鬓发各已苍。\n访旧半为鬼，惊呼热中肠。\n焉知二十载，重上君子堂。\n昔别君未婚，儿女忽成行。\n怡然敬父执，问我来何方。\n问答乃未已，驱儿罗酒浆。\n夜雨翦春韭，新炊间黄粱。\n主称会面难，一举累十觞。\n十觞亦不醉，感子故意长。\n明日隔山岳，世事两茫茫。",
         "fullOriginalLabel": "原作全文",
         "fullOriginalNote": "原作按所列电子文本核对，繁体转简体，标点与分段作阅读整理。"
+      }
+    },
+    {
+      "id": "c06-sweet-personal",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "personal",
+      "scene": "general",
+      "target": "person",
+      "source": "c06-sweet",
+      "title": "单独敬一位 · 渐至佳境",
+      "short": "《世说新语》里，顾长康吃甘蔗先吃尾，说是“渐至佳境”。甘蔗都懂把甜头放后面，咱们的好事也不急着一次到齐。这一杯敬你，愿你忙的时候有收获，闲的时候有滋味。",
+      "full": "《世说新语》里，顾长康吃甘蔗先吃尾，说是“渐至佳境”。\n甘蔗都懂把甜头放后面，咱们的好事也不急着一次到齐。\n这一杯敬你，愿你忙的时候有收获，闲的时候有滋味。",
+      "english": "May life grow sweeter, one good day at a time. Here is to you, to rewarding work and happy days.",
+      "translation": "甘蔗都懂把甜头放后面，咱们的好事也不急着一次到齐。这一杯敬你，愿你忙的时候有收获，闲的时候有滋味。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "c06-sweet",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古文／语录",
+      "sourceDetails": {
+        "id": "c06-sweet",
+        "title": "《世说新语·任诞》甘蔗渐至佳境",
+        "book": "《世说新语笺疏》",
+        "pages": "PDF 675，任诞第五十九则",
+        "original": "渐至佳境。",
+        "fullOriginal": "顾长康噉甘蔗，先食尾。问所以，云：“渐至佳境。”",
+        "fullOriginalLabel": "完整一则原文",
+        "fullOriginalTitle": "《世说新语·任诞》甘蔗渐至佳境",
+        "meaning": "书中写顾长康从甘蔗尾吃起，用“渐至佳境”解释。借来祝日子慢慢变好，不将一则轶事当作已考证的传记。",
+        "note": "采用所供书正文“渐至”，不是注中“渐入”异文。",
+        "fullOriginalNote": "采用所供书正文“渐至”，不是注中“渐入”异文。",
+        "form": "古文／语录"
+      }
+    },
+    {
+      "id": "c06-sweet-reply",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "reply",
+      "scene": "reply",
+      "target": "table",
+      "source": "c06-sweet",
+      "title": "接住祝福 · 渐至佳境",
+      "short": "《世说新语》里，顾长康吃甘蔗先吃尾，说是“渐至佳境”。甜头不用一口吃尽，好日子也值得慢慢来。谢谢你的祝福，我认真收下；也愿你顺心的事多一点，被惦记的时候多一点。",
+      "full": "《世说新语》里，顾长康吃甘蔗先吃尾，说是“渐至佳境”。\n甜头不用一口吃尽，好日子也值得慢慢来。\n谢谢你的祝福，我认真收下；也愿你顺心的事多一点，被惦记的时候多一点。",
+      "english": "May life grow sweeter, one good day at a time. Thank you for your kind wishes. I wish you the same warmth and happiness.",
+      "translation": "甜头不用一口吃尽，好日子也值得慢慢来。谢谢你的祝福，我认真收下；也愿你顺心的事多一点，被惦记的时候多一点。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-sweet",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古文／语录",
+      "sourceDetails": {
+        "id": "c06-sweet",
+        "title": "《世说新语·任诞》甘蔗渐至佳境",
+        "book": "《世说新语笺疏》",
+        "pages": "PDF 675，任诞第五十九则",
+        "original": "渐至佳境。",
+        "fullOriginal": "顾长康噉甘蔗，先食尾。问所以，云：“渐至佳境。”",
+        "fullOriginalLabel": "完整一则原文",
+        "fullOriginalTitle": "《世说新语·任诞》甘蔗渐至佳境",
+        "meaning": "书中写顾长康从甘蔗尾吃起，用“渐至佳境”解释。借来祝日子慢慢变好，不将一则轶事当作已考证的传记。",
+        "note": "采用所供书正文“渐至”，不是注中“渐入”异文。",
+        "fullOriginalNote": "采用所供书正文“渐至”，不是注中“渐入”异文。",
+        "form": "古文／语录"
+      }
+    },
+    {
+      "id": "c06-sweet-thanks",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "thanks",
+      "scene": "thanks",
+      "target": "host",
+      "source": "c06-sweet",
+      "title": "谢谢款待 · 渐至佳境",
+      "short": "《世说新语》里，顾长康吃甘蔗先吃尾，说是“渐至佳境”。甜头不用一口吃尽，好日子也值得慢慢来。今天谢谢你的张罗，让相聚有着落，也让我们有空坐下来好好说话。这杯敬你。",
+      "full": "《世说新语》里，顾长康吃甘蔗先吃尾，说是“渐至佳境”。\n甜头不用一口吃尽，好日子也值得慢慢来。\n今天谢谢你的张罗，让相聚有着落，也让我们有空坐下来好好说话。这杯敬你。",
+      "english": "May life grow sweeter, one good day at a time. Thank you for bringing us together and making us feel welcome.",
+      "translation": "甜头不用一口吃尽，好日子也值得慢慢来。今天谢谢你的张罗，让相聚有着落，也让我们有空坐下来好好说话。这杯敬你。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-sweet",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古文／语录",
+      "sourceDetails": {
+        "id": "c06-sweet",
+        "title": "《世说新语·任诞》甘蔗渐至佳境",
+        "book": "《世说新语笺疏》",
+        "pages": "PDF 675，任诞第五十九则",
+        "original": "渐至佳境。",
+        "fullOriginal": "顾长康噉甘蔗，先食尾。问所以，云：“渐至佳境。”",
+        "fullOriginalLabel": "完整一则原文",
+        "fullOriginalTitle": "《世说新语·任诞》甘蔗渐至佳境",
+        "meaning": "书中写顾长康从甘蔗尾吃起，用“渐至佳境”解释。借来祝日子慢慢变好，不将一则轶事当作已考证的传记。",
+        "note": "采用所供书正文“渐至”，不是注中“渐入”异文。",
+        "fullOriginalNote": "采用所供书正文“渐至”，不是注中“渐入”异文。",
+        "form": "古文／语录"
+      }
+    },
+    {
+      "id": "c06-sweet-welcome",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "welcome",
+      "scene": "host",
+      "target": "table",
+      "source": "c06-sweet",
+      "title": "欢迎相聚 · 渐至佳境",
+      "short": "《世说新语》里，顾长康吃甘蔗先吃尾，说是“渐至佳境”。甘蔗都懂把甜头放后面，咱们的好事也不急着一次到齐。很高兴今天能坐下来聊聊。饭慢慢吃，话慢慢说，愿这一席坐得自在，下回还想再来。",
+      "full": "《世说新语》里，顾长康吃甘蔗先吃尾，说是“渐至佳境”。\n甘蔗都懂把甜头放后面，咱们的好事也不急着一次到齐。\n很高兴今天能坐下来聊聊。饭慢慢吃，话慢慢说，愿这一席坐得自在，下回还想再来。",
+      "english": "May life grow sweeter, one good day at a time. Welcome. Let us enjoy the food and the conversation at our own pace.",
+      "translation": "甘蔗都懂把甜头放后面，咱们的好事也不急着一次到齐。很高兴今天能坐下来聊聊。饭慢慢吃，话慢慢说，愿这一席坐得自在，下回还想再来。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "c06-sweet",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古文／语录",
+      "sourceDetails": {
+        "id": "c06-sweet",
+        "title": "《世说新语·任诞》甘蔗渐至佳境",
+        "book": "《世说新语笺疏》",
+        "pages": "PDF 675，任诞第五十九则",
+        "original": "渐至佳境。",
+        "fullOriginal": "顾长康噉甘蔗，先食尾。问所以，云：“渐至佳境。”",
+        "fullOriginalLabel": "完整一则原文",
+        "fullOriginalTitle": "《世说新语·任诞》甘蔗渐至佳境",
+        "meaning": "书中写顾长康从甘蔗尾吃起，用“渐至佳境”解释。借来祝日子慢慢变好，不将一则轶事当作已考证的传记。",
+        "note": "采用所供书正文“渐至”，不是注中“渐入”异文。",
+        "fullOriginalNote": "采用所供书正文“渐至”，不是注中“渐入”异文。",
+        "form": "古文／语录"
+      }
+    },
+    {
+      "id": "c06-sweet-closing",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "closing",
+      "scene": "closing",
+      "target": "table",
+      "source": "c06-sweet",
+      "title": "散席留余温 · 渐至佳境",
+      "short": "《世说新语》里，顾长康吃甘蔗先吃尾，说是“渐至佳境”。甜头不用一口吃尽，好日子也值得慢慢来。今天就先把相聚留在这里。回去路上慢一点，到了报声平安；下回有机会，再坐一桌。",
+      "full": "《世说新语》里，顾长康吃甘蔗先吃尾，说是“渐至佳境”。\n甜头不用一口吃尽，好日子也值得慢慢来。\n今天就先把相聚留在这里。回去路上慢一点，到了报声平安；下回有机会，再坐一桌。",
+      "english": "May life grow sweeter, one good day at a time. Have a safe journey home. I look forward to our next conversation.",
+      "translation": "甜头不用一口吃尽，好日子也值得慢慢来。今天就先把相聚留在这里。回去路上慢一点，到了报声平安；下回有机会，再坐一桌。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-sweet",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古文／语录",
+      "sourceDetails": {
+        "id": "c06-sweet",
+        "title": "《世说新语·任诞》甘蔗渐至佳境",
+        "book": "《世说新语笺疏》",
+        "pages": "PDF 675，任诞第五十九则",
+        "original": "渐至佳境。",
+        "fullOriginal": "顾长康噉甘蔗，先食尾。问所以，云：“渐至佳境。”",
+        "fullOriginalLabel": "完整一则原文",
+        "fullOriginalTitle": "《世说新语·任诞》甘蔗渐至佳境",
+        "meaning": "书中写顾长康从甘蔗尾吃起，用“渐至佳境”解释。借来祝日子慢慢变好，不将一则轶事当作已考证的传记。",
+        "note": "采用所供书正文“渐至”，不是注中“渐入”异文。",
+        "fullOriginalNote": "采用所供书正文“渐至”，不是注中“渐入”异文。",
+        "form": "古文／语录"
+      }
+    },
+    {
+      "id": "c06-sweet-farewell",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "farewell",
+      "scene": "farewell",
+      "target": "table",
+      "source": "c06-sweet",
+      "title": "送一份祝福 · 渐至佳境",
+      "short": "《世说新语》里，顾长康吃甘蔗先吃尾，说是“渐至佳境”。甜头不用一口吃尽，好日子也值得慢慢来。这一杯送一份祝福，愿你接下来的路走得稳、过得好；有空的时候，咱们再约。",
+      "full": "《世说新语》里，顾长康吃甘蔗先吃尾，说是“渐至佳境”。\n甜头不用一口吃尽，好日子也值得慢慢来。\n这一杯送一份祝福，愿你接下来的路走得稳、过得好；有空的时候，咱们再约。",
+      "english": "May life grow sweeter, one good day at a time. Wishing you a smooth journey and good company wherever you go.",
+      "translation": "甜头不用一口吃尽，好日子也值得慢慢来。这一杯送一份祝福，愿你接下来的路走得稳、过得好；有空的时候，咱们再约。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-sweet",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古文／语录",
+      "sourceDetails": {
+        "id": "c06-sweet",
+        "title": "《世说新语·任诞》甘蔗渐至佳境",
+        "book": "《世说新语笺疏》",
+        "pages": "PDF 675，任诞第五十九则",
+        "original": "渐至佳境。",
+        "fullOriginal": "顾长康噉甘蔗，先食尾。问所以，云：“渐至佳境。”",
+        "fullOriginalLabel": "完整一则原文",
+        "fullOriginalTitle": "《世说新语·任诞》甘蔗渐至佳境",
+        "meaning": "书中写顾长康从甘蔗尾吃起，用“渐至佳境”解释。借来祝日子慢慢变好，不将一则轶事当作已考证的传记。",
+        "note": "采用所供书正文“渐至”，不是注中“渐入”异文。",
+        "fullOriginalNote": "采用所供书正文“渐至”，不是注中“渐入”异文。",
+        "form": "古文／语录"
+      }
+    },
+    {
+      "id": "c06-sweet-gratitude",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "gratitude",
+      "scene": "thanks",
+      "target": "table",
+      "source": "c06-sweet",
+      "title": "谢一份好意 · 渐至佳境",
+      "short": "《世说新语》里，顾长康吃甘蔗先吃尾，说是“渐至佳境”。甘蔗都懂把甜头放后面，咱们的好事也不急着一次到齐。今天借这一杯，认真谢谢你的好意。愿你给出去的体贴，也常有人还给你。",
+      "full": "《世说新语》里，顾长康吃甘蔗先吃尾，说是“渐至佳境”。\n甘蔗都懂把甜头放后面，咱们的好事也不急着一次到齐。\n今天借这一杯，认真谢谢你的好意。愿你给出去的体贴，也常有人还给你。",
+      "english": "May life grow sweeter, one good day at a time. Thank you for your kindness. May you find the same care in return.",
+      "translation": "甘蔗都懂把甜头放后面，咱们的好事也不急着一次到齐。今天借这一杯，认真谢谢你的好意。愿你给出去的体贴，也常有人还给你。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "c06-sweet",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古文／语录",
+      "sourceDetails": {
+        "id": "c06-sweet",
+        "title": "《世说新语·任诞》甘蔗渐至佳境",
+        "book": "《世说新语笺疏》",
+        "pages": "PDF 675，任诞第五十九则",
+        "original": "渐至佳境。",
+        "fullOriginal": "顾长康噉甘蔗，先食尾。问所以，云：“渐至佳境。”",
+        "fullOriginalLabel": "完整一则原文",
+        "fullOriginalTitle": "《世说新语·任诞》甘蔗渐至佳境",
+        "meaning": "书中写顾长康从甘蔗尾吃起，用“渐至佳境”解释。借来祝日子慢慢变好，不将一则轶事当作已考证的传记。",
+        "note": "采用所供书正文“渐至”，不是注中“渐入”异文。",
+        "fullOriginalNote": "采用所供书正文“渐至”，不是注中“渐入”异文。",
+        "form": "古文／语录"
+      }
+    },
+    {
+      "id": "c06-sweet-finish",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "finish",
+      "scene": "closing",
+      "target": "table",
+      "source": "c06-sweet",
+      "title": "话短心意长 · 渐至佳境",
+      "short": "《世说新语》里，顾长康吃甘蔗先吃尾，说是“渐至佳境”。甜头不用一口吃尽，好日子也值得慢慢来。我就先说到这里，把时间留给吃饭聊天。祝这份好心情，从饭桌一直跟到回家。",
+      "full": "《世说新语》里，顾长康吃甘蔗先吃尾，说是“渐至佳境”。\n甜头不用一口吃尽，好日子也值得慢慢来。\n我就先说到这里，把时间留给吃饭聊天。祝这份好心情，从饭桌一直跟到回家。",
+      "english": "May life grow sweeter, one good day at a time. That is all from me. Enjoy the meal and the conversation.",
+      "translation": "甜头不用一口吃尽，好日子也值得慢慢来。我就先说到这里，把时间留给吃饭聊天。祝这份好心情，从饭桌一直跟到回家。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-sweet",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古文／语录",
+      "sourceDetails": {
+        "id": "c06-sweet",
+        "title": "《世说新语·任诞》甘蔗渐至佳境",
+        "book": "《世说新语笺疏》",
+        "pages": "PDF 675，任诞第五十九则",
+        "original": "渐至佳境。",
+        "fullOriginal": "顾长康噉甘蔗，先食尾。问所以，云：“渐至佳境。”",
+        "fullOriginalLabel": "完整一则原文",
+        "fullOriginalTitle": "《世说新语·任诞》甘蔗渐至佳境",
+        "meaning": "书中写顾长康从甘蔗尾吃起，用“渐至佳境”解释。借来祝日子慢慢变好，不将一则轶事当作已考证的传记。",
+        "note": "采用所供书正文“渐至”，不是注中“渐入”异文。",
+        "fullOriginalNote": "采用所供书正文“渐至”，不是注中“渐入”异文。",
+        "form": "古文／语录"
+      }
+    },
+    {
+      "id": "c06-eyes-personal",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "personal",
+      "scene": "general",
+      "target": "person",
+      "source": "c06-eyes",
+      "title": "单独敬一位 · 真心传神",
+      "short": "顾长康论画，说“传神写照，正在阿堵中”。画里见神采，相处见真心，打动人的往往是那一点认真。这一杯敬你，愿你忙的时候有收获，闲的时候有滋味。",
+      "full": "顾长康论画，说“传神写照，正在阿堵中”。\n画里见神采，相处见真心，打动人的往往是那一点认真。\n这一杯敬你，愿你忙的时候有收获，闲的时候有滋味。",
+      "english": "To the care that shows in the little things. Here is to you, to rewarding work and happy days.",
+      "translation": "画里见神采，相处见真心，打动人的往往是那一点认真。这一杯敬你，愿你忙的时候有收获，闲的时候有滋味。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-eyes",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古文／语录",
+      "sourceDetails": {
+        "id": "c06-eyes",
+        "title": "《世说新语·巧艺》传神写照",
+        "book": "《世说新语笺疏》",
+        "pages": "PDF 598，巧艺第十三则",
+        "original": "传神写照，正在阿堵中。",
+        "fullOriginal": "顾长康画人，或数年不点目精。人问其故？顾曰：“四体妍蚩，本无关于妙处；传神写照，正在阿堵中。”",
+        "fullOriginalLabel": "完整一则原文",
+        "fullOriginalTitle": "《世说新语·巧艺》传神写照",
+        "meaning": "顾长康论画，把传神的关键落在眼睛。阿堵是指示语，此处指眼睛。借来说明用心比外在排场更动人。",
+        "note": "保留所供书“目精”用字；不将注释里的其他点睛故事混入本则。",
+        "fullOriginalNote": "保留所供书“目精”用字；不将注释里的其他点睛故事混入本则。",
+        "form": "古文／语录"
+      }
+    },
+    {
+      "id": "c06-eyes-reply",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "reply",
+      "scene": "reply",
+      "target": "table",
+      "source": "c06-eyes",
+      "title": "接住祝福 · 真心传神",
+      "short": "顾长康论画，说“传神写照，正在阿堵中”。画里见神采，相处见真心，打动人的往往是那一点认真。谢谢你的祝福，我认真收下；也愿你顺心的事多一点，被惦记的时候多一点。",
+      "full": "顾长康论画，说“传神写照，正在阿堵中”。\n画里见神采，相处见真心，打动人的往往是那一点认真。\n谢谢你的祝福，我认真收下；也愿你顺心的事多一点，被惦记的时候多一点。",
+      "english": "To the care that shows in the little things. Thank you for your kind wishes. I wish you the same warmth and happiness.",
+      "translation": "画里见神采，相处见真心，打动人的往往是那一点认真。谢谢你的祝福，我认真收下；也愿你顺心的事多一点，被惦记的时候多一点。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-eyes",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古文／语录",
+      "sourceDetails": {
+        "id": "c06-eyes",
+        "title": "《世说新语·巧艺》传神写照",
+        "book": "《世说新语笺疏》",
+        "pages": "PDF 598，巧艺第十三则",
+        "original": "传神写照，正在阿堵中。",
+        "fullOriginal": "顾长康画人，或数年不点目精。人问其故？顾曰：“四体妍蚩，本无关于妙处；传神写照，正在阿堵中。”",
+        "fullOriginalLabel": "完整一则原文",
+        "fullOriginalTitle": "《世说新语·巧艺》传神写照",
+        "meaning": "顾长康论画，把传神的关键落在眼睛。阿堵是指示语，此处指眼睛。借来说明用心比外在排场更动人。",
+        "note": "保留所供书“目精”用字；不将注释里的其他点睛故事混入本则。",
+        "fullOriginalNote": "保留所供书“目精”用字；不将注释里的其他点睛故事混入本则。",
+        "form": "古文／语录"
+      }
+    },
+    {
+      "id": "c06-eyes-thanks",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "thanks",
+      "scene": "thanks",
+      "target": "host",
+      "source": "c06-eyes",
+      "title": "谢谢款待 · 真心传神",
+      "short": "顾长康论画，说“传神写照，正在阿堵中”。画画得点到眼睛，说话得说到心里；我争取今天别光把句子凑齐。今天谢谢你的张罗，让相聚有着落，也让我们有空坐下来好好说话。这杯敬你。",
+      "full": "顾长康论画，说“传神写照，正在阿堵中”。\n画画得点到眼睛，说话得说到心里；我争取今天别光把句子凑齐。\n今天谢谢你的张罗，让相聚有着落，也让我们有空坐下来好好说话。这杯敬你。",
+      "english": "To the care that shows in the little things. Thank you for bringing us together and making us feel welcome.",
+      "translation": "画画得点到眼睛，说话得说到心里；我争取今天别光把句子凑齐。今天谢谢你的张罗，让相聚有着落，也让我们有空坐下来好好说话。这杯敬你。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "c06-eyes",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古文／语录",
+      "sourceDetails": {
+        "id": "c06-eyes",
+        "title": "《世说新语·巧艺》传神写照",
+        "book": "《世说新语笺疏》",
+        "pages": "PDF 598，巧艺第十三则",
+        "original": "传神写照，正在阿堵中。",
+        "fullOriginal": "顾长康画人，或数年不点目精。人问其故？顾曰：“四体妍蚩，本无关于妙处；传神写照，正在阿堵中。”",
+        "fullOriginalLabel": "完整一则原文",
+        "fullOriginalTitle": "《世说新语·巧艺》传神写照",
+        "meaning": "顾长康论画，把传神的关键落在眼睛。阿堵是指示语，此处指眼睛。借来说明用心比外在排场更动人。",
+        "note": "保留所供书“目精”用字；不将注释里的其他点睛故事混入本则。",
+        "fullOriginalNote": "保留所供书“目精”用字；不将注释里的其他点睛故事混入本则。",
+        "form": "古文／语录"
+      }
+    },
+    {
+      "id": "c06-eyes-welcome",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "welcome",
+      "scene": "host",
+      "target": "table",
+      "source": "c06-eyes",
+      "title": "欢迎相聚 · 真心传神",
+      "short": "顾长康论画，说“传神写照，正在阿堵中”。画里见神采，相处见真心，打动人的往往是那一点认真。很高兴今天能坐下来聊聊。饭慢慢吃，话慢慢说，愿这一席坐得自在，下回还想再来。",
+      "full": "顾长康论画，说“传神写照，正在阿堵中”。\n画里见神采，相处见真心，打动人的往往是那一点认真。\n很高兴今天能坐下来聊聊。饭慢慢吃，话慢慢说，愿这一席坐得自在，下回还想再来。",
+      "english": "To the care that shows in the little things. Welcome. Let us enjoy the food and the conversation at our own pace.",
+      "translation": "画里见神采，相处见真心，打动人的往往是那一点认真。很高兴今天能坐下来聊聊。饭慢慢吃，话慢慢说，愿这一席坐得自在，下回还想再来。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-eyes",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古文／语录",
+      "sourceDetails": {
+        "id": "c06-eyes",
+        "title": "《世说新语·巧艺》传神写照",
+        "book": "《世说新语笺疏》",
+        "pages": "PDF 598，巧艺第十三则",
+        "original": "传神写照，正在阿堵中。",
+        "fullOriginal": "顾长康画人，或数年不点目精。人问其故？顾曰：“四体妍蚩，本无关于妙处；传神写照，正在阿堵中。”",
+        "fullOriginalLabel": "完整一则原文",
+        "fullOriginalTitle": "《世说新语·巧艺》传神写照",
+        "meaning": "顾长康论画，把传神的关键落在眼睛。阿堵是指示语，此处指眼睛。借来说明用心比外在排场更动人。",
+        "note": "保留所供书“目精”用字；不将注释里的其他点睛故事混入本则。",
+        "fullOriginalNote": "保留所供书“目精”用字；不将注释里的其他点睛故事混入本则。",
+        "form": "古文／语录"
+      }
+    },
+    {
+      "id": "c06-eyes-closing",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "closing",
+      "scene": "closing",
+      "target": "table",
+      "source": "c06-eyes",
+      "title": "散席留余温 · 真心传神",
+      "short": "顾长康论画，说“传神写照，正在阿堵中”。画里见神采，相处见真心，打动人的往往是那一点认真。今天就先把相聚留在这里。回去路上慢一点，到了报声平安；下回有机会，再坐一桌。",
+      "full": "顾长康论画，说“传神写照，正在阿堵中”。\n画里见神采，相处见真心，打动人的往往是那一点认真。\n今天就先把相聚留在这里。回去路上慢一点，到了报声平安；下回有机会，再坐一桌。",
+      "english": "To the care that shows in the little things. Have a safe journey home. I look forward to our next conversation.",
+      "translation": "画里见神采，相处见真心，打动人的往往是那一点认真。今天就先把相聚留在这里。回去路上慢一点，到了报声平安；下回有机会，再坐一桌。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-eyes",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古文／语录",
+      "sourceDetails": {
+        "id": "c06-eyes",
+        "title": "《世说新语·巧艺》传神写照",
+        "book": "《世说新语笺疏》",
+        "pages": "PDF 598，巧艺第十三则",
+        "original": "传神写照，正在阿堵中。",
+        "fullOriginal": "顾长康画人，或数年不点目精。人问其故？顾曰：“四体妍蚩，本无关于妙处；传神写照，正在阿堵中。”",
+        "fullOriginalLabel": "完整一则原文",
+        "fullOriginalTitle": "《世说新语·巧艺》传神写照",
+        "meaning": "顾长康论画，把传神的关键落在眼睛。阿堵是指示语，此处指眼睛。借来说明用心比外在排场更动人。",
+        "note": "保留所供书“目精”用字；不将注释里的其他点睛故事混入本则。",
+        "fullOriginalNote": "保留所供书“目精”用字；不将注释里的其他点睛故事混入本则。",
+        "form": "古文／语录"
+      }
+    },
+    {
+      "id": "c06-eyes-farewell",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "farewell",
+      "scene": "farewell",
+      "target": "table",
+      "source": "c06-eyes",
+      "title": "送一份祝福 · 真心传神",
+      "short": "顾长康论画，说“传神写照，正在阿堵中”。画画得点到眼睛，说话得说到心里；我争取今天别光把句子凑齐。这一杯送一份祝福，愿你接下来的路走得稳、过得好；有空的时候，咱们再约。",
+      "full": "顾长康论画，说“传神写照，正在阿堵中”。\n画画得点到眼睛，说话得说到心里；我争取今天别光把句子凑齐。\n这一杯送一份祝福，愿你接下来的路走得稳、过得好；有空的时候，咱们再约。",
+      "english": "To the care that shows in the little things. Wishing you a smooth journey and good company wherever you go.",
+      "translation": "画画得点到眼睛，说话得说到心里；我争取今天别光把句子凑齐。这一杯送一份祝福，愿你接下来的路走得稳、过得好；有空的时候，咱们再约。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "c06-eyes",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古文／语录",
+      "sourceDetails": {
+        "id": "c06-eyes",
+        "title": "《世说新语·巧艺》传神写照",
+        "book": "《世说新语笺疏》",
+        "pages": "PDF 598，巧艺第十三则",
+        "original": "传神写照，正在阿堵中。",
+        "fullOriginal": "顾长康画人，或数年不点目精。人问其故？顾曰：“四体妍蚩，本无关于妙处；传神写照，正在阿堵中。”",
+        "fullOriginalLabel": "完整一则原文",
+        "fullOriginalTitle": "《世说新语·巧艺》传神写照",
+        "meaning": "顾长康论画，把传神的关键落在眼睛。阿堵是指示语，此处指眼睛。借来说明用心比外在排场更动人。",
+        "note": "保留所供书“目精”用字；不将注释里的其他点睛故事混入本则。",
+        "fullOriginalNote": "保留所供书“目精”用字；不将注释里的其他点睛故事混入本则。",
+        "form": "古文／语录"
+      }
+    },
+    {
+      "id": "c06-eyes-gratitude",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "gratitude",
+      "scene": "thanks",
+      "target": "table",
+      "source": "c06-eyes",
+      "title": "谢一份好意 · 真心传神",
+      "short": "顾长康论画，说“传神写照，正在阿堵中”。画里见神采，相处见真心，打动人的往往是那一点认真。今天借这一杯，认真谢谢你的好意。愿你给出去的体贴，也常有人还给你。",
+      "full": "顾长康论画，说“传神写照，正在阿堵中”。\n画里见神采，相处见真心，打动人的往往是那一点认真。\n今天借这一杯，认真谢谢你的好意。愿你给出去的体贴，也常有人还给你。",
+      "english": "To the care that shows in the little things. Thank you for your kindness. May you find the same care in return.",
+      "translation": "画里见神采，相处见真心，打动人的往往是那一点认真。今天借这一杯，认真谢谢你的好意。愿你给出去的体贴，也常有人还给你。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-eyes",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古文／语录",
+      "sourceDetails": {
+        "id": "c06-eyes",
+        "title": "《世说新语·巧艺》传神写照",
+        "book": "《世说新语笺疏》",
+        "pages": "PDF 598，巧艺第十三则",
+        "original": "传神写照，正在阿堵中。",
+        "fullOriginal": "顾长康画人，或数年不点目精。人问其故？顾曰：“四体妍蚩，本无关于妙处；传神写照，正在阿堵中。”",
+        "fullOriginalLabel": "完整一则原文",
+        "fullOriginalTitle": "《世说新语·巧艺》传神写照",
+        "meaning": "顾长康论画，把传神的关键落在眼睛。阿堵是指示语，此处指眼睛。借来说明用心比外在排场更动人。",
+        "note": "保留所供书“目精”用字；不将注释里的其他点睛故事混入本则。",
+        "fullOriginalNote": "保留所供书“目精”用字；不将注释里的其他点睛故事混入本则。",
+        "form": "古文／语录"
+      }
+    },
+    {
+      "id": "c06-eyes-finish",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "finish",
+      "scene": "closing",
+      "target": "table",
+      "source": "c06-eyes",
+      "title": "话短心意长 · 真心传神",
+      "short": "顾长康论画，说“传神写照，正在阿堵中”。画里见神采，相处见真心，打动人的往往是那一点认真。我就先说到这里，把时间留给吃饭聊天。祝这份好心情，从饭桌一直跟到回家。",
+      "full": "顾长康论画，说“传神写照，正在阿堵中”。\n画里见神采，相处见真心，打动人的往往是那一点认真。\n我就先说到这里，把时间留给吃饭聊天。祝这份好心情，从饭桌一直跟到回家。",
+      "english": "To the care that shows in the little things. That is all from me. Enjoy the meal and the conversation.",
+      "translation": "画里见神采，相处见真心，打动人的往往是那一点认真。我就先说到这里，把时间留给吃饭聊天。祝这份好心情，从饭桌一直跟到回家。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-eyes",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古文／语录",
+      "sourceDetails": {
+        "id": "c06-eyes",
+        "title": "《世说新语·巧艺》传神写照",
+        "book": "《世说新语笺疏》",
+        "pages": "PDF 598，巧艺第十三则",
+        "original": "传神写照，正在阿堵中。",
+        "fullOriginal": "顾长康画人，或数年不点目精。人问其故？顾曰：“四体妍蚩，本无关于妙处；传神写照，正在阿堵中。”",
+        "fullOriginalLabel": "完整一则原文",
+        "fullOriginalTitle": "《世说新语·巧艺》传神写照",
+        "meaning": "顾长康论画，把传神的关键落在眼睛。阿堵是指示语，此处指眼睛。借来说明用心比外在排场更动人。",
+        "note": "保留所供书“目精”用字；不将注释里的其他点睛故事混入本则。",
+        "fullOriginalNote": "保留所供书“目精”用字；不将注释里的其他点睛故事混入本则。",
+        "form": "古文／语录"
+      }
+    },
+    {
+      "id": "c06-spring-personal",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "personal",
+      "scene": "general",
+      "target": "person",
+      "source": "c06-spring",
+      "title": "单独敬一位 · 留住好时光",
+      "short": "黄庭坚问过春的去处：“若有人知春去处，唤取归来同住。”好时光留不住一整年，能认真过好眼前这一段，也已经很好。这一杯敬你，愿你忙的时候有收获，闲的时候有滋味。",
+      "full": "黄庭坚问过春的去处：“若有人知春去处，唤取归来同住。”\n好时光留不住一整年，能认真过好眼前这一段，也已经很好。\n这一杯敬你，愿你忙的时候有收获，闲的时候有滋味。",
+      "english": "To a good moment, enjoyed while we have it. Here is to you, to rewarding work and happy days.",
+      "translation": "好时光留不住一整年，能认真过好眼前这一段，也已经很好。这一杯敬你，愿你忙的时候有收获，闲的时候有滋味。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-spring",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-spring",
+        "title": "黄庭坚《清平乐·春归何处》",
+        "book": "《唐宋词选释》",
+        "pages": "PDF 113",
+        "original": "若有人知春去处，唤取归来同住。",
+        "fullOriginal": "春归何处？寂寞无行路。\n若有人知春去处，唤取归来同住。\n春无踪迹谁知，除非问取黄鹂，\n百啭无人能解，因风飞过蔷薇。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "黄庭坚《清平乐·春归何处》",
+        "meaning": "全词惜春，寻问春的去处。这里只借舍不得好时光的心意，不认定相聚当天是春天。",
+        "note": "题目附首句便于检索；古人词句与后续当代祝愿分开。",
+        "fullOriginalNote": "题目附首句便于检索；古人词句与后续当代祝愿分开。",
+        "form": "词"
+      }
+    },
+    {
+      "id": "c06-spring-reply",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "reply",
+      "scene": "reply",
+      "target": "table",
+      "source": "c06-spring",
+      "title": "接住祝福 · 留住好时光",
+      "short": "黄庭坚问过春的去处：“若有人知春去处，唤取归来同住。”春天不肯续住，好在今天这段开心，咱们还能多存一会儿。谢谢你的祝福，我认真收下；也愿你顺心的事多一点，被惦记的时候多一点。",
+      "full": "黄庭坚问过春的去处：“若有人知春去处，唤取归来同住。”\n春天不肯续住，好在今天这段开心，咱们还能多存一会儿。\n谢谢你的祝福，我认真收下；也愿你顺心的事多一点，被惦记的时候多一点。",
+      "english": "To a good moment, enjoyed while we have it. Thank you for your kind wishes. I wish you the same warmth and happiness.",
+      "translation": "春天不肯续住，好在今天这段开心，咱们还能多存一会儿。谢谢你的祝福，我认真收下；也愿你顺心的事多一点，被惦记的时候多一点。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "c06-spring",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-spring",
+        "title": "黄庭坚《清平乐·春归何处》",
+        "book": "《唐宋词选释》",
+        "pages": "PDF 113",
+        "original": "若有人知春去处，唤取归来同住。",
+        "fullOriginal": "春归何处？寂寞无行路。\n若有人知春去处，唤取归来同住。\n春无踪迹谁知，除非问取黄鹂，\n百啭无人能解，因风飞过蔷薇。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "黄庭坚《清平乐·春归何处》",
+        "meaning": "全词惜春，寻问春的去处。这里只借舍不得好时光的心意，不认定相聚当天是春天。",
+        "note": "题目附首句便于检索；古人词句与后续当代祝愿分开。",
+        "fullOriginalNote": "题目附首句便于检索；古人词句与后续当代祝愿分开。",
+        "form": "词"
+      }
+    },
+    {
+      "id": "c06-spring-thanks",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "thanks",
+      "scene": "thanks",
+      "target": "host",
+      "source": "c06-spring",
+      "title": "谢谢款待 · 留住好时光",
+      "short": "黄庭坚问过春的去处：“若有人知春去处，唤取归来同住。”好时光留不住一整年，能认真过好眼前这一段，也已经很好。今天谢谢你的张罗，让相聚有着落，也让我们有空坐下来好好说话。这杯敬你。",
+      "full": "黄庭坚问过春的去处：“若有人知春去处，唤取归来同住。”\n好时光留不住一整年，能认真过好眼前这一段，也已经很好。\n今天谢谢你的张罗，让相聚有着落，也让我们有空坐下来好好说话。这杯敬你。",
+      "english": "To a good moment, enjoyed while we have it. Thank you for bringing us together and making us feel welcome.",
+      "translation": "好时光留不住一整年，能认真过好眼前这一段，也已经很好。今天谢谢你的张罗，让相聚有着落，也让我们有空坐下来好好说话。这杯敬你。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-spring",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-spring",
+        "title": "黄庭坚《清平乐·春归何处》",
+        "book": "《唐宋词选释》",
+        "pages": "PDF 113",
+        "original": "若有人知春去处，唤取归来同住。",
+        "fullOriginal": "春归何处？寂寞无行路。\n若有人知春去处，唤取归来同住。\n春无踪迹谁知，除非问取黄鹂，\n百啭无人能解，因风飞过蔷薇。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "黄庭坚《清平乐·春归何处》",
+        "meaning": "全词惜春，寻问春的去处。这里只借舍不得好时光的心意，不认定相聚当天是春天。",
+        "note": "题目附首句便于检索；古人词句与后续当代祝愿分开。",
+        "fullOriginalNote": "题目附首句便于检索；古人词句与后续当代祝愿分开。",
+        "form": "词"
+      }
+    },
+    {
+      "id": "c06-spring-welcome",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "welcome",
+      "scene": "host",
+      "target": "table",
+      "source": "c06-spring",
+      "title": "欢迎相聚 · 留住好时光",
+      "short": "黄庭坚问过春的去处：“若有人知春去处，唤取归来同住。”好时光留不住一整年，能认真过好眼前这一段，也已经很好。很高兴今天能坐下来聊聊。饭慢慢吃，话慢慢说，愿这一席坐得自在，下回还想再来。",
+      "full": "黄庭坚问过春的去处：“若有人知春去处，唤取归来同住。”\n好时光留不住一整年，能认真过好眼前这一段，也已经很好。\n很高兴今天能坐下来聊聊。饭慢慢吃，话慢慢说，愿这一席坐得自在，下回还想再来。",
+      "english": "To a good moment, enjoyed while we have it. Welcome. Let us enjoy the food and the conversation at our own pace.",
+      "translation": "好时光留不住一整年，能认真过好眼前这一段，也已经很好。很高兴今天能坐下来聊聊。饭慢慢吃，话慢慢说，愿这一席坐得自在，下回还想再来。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-spring",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-spring",
+        "title": "黄庭坚《清平乐·春归何处》",
+        "book": "《唐宋词选释》",
+        "pages": "PDF 113",
+        "original": "若有人知春去处，唤取归来同住。",
+        "fullOriginal": "春归何处？寂寞无行路。\n若有人知春去处，唤取归来同住。\n春无踪迹谁知，除非问取黄鹂，\n百啭无人能解，因风飞过蔷薇。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "黄庭坚《清平乐·春归何处》",
+        "meaning": "全词惜春，寻问春的去处。这里只借舍不得好时光的心意，不认定相聚当天是春天。",
+        "note": "题目附首句便于检索；古人词句与后续当代祝愿分开。",
+        "fullOriginalNote": "题目附首句便于检索；古人词句与后续当代祝愿分开。",
+        "form": "词"
+      }
+    },
+    {
+      "id": "c06-spring-closing",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "closing",
+      "scene": "closing",
+      "target": "table",
+      "source": "c06-spring",
+      "title": "散席留余温 · 留住好时光",
+      "short": "黄庭坚问过春的去处：“若有人知春去处，唤取归来同住。”春天不肯续住，好在今天这段开心，咱们还能多存一会儿。今天就先把相聚留在这里。回去路上慢一点，到了报声平安；下回有机会，再坐一桌。",
+      "full": "黄庭坚问过春的去处：“若有人知春去处，唤取归来同住。”\n春天不肯续住，好在今天这段开心，咱们还能多存一会儿。\n今天就先把相聚留在这里。回去路上慢一点，到了报声平安；下回有机会，再坐一桌。",
+      "english": "To a good moment, enjoyed while we have it. Have a safe journey home. I look forward to our next conversation.",
+      "translation": "春天不肯续住，好在今天这段开心，咱们还能多存一会儿。今天就先把相聚留在这里。回去路上慢一点，到了报声平安；下回有机会，再坐一桌。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "c06-spring",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-spring",
+        "title": "黄庭坚《清平乐·春归何处》",
+        "book": "《唐宋词选释》",
+        "pages": "PDF 113",
+        "original": "若有人知春去处，唤取归来同住。",
+        "fullOriginal": "春归何处？寂寞无行路。\n若有人知春去处，唤取归来同住。\n春无踪迹谁知，除非问取黄鹂，\n百啭无人能解，因风飞过蔷薇。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "黄庭坚《清平乐·春归何处》",
+        "meaning": "全词惜春，寻问春的去处。这里只借舍不得好时光的心意，不认定相聚当天是春天。",
+        "note": "题目附首句便于检索；古人词句与后续当代祝愿分开。",
+        "fullOriginalNote": "题目附首句便于检索；古人词句与后续当代祝愿分开。",
+        "form": "词"
+      }
+    },
+    {
+      "id": "c06-spring-farewell",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "farewell",
+      "scene": "farewell",
+      "target": "table",
+      "source": "c06-spring",
+      "title": "送一份祝福 · 留住好时光",
+      "short": "黄庭坚问过春的去处：“若有人知春去处，唤取归来同住。”好时光留不住一整年，能认真过好眼前这一段，也已经很好。这一杯送一份祝福，愿你接下来的路走得稳、过得好；有空的时候，咱们再约。",
+      "full": "黄庭坚问过春的去处：“若有人知春去处，唤取归来同住。”\n好时光留不住一整年，能认真过好眼前这一段，也已经很好。\n这一杯送一份祝福，愿你接下来的路走得稳、过得好；有空的时候，咱们再约。",
+      "english": "To a good moment, enjoyed while we have it. Wishing you a smooth journey and good company wherever you go.",
+      "translation": "好时光留不住一整年，能认真过好眼前这一段，也已经很好。这一杯送一份祝福，愿你接下来的路走得稳、过得好；有空的时候，咱们再约。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-spring",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-spring",
+        "title": "黄庭坚《清平乐·春归何处》",
+        "book": "《唐宋词选释》",
+        "pages": "PDF 113",
+        "original": "若有人知春去处，唤取归来同住。",
+        "fullOriginal": "春归何处？寂寞无行路。\n若有人知春去处，唤取归来同住。\n春无踪迹谁知，除非问取黄鹂，\n百啭无人能解，因风飞过蔷薇。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "黄庭坚《清平乐·春归何处》",
+        "meaning": "全词惜春，寻问春的去处。这里只借舍不得好时光的心意，不认定相聚当天是春天。",
+        "note": "题目附首句便于检索；古人词句与后续当代祝愿分开。",
+        "fullOriginalNote": "题目附首句便于检索；古人词句与后续当代祝愿分开。",
+        "form": "词"
+      }
+    },
+    {
+      "id": "c06-spring-gratitude",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "gratitude",
+      "scene": "thanks",
+      "target": "table",
+      "source": "c06-spring",
+      "title": "谢一份好意 · 留住好时光",
+      "short": "黄庭坚问过春的去处：“若有人知春去处，唤取归来同住。”好时光留不住一整年，能认真过好眼前这一段，也已经很好。今天借这一杯，认真谢谢你的好意。愿你给出去的体贴，也常有人还给你。",
+      "full": "黄庭坚问过春的去处：“若有人知春去处，唤取归来同住。”\n好时光留不住一整年，能认真过好眼前这一段，也已经很好。\n今天借这一杯，认真谢谢你的好意。愿你给出去的体贴，也常有人还给你。",
+      "english": "To a good moment, enjoyed while we have it. Thank you for your kindness. May you find the same care in return.",
+      "translation": "好时光留不住一整年，能认真过好眼前这一段，也已经很好。今天借这一杯，认真谢谢你的好意。愿你给出去的体贴，也常有人还给你。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-spring",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-spring",
+        "title": "黄庭坚《清平乐·春归何处》",
+        "book": "《唐宋词选释》",
+        "pages": "PDF 113",
+        "original": "若有人知春去处，唤取归来同住。",
+        "fullOriginal": "春归何处？寂寞无行路。\n若有人知春去处，唤取归来同住。\n春无踪迹谁知，除非问取黄鹂，\n百啭无人能解，因风飞过蔷薇。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "黄庭坚《清平乐·春归何处》",
+        "meaning": "全词惜春，寻问春的去处。这里只借舍不得好时光的心意，不认定相聚当天是春天。",
+        "note": "题目附首句便于检索；古人词句与后续当代祝愿分开。",
+        "fullOriginalNote": "题目附首句便于检索；古人词句与后续当代祝愿分开。",
+        "form": "词"
+      }
+    },
+    {
+      "id": "c06-spring-finish",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "finish",
+      "scene": "closing",
+      "target": "table",
+      "source": "c06-spring",
+      "title": "话短心意长 · 留住好时光",
+      "short": "黄庭坚问过春的去处：“若有人知春去处，唤取归来同住。”春天不肯续住，好在今天这段开心，咱们还能多存一会儿。我就先说到这里，把时间留给吃饭聊天。祝这份好心情，从饭桌一直跟到回家。",
+      "full": "黄庭坚问过春的去处：“若有人知春去处，唤取归来同住。”\n春天不肯续住，好在今天这段开心，咱们还能多存一会儿。\n我就先说到这里，把时间留给吃饭聊天。祝这份好心情，从饭桌一直跟到回家。",
+      "english": "To a good moment, enjoyed while we have it. That is all from me. Enjoy the meal and the conversation.",
+      "translation": "春天不肯续住，好在今天这段开心，咱们还能多存一会儿。我就先说到这里，把时间留给吃饭聊天。祝这份好心情，从饭桌一直跟到回家。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "c06-spring",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-spring",
+        "title": "黄庭坚《清平乐·春归何处》",
+        "book": "《唐宋词选释》",
+        "pages": "PDF 113",
+        "original": "若有人知春去处，唤取归来同住。",
+        "fullOriginal": "春归何处？寂寞无行路。\n若有人知春去处，唤取归来同住。\n春无踪迹谁知，除非问取黄鹂，\n百啭无人能解，因风飞过蔷薇。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "黄庭坚《清平乐·春归何处》",
+        "meaning": "全词惜春，寻问春的去处。这里只借舍不得好时光的心意，不认定相聚当天是春天。",
+        "note": "题目附首句便于检索；古人词句与后续当代祝愿分开。",
+        "fullOriginalNote": "题目附首句便于检索；古人词句与后续当代祝愿分开。",
+        "form": "词"
+      }
+    },
+    {
+      "id": "c06-boat-personal",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "personal",
+      "scene": "general",
+      "target": "person",
+      "source": "c06-boat",
+      "title": "单独敬一位 · 从容向前",
+      "short": "范成大写舟行：“画舫夷犹湾百转，横塘塔近依前远。”古人的船拐了百道弯，我这段话就少拐两道，心意直着送。这一杯敬你，愿你忙的时候有收获，闲的时候有滋味。",
+      "full": "范成大写舟行：“画舫夷犹湾百转，横塘塔近依前远。”\n古人的船拐了百道弯，我这段话就少拐两道，心意直着送。\n这一杯敬你，愿你忙的时候有收获，闲的时候有滋味。",
+      "english": "To steady steps and time to enjoy the journey. Here is to you, to rewarding work and happy days.",
+      "translation": "古人的船拐了百道弯，我这段话就少拐两道，心意直着送。这一杯敬你，愿你忙的时候有收获，闲的时候有滋味。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "c06-boat",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-boat",
+        "title": "范成大《蝶恋花·春涨一篙添水面》",
+        "book": "《唐宋词选释》",
+        "pages": "PDF 158",
+        "original": "画舫夷犹湾百转，横塘塔近依前远。",
+        "fullOriginal": "春涨一篙添水面，芳草鹅儿，绿满微风岸。\n画舫夷犹湾百转，横塘塔近依前远。\n江国多寒农事晚，村北村南，谷雨才耕遍。\n秀麦连冈桑叶贱，看看尝面收新茧。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "范成大《蝶恋花·春涨一篙添水面》",
+        "meaning": "词写江南舟行与农事。“夷犹”写行船从容，塔看着近却还有距离。这里只借从容，不以此预测农事或天气。",
+        "note": "按所供书正文录入；不把词里的谷雨当作当前日期。",
+        "fullOriginalNote": "按所供书正文录入；不把词里的谷雨当作当前日期。",
+        "form": "词"
+      }
+    },
+    {
+      "id": "c06-boat-reply",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "reply",
+      "scene": "reply",
+      "target": "table",
+      "source": "c06-boat",
+      "title": "接住祝福 · 从容向前",
+      "short": "范成大写舟行：“画舫夷犹湾百转，横塘塔近依前远。”路有转弯，日子也不必赶着过；走得稳，沿途才有心思看。谢谢你的祝福，我认真收下；也愿你顺心的事多一点，被惦记的时候多一点。",
+      "full": "范成大写舟行：“画舫夷犹湾百转，横塘塔近依前远。”\n路有转弯，日子也不必赶着过；走得稳，沿途才有心思看。\n谢谢你的祝福，我认真收下；也愿你顺心的事多一点，被惦记的时候多一点。",
+      "english": "To steady steps and time to enjoy the journey. Thank you for your kind wishes. I wish you the same warmth and happiness.",
+      "translation": "路有转弯，日子也不必赶着过；走得稳，沿途才有心思看。谢谢你的祝福，我认真收下；也愿你顺心的事多一点，被惦记的时候多一点。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-boat",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-boat",
+        "title": "范成大《蝶恋花·春涨一篙添水面》",
+        "book": "《唐宋词选释》",
+        "pages": "PDF 158",
+        "original": "画舫夷犹湾百转，横塘塔近依前远。",
+        "fullOriginal": "春涨一篙添水面，芳草鹅儿，绿满微风岸。\n画舫夷犹湾百转，横塘塔近依前远。\n江国多寒农事晚，村北村南，谷雨才耕遍。\n秀麦连冈桑叶贱，看看尝面收新茧。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "范成大《蝶恋花·春涨一篙添水面》",
+        "meaning": "词写江南舟行与农事。“夷犹”写行船从容，塔看着近却还有距离。这里只借从容，不以此预测农事或天气。",
+        "note": "按所供书正文录入；不把词里的谷雨当作当前日期。",
+        "fullOriginalNote": "按所供书正文录入；不把词里的谷雨当作当前日期。",
+        "form": "词"
+      }
+    },
+    {
+      "id": "c06-boat-thanks",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "thanks",
+      "scene": "thanks",
+      "target": "host",
+      "source": "c06-boat",
+      "title": "谢谢款待 · 从容向前",
+      "short": "范成大写舟行：“画舫夷犹湾百转，横塘塔近依前远。”路有转弯，日子也不必赶着过；走得稳，沿途才有心思看。今天谢谢你的张罗，让相聚有着落，也让我们有空坐下来好好说话。这杯敬你。",
+      "full": "范成大写舟行：“画舫夷犹湾百转，横塘塔近依前远。”\n路有转弯，日子也不必赶着过；走得稳，沿途才有心思看。\n今天谢谢你的张罗，让相聚有着落，也让我们有空坐下来好好说话。这杯敬你。",
+      "english": "To steady steps and time to enjoy the journey. Thank you for bringing us together and making us feel welcome.",
+      "translation": "路有转弯，日子也不必赶着过；走得稳，沿途才有心思看。今天谢谢你的张罗，让相聚有着落，也让我们有空坐下来好好说话。这杯敬你。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-boat",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-boat",
+        "title": "范成大《蝶恋花·春涨一篙添水面》",
+        "book": "《唐宋词选释》",
+        "pages": "PDF 158",
+        "original": "画舫夷犹湾百转，横塘塔近依前远。",
+        "fullOriginal": "春涨一篙添水面，芳草鹅儿，绿满微风岸。\n画舫夷犹湾百转，横塘塔近依前远。\n江国多寒农事晚，村北村南，谷雨才耕遍。\n秀麦连冈桑叶贱，看看尝面收新茧。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "范成大《蝶恋花·春涨一篙添水面》",
+        "meaning": "词写江南舟行与农事。“夷犹”写行船从容，塔看着近却还有距离。这里只借从容，不以此预测农事或天气。",
+        "note": "按所供书正文录入；不把词里的谷雨当作当前日期。",
+        "fullOriginalNote": "按所供书正文录入；不把词里的谷雨当作当前日期。",
+        "form": "词"
+      }
+    },
+    {
+      "id": "c06-boat-welcome",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "welcome",
+      "scene": "host",
+      "target": "table",
+      "source": "c06-boat",
+      "title": "欢迎相聚 · 从容向前",
+      "short": "范成大写舟行：“画舫夷犹湾百转，横塘塔近依前远。”古人的船拐了百道弯，我这段话就少拐两道，心意直着送。很高兴今天能坐下来聊聊。饭慢慢吃，话慢慢说，愿这一席坐得自在，下回还想再来。",
+      "full": "范成大写舟行：“画舫夷犹湾百转，横塘塔近依前远。”\n古人的船拐了百道弯，我这段话就少拐两道，心意直着送。\n很高兴今天能坐下来聊聊。饭慢慢吃，话慢慢说，愿这一席坐得自在，下回还想再来。",
+      "english": "To steady steps and time to enjoy the journey. Welcome. Let us enjoy the food and the conversation at our own pace.",
+      "translation": "古人的船拐了百道弯，我这段话就少拐两道，心意直着送。很高兴今天能坐下来聊聊。饭慢慢吃，话慢慢说，愿这一席坐得自在，下回还想再来。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "c06-boat",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-boat",
+        "title": "范成大《蝶恋花·春涨一篙添水面》",
+        "book": "《唐宋词选释》",
+        "pages": "PDF 158",
+        "original": "画舫夷犹湾百转，横塘塔近依前远。",
+        "fullOriginal": "春涨一篙添水面，芳草鹅儿，绿满微风岸。\n画舫夷犹湾百转，横塘塔近依前远。\n江国多寒农事晚，村北村南，谷雨才耕遍。\n秀麦连冈桑叶贱，看看尝面收新茧。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "范成大《蝶恋花·春涨一篙添水面》",
+        "meaning": "词写江南舟行与农事。“夷犹”写行船从容，塔看着近却还有距离。这里只借从容，不以此预测农事或天气。",
+        "note": "按所供书正文录入；不把词里的谷雨当作当前日期。",
+        "fullOriginalNote": "按所供书正文录入；不把词里的谷雨当作当前日期。",
+        "form": "词"
+      }
+    },
+    {
+      "id": "c06-boat-closing",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "closing",
+      "scene": "closing",
+      "target": "table",
+      "source": "c06-boat",
+      "title": "散席留余温 · 从容向前",
+      "short": "范成大写舟行：“画舫夷犹湾百转，横塘塔近依前远。”路有转弯，日子也不必赶着过；走得稳，沿途才有心思看。今天就先把相聚留在这里。回去路上慢一点，到了报声平安；下回有机会，再坐一桌。",
+      "full": "范成大写舟行：“画舫夷犹湾百转，横塘塔近依前远。”\n路有转弯，日子也不必赶着过；走得稳，沿途才有心思看。\n今天就先把相聚留在这里。回去路上慢一点，到了报声平安；下回有机会，再坐一桌。",
+      "english": "To steady steps and time to enjoy the journey. Have a safe journey home. I look forward to our next conversation.",
+      "translation": "路有转弯，日子也不必赶着过；走得稳，沿途才有心思看。今天就先把相聚留在这里。回去路上慢一点，到了报声平安；下回有机会，再坐一桌。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-boat",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-boat",
+        "title": "范成大《蝶恋花·春涨一篙添水面》",
+        "book": "《唐宋词选释》",
+        "pages": "PDF 158",
+        "original": "画舫夷犹湾百转，横塘塔近依前远。",
+        "fullOriginal": "春涨一篙添水面，芳草鹅儿，绿满微风岸。\n画舫夷犹湾百转，横塘塔近依前远。\n江国多寒农事晚，村北村南，谷雨才耕遍。\n秀麦连冈桑叶贱，看看尝面收新茧。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "范成大《蝶恋花·春涨一篙添水面》",
+        "meaning": "词写江南舟行与农事。“夷犹”写行船从容，塔看着近却还有距离。这里只借从容，不以此预测农事或天气。",
+        "note": "按所供书正文录入；不把词里的谷雨当作当前日期。",
+        "fullOriginalNote": "按所供书正文录入；不把词里的谷雨当作当前日期。",
+        "form": "词"
+      }
+    },
+    {
+      "id": "c06-boat-farewell",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "farewell",
+      "scene": "farewell",
+      "target": "table",
+      "source": "c06-boat",
+      "title": "送一份祝福 · 从容向前",
+      "short": "范成大写舟行：“画舫夷犹湾百转，横塘塔近依前远。”路有转弯，日子也不必赶着过；走得稳，沿途才有心思看。这一杯送一份祝福，愿你接下来的路走得稳、过得好；有空的时候，咱们再约。",
+      "full": "范成大写舟行：“画舫夷犹湾百转，横塘塔近依前远。”\n路有转弯，日子也不必赶着过；走得稳，沿途才有心思看。\n这一杯送一份祝福，愿你接下来的路走得稳、过得好；有空的时候，咱们再约。",
+      "english": "To steady steps and time to enjoy the journey. Wishing you a smooth journey and good company wherever you go.",
+      "translation": "路有转弯，日子也不必赶着过；走得稳，沿途才有心思看。这一杯送一份祝福，愿你接下来的路走得稳、过得好；有空的时候，咱们再约。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-boat",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-boat",
+        "title": "范成大《蝶恋花·春涨一篙添水面》",
+        "book": "《唐宋词选释》",
+        "pages": "PDF 158",
+        "original": "画舫夷犹湾百转，横塘塔近依前远。",
+        "fullOriginal": "春涨一篙添水面，芳草鹅儿，绿满微风岸。\n画舫夷犹湾百转，横塘塔近依前远。\n江国多寒农事晚，村北村南，谷雨才耕遍。\n秀麦连冈桑叶贱，看看尝面收新茧。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "范成大《蝶恋花·春涨一篙添水面》",
+        "meaning": "词写江南舟行与农事。“夷犹”写行船从容，塔看着近却还有距离。这里只借从容，不以此预测农事或天气。",
+        "note": "按所供书正文录入；不把词里的谷雨当作当前日期。",
+        "fullOriginalNote": "按所供书正文录入；不把词里的谷雨当作当前日期。",
+        "form": "词"
+      }
+    },
+    {
+      "id": "c06-boat-gratitude",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "gratitude",
+      "scene": "thanks",
+      "target": "table",
+      "source": "c06-boat",
+      "title": "谢一份好意 · 从容向前",
+      "short": "范成大写舟行：“画舫夷犹湾百转，横塘塔近依前远。”古人的船拐了百道弯，我这段话就少拐两道，心意直着送。今天借这一杯，认真谢谢你的好意。愿你给出去的体贴，也常有人还给你。",
+      "full": "范成大写舟行：“画舫夷犹湾百转，横塘塔近依前远。”\n古人的船拐了百道弯，我这段话就少拐两道，心意直着送。\n今天借这一杯，认真谢谢你的好意。愿你给出去的体贴，也常有人还给你。",
+      "english": "To steady steps and time to enjoy the journey. Thank you for your kindness. May you find the same care in return.",
+      "translation": "古人的船拐了百道弯，我这段话就少拐两道，心意直着送。今天借这一杯，认真谢谢你的好意。愿你给出去的体贴，也常有人还给你。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "c06-boat",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-boat",
+        "title": "范成大《蝶恋花·春涨一篙添水面》",
+        "book": "《唐宋词选释》",
+        "pages": "PDF 158",
+        "original": "画舫夷犹湾百转，横塘塔近依前远。",
+        "fullOriginal": "春涨一篙添水面，芳草鹅儿，绿满微风岸。\n画舫夷犹湾百转，横塘塔近依前远。\n江国多寒农事晚，村北村南，谷雨才耕遍。\n秀麦连冈桑叶贱，看看尝面收新茧。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "范成大《蝶恋花·春涨一篙添水面》",
+        "meaning": "词写江南舟行与农事。“夷犹”写行船从容，塔看着近却还有距离。这里只借从容，不以此预测农事或天气。",
+        "note": "按所供书正文录入；不把词里的谷雨当作当前日期。",
+        "fullOriginalNote": "按所供书正文录入；不把词里的谷雨当作当前日期。",
+        "form": "词"
+      }
+    },
+    {
+      "id": "c06-boat-finish",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "finish",
+      "scene": "closing",
+      "target": "table",
+      "source": "c06-boat",
+      "title": "话短心意长 · 从容向前",
+      "short": "范成大写舟行：“画舫夷犹湾百转，横塘塔近依前远。”路有转弯，日子也不必赶着过；走得稳，沿途才有心思看。我就先说到这里，把时间留给吃饭聊天。祝这份好心情，从饭桌一直跟到回家。",
+      "full": "范成大写舟行：“画舫夷犹湾百转，横塘塔近依前远。”\n路有转弯，日子也不必赶着过；走得稳，沿途才有心思看。\n我就先说到这里，把时间留给吃饭聊天。祝这份好心情，从饭桌一直跟到回家。",
+      "english": "To steady steps and time to enjoy the journey. That is all from me. Enjoy the meal and the conversation.",
+      "translation": "路有转弯，日子也不必赶着过；走得稳，沿途才有心思看。我就先说到这里，把时间留给吃饭聊天。祝这份好心情，从饭桌一直跟到回家。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-boat",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-boat",
+        "title": "范成大《蝶恋花·春涨一篙添水面》",
+        "book": "《唐宋词选释》",
+        "pages": "PDF 158",
+        "original": "画舫夷犹湾百转，横塘塔近依前远。",
+        "fullOriginal": "春涨一篙添水面，芳草鹅儿，绿满微风岸。\n画舫夷犹湾百转，横塘塔近依前远。\n江国多寒农事晚，村北村南，谷雨才耕遍。\n秀麦连冈桑叶贱，看看尝面收新茧。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "范成大《蝶恋花·春涨一篙添水面》",
+        "meaning": "词写江南舟行与农事。“夷犹”写行船从容，塔看着近却还有距离。这里只借从容，不以此预测农事或天气。",
+        "note": "按所供书正文录入；不把词里的谷雨当作当前日期。",
+        "fullOriginalNote": "按所供书正文录入；不把词里的谷雨当作当前日期。",
+        "form": "词"
+      }
+    },
+    {
+      "id": "c06-gull-personal",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "personal",
+      "scene": "general",
+      "target": "person",
+      "source": "c06-gull",
+      "title": "单独敬一位 · 体贴入席",
+      "short": "杨万里见一只鸥落在松上，轻轻说：“稚子莫喧哗，恐惊他。”能顾到一点细小的感受，相处就容易舒服；话不用响，心意到了就好。这一杯敬你，愿你忙的时候有收获，闲的时候有滋味。",
+      "full": "杨万里见一只鸥落在松上，轻轻说：“稚子莫喧哗，恐惊他。”\n能顾到一点细小的感受，相处就容易舒服；话不用响，心意到了就好。\n这一杯敬你，愿你忙的时候有收获，闲的时候有滋味。",
+      "english": "To kindness, comfort, and room to be ourselves. Here is to you, to rewarding work and happy days.",
+      "translation": "能顾到一点细小的感受，相处就容易舒服；话不用响，心意到了就好。这一杯敬你，愿你忙的时候有收获，闲的时候有滋味。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-gull",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-gull",
+        "title": "杨万里《昭君怨·赋松上鸥》",
+        "book": "《唐宋词选释》",
+        "pages": "PDF 159",
+        "original": "稚子莫喧哗，恐惊他。",
+        "fullOriginal": "赋松上鸥。晚饮诚斋，忽有一鸥来泊松上，已而复去，感而赋之。\n偶听松梢扑鹿，知是沙鸥来宿。\n稚子莫喧哗，恐惊他。\n俄顷忽然飞去，飞去不知何处。\n我已乞归休，报沙鸥。",
+        "fullOriginalLabel": "完整原文（含小序）",
+        "fullOriginalTitle": "杨万里《昭君怨·赋松上鸥》",
+        "meaning": "杨万里见鸥来宿，嘱孩子不要惊动它。这里只借对细小感受的体贴，不拿这句话要求席间安静。",
+        "note": "完整词含题前小序，保留“扑鹿”声词；末句的归休是原作处境，不代指当下工作。",
+        "fullOriginalNote": "完整词含题前小序，保留“扑鹿”声词；末句的归休是原作处境，不代指当下工作。",
+        "form": "词"
+      }
+    },
+    {
+      "id": "c06-gull-reply",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "reply",
+      "scene": "reply",
+      "target": "table",
+      "source": "c06-gull",
+      "title": "接住祝福 · 体贴入席",
+      "short": "杨万里见一只鸥落在松上，轻轻说：“稚子莫喧哗，恐惊他。”能顾到一点细小的感受，相处就容易舒服；话不用响，心意到了就好。谢谢你的祝福，我认真收下；也愿你顺心的事多一点，被惦记的时候多一点。",
+      "full": "杨万里见一只鸥落在松上，轻轻说：“稚子莫喧哗，恐惊他。”\n能顾到一点细小的感受，相处就容易舒服；话不用响，心意到了就好。\n谢谢你的祝福，我认真收下；也愿你顺心的事多一点，被惦记的时候多一点。",
+      "english": "To kindness, comfort, and room to be ourselves. Thank you for your kind wishes. I wish you the same warmth and happiness.",
+      "translation": "能顾到一点细小的感受，相处就容易舒服；话不用响，心意到了就好。谢谢你的祝福，我认真收下；也愿你顺心的事多一点，被惦记的时候多一点。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-gull",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-gull",
+        "title": "杨万里《昭君怨·赋松上鸥》",
+        "book": "《唐宋词选释》",
+        "pages": "PDF 159",
+        "original": "稚子莫喧哗，恐惊他。",
+        "fullOriginal": "赋松上鸥。晚饮诚斋，忽有一鸥来泊松上，已而复去，感而赋之。\n偶听松梢扑鹿，知是沙鸥来宿。\n稚子莫喧哗，恐惊他。\n俄顷忽然飞去，飞去不知何处。\n我已乞归休，报沙鸥。",
+        "fullOriginalLabel": "完整原文（含小序）",
+        "fullOriginalTitle": "杨万里《昭君怨·赋松上鸥》",
+        "meaning": "杨万里见鸥来宿，嘱孩子不要惊动它。这里只借对细小感受的体贴，不拿这句话要求席间安静。",
+        "note": "完整词含题前小序，保留“扑鹿”声词；末句的归休是原作处境，不代指当下工作。",
+        "fullOriginalNote": "完整词含题前小序，保留“扑鹿”声词；末句的归休是原作处境，不代指当下工作。",
+        "form": "词"
+      }
+    },
+    {
+      "id": "c06-gull-thanks",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "thanks",
+      "scene": "thanks",
+      "target": "host",
+      "source": "c06-gull",
+      "title": "谢谢款待 · 体贴入席",
+      "short": "杨万里见一只鸥落在松上，轻轻说：“稚子莫喧哗，恐惊他。”杨万里连一只鸥的感受都惦记，我今天也争取体贴一点，发言短一点。今天谢谢你的张罗，让相聚有着落，也让我们有空坐下来好好说话。这杯敬你。",
+      "full": "杨万里见一只鸥落在松上，轻轻说：“稚子莫喧哗，恐惊他。”\n杨万里连一只鸥的感受都惦记，我今天也争取体贴一点，发言短一点。\n今天谢谢你的张罗，让相聚有着落，也让我们有空坐下来好好说话。这杯敬你。",
+      "english": "To kindness, comfort, and room to be ourselves. Thank you for bringing us together and making us feel welcome.",
+      "translation": "杨万里连一只鸥的感受都惦记，我今天也争取体贴一点，发言短一点。今天谢谢你的张罗，让相聚有着落，也让我们有空坐下来好好说话。这杯敬你。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "c06-gull",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-gull",
+        "title": "杨万里《昭君怨·赋松上鸥》",
+        "book": "《唐宋词选释》",
+        "pages": "PDF 159",
+        "original": "稚子莫喧哗，恐惊他。",
+        "fullOriginal": "赋松上鸥。晚饮诚斋，忽有一鸥来泊松上，已而复去，感而赋之。\n偶听松梢扑鹿，知是沙鸥来宿。\n稚子莫喧哗，恐惊他。\n俄顷忽然飞去，飞去不知何处。\n我已乞归休，报沙鸥。",
+        "fullOriginalLabel": "完整原文（含小序）",
+        "fullOriginalTitle": "杨万里《昭君怨·赋松上鸥》",
+        "meaning": "杨万里见鸥来宿，嘱孩子不要惊动它。这里只借对细小感受的体贴，不拿这句话要求席间安静。",
+        "note": "完整词含题前小序，保留“扑鹿”声词；末句的归休是原作处境，不代指当下工作。",
+        "fullOriginalNote": "完整词含题前小序，保留“扑鹿”声词；末句的归休是原作处境，不代指当下工作。",
+        "form": "词"
+      }
+    },
+    {
+      "id": "c06-gull-welcome",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "welcome",
+      "scene": "host",
+      "target": "table",
+      "source": "c06-gull",
+      "title": "欢迎相聚 · 体贴入席",
+      "short": "杨万里见一只鸥落在松上，轻轻说：“稚子莫喧哗，恐惊他。”能顾到一点细小的感受，相处就容易舒服；话不用响，心意到了就好。很高兴今天能坐下来聊聊。饭慢慢吃，话慢慢说，愿这一席坐得自在，下回还想再来。",
+      "full": "杨万里见一只鸥落在松上，轻轻说：“稚子莫喧哗，恐惊他。”\n能顾到一点细小的感受，相处就容易舒服；话不用响，心意到了就好。\n很高兴今天能坐下来聊聊。饭慢慢吃，话慢慢说，愿这一席坐得自在，下回还想再来。",
+      "english": "To kindness, comfort, and room to be ourselves. Welcome. Let us enjoy the food and the conversation at our own pace.",
+      "translation": "能顾到一点细小的感受，相处就容易舒服；话不用响，心意到了就好。很高兴今天能坐下来聊聊。饭慢慢吃，话慢慢说，愿这一席坐得自在，下回还想再来。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-gull",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-gull",
+        "title": "杨万里《昭君怨·赋松上鸥》",
+        "book": "《唐宋词选释》",
+        "pages": "PDF 159",
+        "original": "稚子莫喧哗，恐惊他。",
+        "fullOriginal": "赋松上鸥。晚饮诚斋，忽有一鸥来泊松上，已而复去，感而赋之。\n偶听松梢扑鹿，知是沙鸥来宿。\n稚子莫喧哗，恐惊他。\n俄顷忽然飞去，飞去不知何处。\n我已乞归休，报沙鸥。",
+        "fullOriginalLabel": "完整原文（含小序）",
+        "fullOriginalTitle": "杨万里《昭君怨·赋松上鸥》",
+        "meaning": "杨万里见鸥来宿，嘱孩子不要惊动它。这里只借对细小感受的体贴，不拿这句话要求席间安静。",
+        "note": "完整词含题前小序，保留“扑鹿”声词；末句的归休是原作处境，不代指当下工作。",
+        "fullOriginalNote": "完整词含题前小序，保留“扑鹿”声词；末句的归休是原作处境，不代指当下工作。",
+        "form": "词"
+      }
+    },
+    {
+      "id": "c06-gull-closing",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "closing",
+      "scene": "closing",
+      "target": "table",
+      "source": "c06-gull",
+      "title": "散席留余温 · 体贴入席",
+      "short": "杨万里见一只鸥落在松上，轻轻说：“稚子莫喧哗，恐惊他。”能顾到一点细小的感受，相处就容易舒服；话不用响，心意到了就好。今天就先把相聚留在这里。回去路上慢一点，到了报声平安；下回有机会，再坐一桌。",
+      "full": "杨万里见一只鸥落在松上，轻轻说：“稚子莫喧哗，恐惊他。”\n能顾到一点细小的感受，相处就容易舒服；话不用响，心意到了就好。\n今天就先把相聚留在这里。回去路上慢一点，到了报声平安；下回有机会，再坐一桌。",
+      "english": "To kindness, comfort, and room to be ourselves. Have a safe journey home. I look forward to our next conversation.",
+      "translation": "能顾到一点细小的感受，相处就容易舒服；话不用响，心意到了就好。今天就先把相聚留在这里。回去路上慢一点，到了报声平安；下回有机会，再坐一桌。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-gull",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-gull",
+        "title": "杨万里《昭君怨·赋松上鸥》",
+        "book": "《唐宋词选释》",
+        "pages": "PDF 159",
+        "original": "稚子莫喧哗，恐惊他。",
+        "fullOriginal": "赋松上鸥。晚饮诚斋，忽有一鸥来泊松上，已而复去，感而赋之。\n偶听松梢扑鹿，知是沙鸥来宿。\n稚子莫喧哗，恐惊他。\n俄顷忽然飞去，飞去不知何处。\n我已乞归休，报沙鸥。",
+        "fullOriginalLabel": "完整原文（含小序）",
+        "fullOriginalTitle": "杨万里《昭君怨·赋松上鸥》",
+        "meaning": "杨万里见鸥来宿，嘱孩子不要惊动它。这里只借对细小感受的体贴，不拿这句话要求席间安静。",
+        "note": "完整词含题前小序，保留“扑鹿”声词；末句的归休是原作处境，不代指当下工作。",
+        "fullOriginalNote": "完整词含题前小序，保留“扑鹿”声词；末句的归休是原作处境，不代指当下工作。",
+        "form": "词"
+      }
+    },
+    {
+      "id": "c06-gull-farewell",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "farewell",
+      "scene": "farewell",
+      "target": "table",
+      "source": "c06-gull",
+      "title": "送一份祝福 · 体贴入席",
+      "short": "杨万里见一只鸥落在松上，轻轻说：“稚子莫喧哗，恐惊他。”杨万里连一只鸥的感受都惦记，我今天也争取体贴一点，发言短一点。这一杯送一份祝福，愿你接下来的路走得稳、过得好；有空的时候，咱们再约。",
+      "full": "杨万里见一只鸥落在松上，轻轻说：“稚子莫喧哗，恐惊他。”\n杨万里连一只鸥的感受都惦记，我今天也争取体贴一点，发言短一点。\n这一杯送一份祝福，愿你接下来的路走得稳、过得好；有空的时候，咱们再约。",
+      "english": "To kindness, comfort, and room to be ourselves. Wishing you a smooth journey and good company wherever you go.",
+      "translation": "杨万里连一只鸥的感受都惦记，我今天也争取体贴一点，发言短一点。这一杯送一份祝福，愿你接下来的路走得稳、过得好；有空的时候，咱们再约。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "c06-gull",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-gull",
+        "title": "杨万里《昭君怨·赋松上鸥》",
+        "book": "《唐宋词选释》",
+        "pages": "PDF 159",
+        "original": "稚子莫喧哗，恐惊他。",
+        "fullOriginal": "赋松上鸥。晚饮诚斋，忽有一鸥来泊松上，已而复去，感而赋之。\n偶听松梢扑鹿，知是沙鸥来宿。\n稚子莫喧哗，恐惊他。\n俄顷忽然飞去，飞去不知何处。\n我已乞归休，报沙鸥。",
+        "fullOriginalLabel": "完整原文（含小序）",
+        "fullOriginalTitle": "杨万里《昭君怨·赋松上鸥》",
+        "meaning": "杨万里见鸥来宿，嘱孩子不要惊动它。这里只借对细小感受的体贴，不拿这句话要求席间安静。",
+        "note": "完整词含题前小序，保留“扑鹿”声词；末句的归休是原作处境，不代指当下工作。",
+        "fullOriginalNote": "完整词含题前小序，保留“扑鹿”声词；末句的归休是原作处境，不代指当下工作。",
+        "form": "词"
+      }
+    },
+    {
+      "id": "c06-gull-gratitude",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "gratitude",
+      "scene": "thanks",
+      "target": "table",
+      "source": "c06-gull",
+      "title": "谢一份好意 · 体贴入席",
+      "short": "杨万里见一只鸥落在松上，轻轻说：“稚子莫喧哗，恐惊他。”能顾到一点细小的感受，相处就容易舒服；话不用响，心意到了就好。今天借这一杯，认真谢谢你的好意。愿你给出去的体贴，也常有人还给你。",
+      "full": "杨万里见一只鸥落在松上，轻轻说：“稚子莫喧哗，恐惊他。”\n能顾到一点细小的感受，相处就容易舒服；话不用响，心意到了就好。\n今天借这一杯，认真谢谢你的好意。愿你给出去的体贴，也常有人还给你。",
+      "english": "To kindness, comfort, and room to be ourselves. Thank you for your kindness. May you find the same care in return.",
+      "translation": "能顾到一点细小的感受，相处就容易舒服；话不用响，心意到了就好。今天借这一杯，认真谢谢你的好意。愿你给出去的体贴，也常有人还给你。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-gull",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-gull",
+        "title": "杨万里《昭君怨·赋松上鸥》",
+        "book": "《唐宋词选释》",
+        "pages": "PDF 159",
+        "original": "稚子莫喧哗，恐惊他。",
+        "fullOriginal": "赋松上鸥。晚饮诚斋，忽有一鸥来泊松上，已而复去，感而赋之。\n偶听松梢扑鹿，知是沙鸥来宿。\n稚子莫喧哗，恐惊他。\n俄顷忽然飞去，飞去不知何处。\n我已乞归休，报沙鸥。",
+        "fullOriginalLabel": "完整原文（含小序）",
+        "fullOriginalTitle": "杨万里《昭君怨·赋松上鸥》",
+        "meaning": "杨万里见鸥来宿，嘱孩子不要惊动它。这里只借对细小感受的体贴，不拿这句话要求席间安静。",
+        "note": "完整词含题前小序，保留“扑鹿”声词；末句的归休是原作处境，不代指当下工作。",
+        "fullOriginalNote": "完整词含题前小序，保留“扑鹿”声词；末句的归休是原作处境，不代指当下工作。",
+        "form": "词"
+      }
+    },
+    {
+      "id": "c06-gull-finish",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "finish",
+      "scene": "closing",
+      "target": "table",
+      "source": "c06-gull",
+      "title": "话短心意长 · 体贴入席",
+      "short": "杨万里见一只鸥落在松上，轻轻说：“稚子莫喧哗，恐惊他。”能顾到一点细小的感受，相处就容易舒服；话不用响，心意到了就好。我就先说到这里，把时间留给吃饭聊天。祝这份好心情，从饭桌一直跟到回家。",
+      "full": "杨万里见一只鸥落在松上，轻轻说：“稚子莫喧哗，恐惊他。”\n能顾到一点细小的感受，相处就容易舒服；话不用响，心意到了就好。\n我就先说到这里，把时间留给吃饭聊天。祝这份好心情，从饭桌一直跟到回家。",
+      "english": "To kindness, comfort, and room to be ourselves. That is all from me. Enjoy the meal and the conversation.",
+      "translation": "能顾到一点细小的感受，相处就容易舒服；话不用响，心意到了就好。我就先说到这里，把时间留给吃饭聊天。祝这份好心情，从饭桌一直跟到回家。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-gull",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-gull",
+        "title": "杨万里《昭君怨·赋松上鸥》",
+        "book": "《唐宋词选释》",
+        "pages": "PDF 159",
+        "original": "稚子莫喧哗，恐惊他。",
+        "fullOriginal": "赋松上鸥。晚饮诚斋，忽有一鸥来泊松上，已而复去，感而赋之。\n偶听松梢扑鹿，知是沙鸥来宿。\n稚子莫喧哗，恐惊他。\n俄顷忽然飞去，飞去不知何处。\n我已乞归休，报沙鸥。",
+        "fullOriginalLabel": "完整原文（含小序）",
+        "fullOriginalTitle": "杨万里《昭君怨·赋松上鸥》",
+        "meaning": "杨万里见鸥来宿，嘱孩子不要惊动它。这里只借对细小感受的体贴，不拿这句话要求席间安静。",
+        "note": "完整词含题前小序，保留“扑鹿”声词；末句的归休是原作处境，不代指当下工作。",
+        "fullOriginalNote": "完整词含题前小序，保留“扑鹿”声词；末句的归休是原作处境，不代指当下工作。",
+        "form": "词"
+      }
+    },
+    {
+      "id": "c06-cloud-personal",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "personal",
+      "scene": "general",
+      "target": "person",
+      "source": "c06-cloud",
+      "title": "单独敬一位 · 一溪云闲意",
+      "short": "苏轼想过一种闲日子：“对一张琴、一壶酒、一溪云。”咱们未必有琴有溪云，能把手边的忙放一放，好好坐一会儿，就很难得。这一杯敬你，愿你忙的时候有收获，闲的时候有滋味。",
+      "full": "苏轼想过一种闲日子：“对一张琴、一壶酒、一溪云。”\n咱们未必有琴有溪云，能把手边的忙放一放，好好坐一会儿，就很难得。\n这一杯敬你，愿你忙的时候有收获，闲的时候有滋味。",
+      "english": "To a little breathing room and good company. Here is to you, to rewarding work and happy days.",
+      "translation": "咱们未必有琴有溪云，能把手边的忙放一放，好好坐一会儿，就很难得。这一杯敬你，愿你忙的时候有收获，闲的时候有滋味。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-cloud",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-cloud",
+        "title": "苏轼《行香子·述怀》",
+        "book": "公开古籍原文补充",
+        "pages": "维基文库《行香子》述怀篇",
+        "original": "对一张琴、一壶酒、一溪云。",
+        "fullOriginal": "清夜无尘，月色如银。\n酒斟时，须满十分。\n浮名浮利，休苦劳神。\n叹隙中驹，石中火，梦中身。\n虽抱文章，开口谁亲。\n且陶陶，乐尽天真。\n几时归去，作个闲人。\n对一张琴、一壶酒、一溪云。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "苏轼《行香子·述怀》",
+        "meaning": "原词感叹名利，想象闲居。只借琴酒溪云的闲意，珍惜眼前放松的时间；不是劝人弃业。",
+        "note": "原作含满斟语句，现代祝词不据此劝满杯或要求饮酒。",
+        "fullOriginalNote": "原作含满斟语句，现代祝词不据此劝满杯或要求饮酒。",
+        "form": "词",
+        "url": "https://zh.wikisource.org/zh-hans/行香子_(蘇軾)",
+        "fullOriginalUrl": "https://zh.wikisource.org/zh-hans/行香子_(蘇軾)"
+      }
+    },
+    {
+      "id": "c06-cloud-reply",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "reply",
+      "scene": "reply",
+      "target": "table",
+      "source": "c06-cloud",
+      "title": "接住祝福 · 一溪云闲意",
+      "short": "苏轼想过一种闲日子：“对一张琴、一壶酒、一溪云。”琴和溪云今天未必配齐，松口气的时间，倒是可以先给自己安排上。谢谢你的祝福，我认真收下；也愿你顺心的事多一点，被惦记的时候多一点。",
+      "full": "苏轼想过一种闲日子：“对一张琴、一壶酒、一溪云。”\n琴和溪云今天未必配齐，松口气的时间，倒是可以先给自己安排上。\n谢谢你的祝福，我认真收下；也愿你顺心的事多一点，被惦记的时候多一点。",
+      "english": "To a little breathing room and good company. Thank you for your kind wishes. I wish you the same warmth and happiness.",
+      "translation": "琴和溪云今天未必配齐，松口气的时间，倒是可以先给自己安排上。谢谢你的祝福，我认真收下；也愿你顺心的事多一点，被惦记的时候多一点。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "c06-cloud",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-cloud",
+        "title": "苏轼《行香子·述怀》",
+        "book": "公开古籍原文补充",
+        "pages": "维基文库《行香子》述怀篇",
+        "original": "对一张琴、一壶酒、一溪云。",
+        "fullOriginal": "清夜无尘，月色如银。\n酒斟时，须满十分。\n浮名浮利，休苦劳神。\n叹隙中驹，石中火，梦中身。\n虽抱文章，开口谁亲。\n且陶陶，乐尽天真。\n几时归去，作个闲人。\n对一张琴、一壶酒、一溪云。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "苏轼《行香子·述怀》",
+        "meaning": "原词感叹名利，想象闲居。只借琴酒溪云的闲意，珍惜眼前放松的时间；不是劝人弃业。",
+        "note": "原作含满斟语句，现代祝词不据此劝满杯或要求饮酒。",
+        "fullOriginalNote": "原作含满斟语句，现代祝词不据此劝满杯或要求饮酒。",
+        "form": "词",
+        "url": "https://zh.wikisource.org/zh-hans/行香子_(蘇軾)",
+        "fullOriginalUrl": "https://zh.wikisource.org/zh-hans/行香子_(蘇軾)"
+      }
+    },
+    {
+      "id": "c06-cloud-thanks",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "thanks",
+      "scene": "thanks",
+      "target": "host",
+      "source": "c06-cloud",
+      "title": "谢谢款待 · 一溪云闲意",
+      "short": "苏轼想过一种闲日子：“对一张琴、一壶酒、一溪云。”咱们未必有琴有溪云，能把手边的忙放一放，好好坐一会儿，就很难得。今天谢谢你的张罗，让相聚有着落，也让我们有空坐下来好好说话。这杯敬你。",
+      "full": "苏轼想过一种闲日子：“对一张琴、一壶酒、一溪云。”\n咱们未必有琴有溪云，能把手边的忙放一放，好好坐一会儿，就很难得。\n今天谢谢你的张罗，让相聚有着落，也让我们有空坐下来好好说话。这杯敬你。",
+      "english": "To a little breathing room and good company. Thank you for bringing us together and making us feel welcome.",
+      "translation": "咱们未必有琴有溪云，能把手边的忙放一放，好好坐一会儿，就很难得。今天谢谢你的张罗，让相聚有着落，也让我们有空坐下来好好说话。这杯敬你。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-cloud",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-cloud",
+        "title": "苏轼《行香子·述怀》",
+        "book": "公开古籍原文补充",
+        "pages": "维基文库《行香子》述怀篇",
+        "original": "对一张琴、一壶酒、一溪云。",
+        "fullOriginal": "清夜无尘，月色如银。\n酒斟时，须满十分。\n浮名浮利，休苦劳神。\n叹隙中驹，石中火，梦中身。\n虽抱文章，开口谁亲。\n且陶陶，乐尽天真。\n几时归去，作个闲人。\n对一张琴、一壶酒、一溪云。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "苏轼《行香子·述怀》",
+        "meaning": "原词感叹名利，想象闲居。只借琴酒溪云的闲意，珍惜眼前放松的时间；不是劝人弃业。",
+        "note": "原作含满斟语句，现代祝词不据此劝满杯或要求饮酒。",
+        "fullOriginalNote": "原作含满斟语句，现代祝词不据此劝满杯或要求饮酒。",
+        "form": "词",
+        "url": "https://zh.wikisource.org/zh-hans/行香子_(蘇軾)",
+        "fullOriginalUrl": "https://zh.wikisource.org/zh-hans/行香子_(蘇軾)"
+      }
+    },
+    {
+      "id": "c06-cloud-welcome",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "welcome",
+      "scene": "host",
+      "target": "table",
+      "source": "c06-cloud",
+      "title": "欢迎相聚 · 一溪云闲意",
+      "short": "苏轼想过一种闲日子：“对一张琴、一壶酒、一溪云。”咱们未必有琴有溪云，能把手边的忙放一放，好好坐一会儿，就很难得。很高兴今天能坐下来聊聊。饭慢慢吃，话慢慢说，愿这一席坐得自在，下回还想再来。",
+      "full": "苏轼想过一种闲日子：“对一张琴、一壶酒、一溪云。”\n咱们未必有琴有溪云，能把手边的忙放一放，好好坐一会儿，就很难得。\n很高兴今天能坐下来聊聊。饭慢慢吃，话慢慢说，愿这一席坐得自在，下回还想再来。",
+      "english": "To a little breathing room and good company. Welcome. Let us enjoy the food and the conversation at our own pace.",
+      "translation": "咱们未必有琴有溪云，能把手边的忙放一放，好好坐一会儿，就很难得。很高兴今天能坐下来聊聊。饭慢慢吃，话慢慢说，愿这一席坐得自在，下回还想再来。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-cloud",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-cloud",
+        "title": "苏轼《行香子·述怀》",
+        "book": "公开古籍原文补充",
+        "pages": "维基文库《行香子》述怀篇",
+        "original": "对一张琴、一壶酒、一溪云。",
+        "fullOriginal": "清夜无尘，月色如银。\n酒斟时，须满十分。\n浮名浮利，休苦劳神。\n叹隙中驹，石中火，梦中身。\n虽抱文章，开口谁亲。\n且陶陶，乐尽天真。\n几时归去，作个闲人。\n对一张琴、一壶酒、一溪云。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "苏轼《行香子·述怀》",
+        "meaning": "原词感叹名利，想象闲居。只借琴酒溪云的闲意，珍惜眼前放松的时间；不是劝人弃业。",
+        "note": "原作含满斟语句，现代祝词不据此劝满杯或要求饮酒。",
+        "fullOriginalNote": "原作含满斟语句，现代祝词不据此劝满杯或要求饮酒。",
+        "form": "词",
+        "url": "https://zh.wikisource.org/zh-hans/行香子_(蘇軾)",
+        "fullOriginalUrl": "https://zh.wikisource.org/zh-hans/行香子_(蘇軾)"
+      }
+    },
+    {
+      "id": "c06-cloud-closing",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "closing",
+      "scene": "closing",
+      "target": "table",
+      "source": "c06-cloud",
+      "title": "散席留余温 · 一溪云闲意",
+      "short": "苏轼想过一种闲日子：“对一张琴、一壶酒、一溪云。”琴和溪云今天未必配齐，松口气的时间，倒是可以先给自己安排上。今天就先把相聚留在这里。回去路上慢一点，到了报声平安；下回有机会，再坐一桌。",
+      "full": "苏轼想过一种闲日子：“对一张琴、一壶酒、一溪云。”\n琴和溪云今天未必配齐，松口气的时间，倒是可以先给自己安排上。\n今天就先把相聚留在这里。回去路上慢一点，到了报声平安；下回有机会，再坐一桌。",
+      "english": "To a little breathing room and good company. Have a safe journey home. I look forward to our next conversation.",
+      "translation": "琴和溪云今天未必配齐，松口气的时间，倒是可以先给自己安排上。今天就先把相聚留在这里。回去路上慢一点，到了报声平安；下回有机会，再坐一桌。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "c06-cloud",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-cloud",
+        "title": "苏轼《行香子·述怀》",
+        "book": "公开古籍原文补充",
+        "pages": "维基文库《行香子》述怀篇",
+        "original": "对一张琴、一壶酒、一溪云。",
+        "fullOriginal": "清夜无尘，月色如银。\n酒斟时，须满十分。\n浮名浮利，休苦劳神。\n叹隙中驹，石中火，梦中身。\n虽抱文章，开口谁亲。\n且陶陶，乐尽天真。\n几时归去，作个闲人。\n对一张琴、一壶酒、一溪云。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "苏轼《行香子·述怀》",
+        "meaning": "原词感叹名利，想象闲居。只借琴酒溪云的闲意，珍惜眼前放松的时间；不是劝人弃业。",
+        "note": "原作含满斟语句，现代祝词不据此劝满杯或要求饮酒。",
+        "fullOriginalNote": "原作含满斟语句，现代祝词不据此劝满杯或要求饮酒。",
+        "form": "词",
+        "url": "https://zh.wikisource.org/zh-hans/行香子_(蘇軾)",
+        "fullOriginalUrl": "https://zh.wikisource.org/zh-hans/行香子_(蘇軾)"
+      }
+    },
+    {
+      "id": "c06-cloud-farewell",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "farewell",
+      "scene": "farewell",
+      "target": "table",
+      "source": "c06-cloud",
+      "title": "送一份祝福 · 一溪云闲意",
+      "short": "苏轼想过一种闲日子：“对一张琴、一壶酒、一溪云。”咱们未必有琴有溪云，能把手边的忙放一放，好好坐一会儿，就很难得。这一杯送一份祝福，愿你接下来的路走得稳、过得好；有空的时候，咱们再约。",
+      "full": "苏轼想过一种闲日子：“对一张琴、一壶酒、一溪云。”\n咱们未必有琴有溪云，能把手边的忙放一放，好好坐一会儿，就很难得。\n这一杯送一份祝福，愿你接下来的路走得稳、过得好；有空的时候，咱们再约。",
+      "english": "To a little breathing room and good company. Wishing you a smooth journey and good company wherever you go.",
+      "translation": "咱们未必有琴有溪云，能把手边的忙放一放，好好坐一会儿，就很难得。这一杯送一份祝福，愿你接下来的路走得稳、过得好；有空的时候，咱们再约。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-cloud",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-cloud",
+        "title": "苏轼《行香子·述怀》",
+        "book": "公开古籍原文补充",
+        "pages": "维基文库《行香子》述怀篇",
+        "original": "对一张琴、一壶酒、一溪云。",
+        "fullOriginal": "清夜无尘，月色如银。\n酒斟时，须满十分。\n浮名浮利，休苦劳神。\n叹隙中驹，石中火，梦中身。\n虽抱文章，开口谁亲。\n且陶陶，乐尽天真。\n几时归去，作个闲人。\n对一张琴、一壶酒、一溪云。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "苏轼《行香子·述怀》",
+        "meaning": "原词感叹名利，想象闲居。只借琴酒溪云的闲意，珍惜眼前放松的时间；不是劝人弃业。",
+        "note": "原作含满斟语句，现代祝词不据此劝满杯或要求饮酒。",
+        "fullOriginalNote": "原作含满斟语句，现代祝词不据此劝满杯或要求饮酒。",
+        "form": "词",
+        "url": "https://zh.wikisource.org/zh-hans/行香子_(蘇軾)",
+        "fullOriginalUrl": "https://zh.wikisource.org/zh-hans/行香子_(蘇軾)"
+      }
+    },
+    {
+      "id": "c06-cloud-gratitude",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "gratitude",
+      "scene": "thanks",
+      "target": "table",
+      "source": "c06-cloud",
+      "title": "谢一份好意 · 一溪云闲意",
+      "short": "苏轼想过一种闲日子：“对一张琴、一壶酒、一溪云。”咱们未必有琴有溪云，能把手边的忙放一放，好好坐一会儿，就很难得。今天借这一杯，认真谢谢你的好意。愿你给出去的体贴，也常有人还给你。",
+      "full": "苏轼想过一种闲日子：“对一张琴、一壶酒、一溪云。”\n咱们未必有琴有溪云，能把手边的忙放一放，好好坐一会儿，就很难得。\n今天借这一杯，认真谢谢你的好意。愿你给出去的体贴，也常有人还给你。",
+      "english": "To a little breathing room and good company. Thank you for your kindness. May you find the same care in return.",
+      "translation": "咱们未必有琴有溪云，能把手边的忙放一放，好好坐一会儿，就很难得。今天借这一杯，认真谢谢你的好意。愿你给出去的体贴，也常有人还给你。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-cloud",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-cloud",
+        "title": "苏轼《行香子·述怀》",
+        "book": "公开古籍原文补充",
+        "pages": "维基文库《行香子》述怀篇",
+        "original": "对一张琴、一壶酒、一溪云。",
+        "fullOriginal": "清夜无尘，月色如银。\n酒斟时，须满十分。\n浮名浮利，休苦劳神。\n叹隙中驹，石中火，梦中身。\n虽抱文章，开口谁亲。\n且陶陶，乐尽天真。\n几时归去，作个闲人。\n对一张琴、一壶酒、一溪云。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "苏轼《行香子·述怀》",
+        "meaning": "原词感叹名利，想象闲居。只借琴酒溪云的闲意，珍惜眼前放松的时间；不是劝人弃业。",
+        "note": "原作含满斟语句，现代祝词不据此劝满杯或要求饮酒。",
+        "fullOriginalNote": "原作含满斟语句，现代祝词不据此劝满杯或要求饮酒。",
+        "form": "词",
+        "url": "https://zh.wikisource.org/zh-hans/行香子_(蘇軾)",
+        "fullOriginalUrl": "https://zh.wikisource.org/zh-hans/行香子_(蘇軾)"
+      }
+    },
+    {
+      "id": "c06-cloud-finish",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "finish",
+      "scene": "closing",
+      "target": "table",
+      "source": "c06-cloud",
+      "title": "话短心意长 · 一溪云闲意",
+      "short": "苏轼想过一种闲日子：“对一张琴、一壶酒、一溪云。”琴和溪云今天未必配齐，松口气的时间，倒是可以先给自己安排上。我就先说到这里，把时间留给吃饭聊天。祝这份好心情，从饭桌一直跟到回家。",
+      "full": "苏轼想过一种闲日子：“对一张琴、一壶酒、一溪云。”\n琴和溪云今天未必配齐，松口气的时间，倒是可以先给自己安排上。\n我就先说到这里，把时间留给吃饭聊天。祝这份好心情，从饭桌一直跟到回家。",
+      "english": "To a little breathing room and good company. That is all from me. Enjoy the meal and the conversation.",
+      "translation": "琴和溪云今天未必配齐，松口气的时间，倒是可以先给自己安排上。我就先说到这里，把时间留给吃饭聊天。祝这份好心情，从饭桌一直跟到回家。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "c06-cloud",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "c06-cloud",
+        "title": "苏轼《行香子·述怀》",
+        "book": "公开古籍原文补充",
+        "pages": "维基文库《行香子》述怀篇",
+        "original": "对一张琴、一壶酒、一溪云。",
+        "fullOriginal": "清夜无尘，月色如银。\n酒斟时，须满十分。\n浮名浮利，休苦劳神。\n叹隙中驹，石中火，梦中身。\n虽抱文章，开口谁亲。\n且陶陶，乐尽天真。\n几时归去，作个闲人。\n对一张琴、一壶酒、一溪云。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "苏轼《行香子·述怀》",
+        "meaning": "原词感叹名利，想象闲居。只借琴酒溪云的闲意，珍惜眼前放松的时间；不是劝人弃业。",
+        "note": "原作含满斟语句，现代祝词不据此劝满杯或要求饮酒。",
+        "fullOriginalNote": "原作含满斟语句，现代祝词不据此劝满杯或要求饮酒。",
+        "form": "词",
+        "url": "https://zh.wikisource.org/zh-hans/行香子_(蘇軾)",
+        "fullOriginalUrl": "https://zh.wikisource.org/zh-hans/行香子_(蘇軾)"
+      }
+    },
+    {
+      "id": "c06-pine-personal",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "personal",
+      "scene": "general",
+      "target": "person",
+      "source": "c06-pine",
+      "title": "单独敬一位 · 松风解拘束",
+      "short": "王维写过：“松风吹解带，山月照弹琴。”松风能解带，咱们先解一解拘束；难得相聚，别把自己也绷成会议纪要。这一杯敬你，愿你忙的时候有收获，闲的时候有滋味。",
+      "full": "王维写过：“松风吹解带，山月照弹琴。”\n松风能解带，咱们先解一解拘束；难得相聚，别把自己也绷成会议纪要。\n这一杯敬你，愿你忙的时候有收获，闲的时候有滋味。",
+      "english": "To doing our best, and knowing when to relax. Here is to you, to rewarding work and happy days.",
+      "translation": "松风能解带，咱们先解一解拘束；难得相聚，别把自己也绷成会议纪要。这一杯敬你，愿你忙的时候有收获，闲的时候有滋味。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "c06-pine",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "c06-pine",
+        "title": "王维《酬张少府》",
+        "book": "公开古籍原文补充",
+        "pages": "维基文库《酬张少府》",
+        "original": "松风吹解带，山月照弹琴。",
+        "fullOriginal": "晚年唯好静，万事不关心。\n自顾无长策，空知返旧林。\n松风吹解带，山月照弹琴。\n君问穷通理，渔歌入浦深。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "王维《酬张少府》",
+        "meaning": "原诗有退居与穷通之思。这里只借松风山月的自在，不用“万事不关心”表达工作态度。",
+        "note": "按核对文本用“唯”；君另有若字异文。只取闲意，不把山月当作现场实景。",
+        "fullOriginalNote": "按核对文本用“唯”；君另有若字异文。只取闲意，不把山月当作现场实景。",
+        "form": "古诗",
+        "url": "https://zh.wikisource.org/zh-hans/酬張少府",
+        "fullOriginalUrl": "https://zh.wikisource.org/zh-hans/酬張少府"
+      }
+    },
+    {
+      "id": "c06-pine-reply",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "reply",
+      "scene": "reply",
+      "target": "table",
+      "source": "c06-pine",
+      "title": "接住祝福 · 松风解拘束",
+      "short": "王维写过：“松风吹解带，山月照弹琴。”喜欢这两句的松快：事情认真做，相聚时也允许自己舒展一点。谢谢你的祝福，我认真收下；也愿你顺心的事多一点，被惦记的时候多一点。",
+      "full": "王维写过：“松风吹解带，山月照弹琴。”\n喜欢这两句的松快：事情认真做，相聚时也允许自己舒展一点。\n谢谢你的祝福，我认真收下；也愿你顺心的事多一点，被惦记的时候多一点。",
+      "english": "To doing our best, and knowing when to relax. Thank you for your kind wishes. I wish you the same warmth and happiness.",
+      "translation": "喜欢这两句的松快：事情认真做，相聚时也允许自己舒展一点。谢谢你的祝福，我认真收下；也愿你顺心的事多一点，被惦记的时候多一点。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-pine",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "c06-pine",
+        "title": "王维《酬张少府》",
+        "book": "公开古籍原文补充",
+        "pages": "维基文库《酬张少府》",
+        "original": "松风吹解带，山月照弹琴。",
+        "fullOriginal": "晚年唯好静，万事不关心。\n自顾无长策，空知返旧林。\n松风吹解带，山月照弹琴。\n君问穷通理，渔歌入浦深。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "王维《酬张少府》",
+        "meaning": "原诗有退居与穷通之思。这里只借松风山月的自在，不用“万事不关心”表达工作态度。",
+        "note": "按核对文本用“唯”；君另有若字异文。只取闲意，不把山月当作现场实景。",
+        "fullOriginalNote": "按核对文本用“唯”；君另有若字异文。只取闲意，不把山月当作现场实景。",
+        "form": "古诗",
+        "url": "https://zh.wikisource.org/zh-hans/酬張少府",
+        "fullOriginalUrl": "https://zh.wikisource.org/zh-hans/酬張少府"
+      }
+    },
+    {
+      "id": "c06-pine-thanks",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "thanks",
+      "scene": "thanks",
+      "target": "host",
+      "source": "c06-pine",
+      "title": "谢谢款待 · 松风解拘束",
+      "short": "王维写过：“松风吹解带，山月照弹琴。”喜欢这两句的松快：事情认真做，相聚时也允许自己舒展一点。今天谢谢你的张罗，让相聚有着落，也让我们有空坐下来好好说话。这杯敬你。",
+      "full": "王维写过：“松风吹解带，山月照弹琴。”\n喜欢这两句的松快：事情认真做，相聚时也允许自己舒展一点。\n今天谢谢你的张罗，让相聚有着落，也让我们有空坐下来好好说话。这杯敬你。",
+      "english": "To doing our best, and knowing when to relax. Thank you for bringing us together and making us feel welcome.",
+      "translation": "喜欢这两句的松快：事情认真做，相聚时也允许自己舒展一点。今天谢谢你的张罗，让相聚有着落，也让我们有空坐下来好好说话。这杯敬你。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-pine",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "c06-pine",
+        "title": "王维《酬张少府》",
+        "book": "公开古籍原文补充",
+        "pages": "维基文库《酬张少府》",
+        "original": "松风吹解带，山月照弹琴。",
+        "fullOriginal": "晚年唯好静，万事不关心。\n自顾无长策，空知返旧林。\n松风吹解带，山月照弹琴。\n君问穷通理，渔歌入浦深。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "王维《酬张少府》",
+        "meaning": "原诗有退居与穷通之思。这里只借松风山月的自在，不用“万事不关心”表达工作态度。",
+        "note": "按核对文本用“唯”；君另有若字异文。只取闲意，不把山月当作现场实景。",
+        "fullOriginalNote": "按核对文本用“唯”；君另有若字异文。只取闲意，不把山月当作现场实景。",
+        "form": "古诗",
+        "url": "https://zh.wikisource.org/zh-hans/酬張少府",
+        "fullOriginalUrl": "https://zh.wikisource.org/zh-hans/酬張少府"
+      }
+    },
+    {
+      "id": "c06-pine-welcome",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "welcome",
+      "scene": "host",
+      "target": "table",
+      "source": "c06-pine",
+      "title": "欢迎相聚 · 松风解拘束",
+      "short": "王维写过：“松风吹解带，山月照弹琴。”松风能解带，咱们先解一解拘束；难得相聚，别把自己也绷成会议纪要。很高兴今天能坐下来聊聊。饭慢慢吃，话慢慢说，愿这一席坐得自在，下回还想再来。",
+      "full": "王维写过：“松风吹解带，山月照弹琴。”\n松风能解带，咱们先解一解拘束；难得相聚，别把自己也绷成会议纪要。\n很高兴今天能坐下来聊聊。饭慢慢吃，话慢慢说，愿这一席坐得自在，下回还想再来。",
+      "english": "To doing our best, and knowing when to relax. Welcome. Let us enjoy the food and the conversation at our own pace.",
+      "translation": "松风能解带，咱们先解一解拘束；难得相聚，别把自己也绷成会议纪要。很高兴今天能坐下来聊聊。饭慢慢吃，话慢慢说，愿这一席坐得自在，下回还想再来。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "c06-pine",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "c06-pine",
+        "title": "王维《酬张少府》",
+        "book": "公开古籍原文补充",
+        "pages": "维基文库《酬张少府》",
+        "original": "松风吹解带，山月照弹琴。",
+        "fullOriginal": "晚年唯好静，万事不关心。\n自顾无长策，空知返旧林。\n松风吹解带，山月照弹琴。\n君问穷通理，渔歌入浦深。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "王维《酬张少府》",
+        "meaning": "原诗有退居与穷通之思。这里只借松风山月的自在，不用“万事不关心”表达工作态度。",
+        "note": "按核对文本用“唯”；君另有若字异文。只取闲意，不把山月当作现场实景。",
+        "fullOriginalNote": "按核对文本用“唯”；君另有若字异文。只取闲意，不把山月当作现场实景。",
+        "form": "古诗",
+        "url": "https://zh.wikisource.org/zh-hans/酬張少府",
+        "fullOriginalUrl": "https://zh.wikisource.org/zh-hans/酬張少府"
+      }
+    },
+    {
+      "id": "c06-pine-closing",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "closing",
+      "scene": "closing",
+      "target": "table",
+      "source": "c06-pine",
+      "title": "散席留余温 · 松风解拘束",
+      "short": "王维写过：“松风吹解带，山月照弹琴。”喜欢这两句的松快：事情认真做，相聚时也允许自己舒展一点。今天就先把相聚留在这里。回去路上慢一点，到了报声平安；下回有机会，再坐一桌。",
+      "full": "王维写过：“松风吹解带，山月照弹琴。”\n喜欢这两句的松快：事情认真做，相聚时也允许自己舒展一点。\n今天就先把相聚留在这里。回去路上慢一点，到了报声平安；下回有机会，再坐一桌。",
+      "english": "To doing our best, and knowing when to relax. Have a safe journey home. I look forward to our next conversation.",
+      "translation": "喜欢这两句的松快：事情认真做，相聚时也允许自己舒展一点。今天就先把相聚留在这里。回去路上慢一点，到了报声平安；下回有机会，再坐一桌。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-pine",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "c06-pine",
+        "title": "王维《酬张少府》",
+        "book": "公开古籍原文补充",
+        "pages": "维基文库《酬张少府》",
+        "original": "松风吹解带，山月照弹琴。",
+        "fullOriginal": "晚年唯好静，万事不关心。\n自顾无长策，空知返旧林。\n松风吹解带，山月照弹琴。\n君问穷通理，渔歌入浦深。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "王维《酬张少府》",
+        "meaning": "原诗有退居与穷通之思。这里只借松风山月的自在，不用“万事不关心”表达工作态度。",
+        "note": "按核对文本用“唯”；君另有若字异文。只取闲意，不把山月当作现场实景。",
+        "fullOriginalNote": "按核对文本用“唯”；君另有若字异文。只取闲意，不把山月当作现场实景。",
+        "form": "古诗",
+        "url": "https://zh.wikisource.org/zh-hans/酬張少府",
+        "fullOriginalUrl": "https://zh.wikisource.org/zh-hans/酬張少府"
+      }
+    },
+    {
+      "id": "c06-pine-farewell",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "farewell",
+      "scene": "farewell",
+      "target": "table",
+      "source": "c06-pine",
+      "title": "送一份祝福 · 松风解拘束",
+      "short": "王维写过：“松风吹解带，山月照弹琴。”喜欢这两句的松快：事情认真做，相聚时也允许自己舒展一点。这一杯送一份祝福，愿你接下来的路走得稳、过得好；有空的时候，咱们再约。",
+      "full": "王维写过：“松风吹解带，山月照弹琴。”\n喜欢这两句的松快：事情认真做，相聚时也允许自己舒展一点。\n这一杯送一份祝福，愿你接下来的路走得稳、过得好；有空的时候，咱们再约。",
+      "english": "To doing our best, and knowing when to relax. Wishing you a smooth journey and good company wherever you go.",
+      "translation": "喜欢这两句的松快：事情认真做，相聚时也允许自己舒展一点。这一杯送一份祝福，愿你接下来的路走得稳、过得好；有空的时候，咱们再约。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-pine",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "c06-pine",
+        "title": "王维《酬张少府》",
+        "book": "公开古籍原文补充",
+        "pages": "维基文库《酬张少府》",
+        "original": "松风吹解带，山月照弹琴。",
+        "fullOriginal": "晚年唯好静，万事不关心。\n自顾无长策，空知返旧林。\n松风吹解带，山月照弹琴。\n君问穷通理，渔歌入浦深。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "王维《酬张少府》",
+        "meaning": "原诗有退居与穷通之思。这里只借松风山月的自在，不用“万事不关心”表达工作态度。",
+        "note": "按核对文本用“唯”；君另有若字异文。只取闲意，不把山月当作现场实景。",
+        "fullOriginalNote": "按核对文本用“唯”；君另有若字异文。只取闲意，不把山月当作现场实景。",
+        "form": "古诗",
+        "url": "https://zh.wikisource.org/zh-hans/酬張少府",
+        "fullOriginalUrl": "https://zh.wikisource.org/zh-hans/酬張少府"
+      }
+    },
+    {
+      "id": "c06-pine-gratitude",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "gratitude",
+      "scene": "thanks",
+      "target": "table",
+      "source": "c06-pine",
+      "title": "谢一份好意 · 松风解拘束",
+      "short": "王维写过：“松风吹解带，山月照弹琴。”松风能解带，咱们先解一解拘束；难得相聚，别把自己也绷成会议纪要。今天借这一杯，认真谢谢你的好意。愿你给出去的体贴，也常有人还给你。",
+      "full": "王维写过：“松风吹解带，山月照弹琴。”\n松风能解带，咱们先解一解拘束；难得相聚，别把自己也绷成会议纪要。\n今天借这一杯，认真谢谢你的好意。愿你给出去的体贴，也常有人还给你。",
+      "english": "To doing our best, and knowing when to relax. Thank you for your kindness. May you find the same care in return.",
+      "translation": "松风能解带，咱们先解一解拘束；难得相聚，别把自己也绷成会议纪要。今天借这一杯，认真谢谢你的好意。愿你给出去的体贴，也常有人还给你。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "c06-pine",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "c06-pine",
+        "title": "王维《酬张少府》",
+        "book": "公开古籍原文补充",
+        "pages": "维基文库《酬张少府》",
+        "original": "松风吹解带，山月照弹琴。",
+        "fullOriginal": "晚年唯好静，万事不关心。\n自顾无长策，空知返旧林。\n松风吹解带，山月照弹琴。\n君问穷通理，渔歌入浦深。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "王维《酬张少府》",
+        "meaning": "原诗有退居与穷通之思。这里只借松风山月的自在，不用“万事不关心”表达工作态度。",
+        "note": "按核对文本用“唯”；君另有若字异文。只取闲意，不把山月当作现场实景。",
+        "fullOriginalNote": "按核对文本用“唯”；君另有若字异文。只取闲意，不把山月当作现场实景。",
+        "form": "古诗",
+        "url": "https://zh.wikisource.org/zh-hans/酬張少府",
+        "fullOriginalUrl": "https://zh.wikisource.org/zh-hans/酬張少府"
+      }
+    },
+    {
+      "id": "c06-pine-finish",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "finish",
+      "scene": "closing",
+      "target": "table",
+      "source": "c06-pine",
+      "title": "话短心意长 · 松风解拘束",
+      "short": "王维写过：“松风吹解带，山月照弹琴。”喜欢这两句的松快：事情认真做，相聚时也允许自己舒展一点。我就先说到这里，把时间留给吃饭聊天。祝这份好心情，从饭桌一直跟到回家。",
+      "full": "王维写过：“松风吹解带，山月照弹琴。”\n喜欢这两句的松快：事情认真做，相聚时也允许自己舒展一点。\n我就先说到这里，把时间留给吃饭聊天。祝这份好心情，从饭桌一直跟到回家。",
+      "english": "To doing our best, and knowing when to relax. That is all from me. Enjoy the meal and the conversation.",
+      "translation": "喜欢这两句的松快：事情认真做，相聚时也允许自己舒展一点。我就先说到这里，把时间留给吃饭聊天。祝这份好心情，从饭桌一直跟到回家。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-pine",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "c06-pine",
+        "title": "王维《酬张少府》",
+        "book": "公开古籍原文补充",
+        "pages": "维基文库《酬张少府》",
+        "original": "松风吹解带，山月照弹琴。",
+        "fullOriginal": "晚年唯好静，万事不关心。\n自顾无长策，空知返旧林。\n松风吹解带，山月照弹琴。\n君问穷通理，渔歌入浦深。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "王维《酬张少府》",
+        "meaning": "原诗有退居与穷通之思。这里只借松风山月的自在，不用“万事不关心”表达工作态度。",
+        "note": "按核对文本用“唯”；君另有若字异文。只取闲意，不把山月当作现场实景。",
+        "fullOriginalNote": "按核对文本用“唯”；君另有若字异文。只取闲意，不把山月当作现场实景。",
+        "form": "古诗",
+        "url": "https://zh.wikisource.org/zh-hans/酬張少府",
+        "fullOriginalUrl": "https://zh.wikisource.org/zh-hans/酬張少府"
+      }
+    },
+    {
+      "id": "c06-path-personal",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "personal",
+      "scene": "general",
+      "target": "person",
+      "source": "c06-path",
+      "title": "单独敬一位 · 曲径慢相识",
+      "short": "古诗里说：“曲径通幽处，禅房花木深。”这是常建写的。有些好风景，要走近了才看得见；人与人相处，也可以慢慢认识、慢慢聊。这一杯敬你，愿你忙的时候有收获，闲的时候有滋味。",
+      "full": "古诗里说：“曲径通幽处，禅房花木深。”这是常建写的。\n有些好风景，要走近了才看得见；人与人相处，也可以慢慢认识、慢慢聊。\n这一杯敬你，愿你忙的时候有收获，闲的时候有滋味。",
+      "english": "To good conversations, without any rush. Here is to you, to rewarding work and happy days.",
+      "translation": "有些好风景，要走近了才看得见；人与人相处，也可以慢慢认识、慢慢聊。这一杯敬你，愿你忙的时候有收获，闲的时候有滋味。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-path",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "c06-path",
+        "title": "常建《题破山寺后禅院》",
+        "book": "公开古籍原文补充",
+        "pages": "维基文库《题破山寺后禅院》",
+        "original": "曲径通幽处，禅房花木深。",
+        "fullOriginal": "清晨入古寺，初日照高林。\n曲径通幽处，禅房花木深。\n山光悦鸟性，潭影空人心。\n万籁此俱寂，惟闻钟磬音。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "常建《题破山寺后禅院》",
+        "meaning": "原诗写寺院清幽与心境澄静。借曲径通幽说相处不用赶进度，不推断在场者信仰。",
+        "note": "曲径有竹径等异文；惟闻有但余异文。展示采用同一通行正文，不把异文注混入诗句。",
+        "fullOriginalNote": "曲径有竹径等异文；惟闻有但余异文。展示采用同一通行正文，不把异文注混入诗句。",
+        "form": "古诗",
+        "url": "https://zh.wikisource.org/zh/題破山寺後禪院",
+        "fullOriginalUrl": "https://zh.wikisource.org/zh/題破山寺後禪院"
+      }
+    },
+    {
+      "id": "c06-path-reply",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "reply",
+      "scene": "reply",
+      "target": "table",
+      "source": "c06-path",
+      "title": "接住祝福 · 曲径慢相识",
+      "short": "古诗里说：“曲径通幽处，禅房花木深。”这是常建写的。有些好风景，要走近了才看得见；人与人相处，也可以慢慢认识、慢慢聊。谢谢你的祝福，我认真收下；也愿你顺心的事多一点，被惦记的时候多一点。",
+      "full": "古诗里说：“曲径通幽处，禅房花木深。”这是常建写的。\n有些好风景，要走近了才看得见；人与人相处，也可以慢慢认识、慢慢聊。\n谢谢你的祝福，我认真收下；也愿你顺心的事多一点，被惦记的时候多一点。",
+      "english": "To good conversations, without any rush. Thank you for your kind wishes. I wish you the same warmth and happiness.",
+      "translation": "有些好风景，要走近了才看得见；人与人相处，也可以慢慢认识、慢慢聊。谢谢你的祝福，我认真收下；也愿你顺心的事多一点，被惦记的时候多一点。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-path",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "c06-path",
+        "title": "常建《题破山寺后禅院》",
+        "book": "公开古籍原文补充",
+        "pages": "维基文库《题破山寺后禅院》",
+        "original": "曲径通幽处，禅房花木深。",
+        "fullOriginal": "清晨入古寺，初日照高林。\n曲径通幽处，禅房花木深。\n山光悦鸟性，潭影空人心。\n万籁此俱寂，惟闻钟磬音。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "常建《题破山寺后禅院》",
+        "meaning": "原诗写寺院清幽与心境澄静。借曲径通幽说相处不用赶进度，不推断在场者信仰。",
+        "note": "曲径有竹径等异文；惟闻有但余异文。展示采用同一通行正文，不把异文注混入诗句。",
+        "fullOriginalNote": "曲径有竹径等异文；惟闻有但余异文。展示采用同一通行正文，不把异文注混入诗句。",
+        "form": "古诗",
+        "url": "https://zh.wikisource.org/zh/題破山寺後禪院",
+        "fullOriginalUrl": "https://zh.wikisource.org/zh/題破山寺後禪院"
+      }
+    },
+    {
+      "id": "c06-path-thanks",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "thanks",
+      "scene": "thanks",
+      "target": "host",
+      "source": "c06-path",
+      "title": "谢谢款待 · 曲径慢相识",
+      "short": "古诗里说：“曲径通幽处，禅房花木深。”这是常建写的。好风景藏在拐弯处，好话就别都藏着了；今天高兴，我先直说。今天谢谢你的张罗，让相聚有着落，也让我们有空坐下来好好说话。这杯敬你。",
+      "full": "古诗里说：“曲径通幽处，禅房花木深。”这是常建写的。\n好风景藏在拐弯处，好话就别都藏着了；今天高兴，我先直说。\n今天谢谢你的张罗，让相聚有着落，也让我们有空坐下来好好说话。这杯敬你。",
+      "english": "To good conversations, without any rush. Thank you for bringing us together and making us feel welcome.",
+      "translation": "好风景藏在拐弯处，好话就别都藏着了；今天高兴，我先直说。今天谢谢你的张罗，让相聚有着落，也让我们有空坐下来好好说话。这杯敬你。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "c06-path",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "c06-path",
+        "title": "常建《题破山寺后禅院》",
+        "book": "公开古籍原文补充",
+        "pages": "维基文库《题破山寺后禅院》",
+        "original": "曲径通幽处，禅房花木深。",
+        "fullOriginal": "清晨入古寺，初日照高林。\n曲径通幽处，禅房花木深。\n山光悦鸟性，潭影空人心。\n万籁此俱寂，惟闻钟磬音。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "常建《题破山寺后禅院》",
+        "meaning": "原诗写寺院清幽与心境澄静。借曲径通幽说相处不用赶进度，不推断在场者信仰。",
+        "note": "曲径有竹径等异文；惟闻有但余异文。展示采用同一通行正文，不把异文注混入诗句。",
+        "fullOriginalNote": "曲径有竹径等异文；惟闻有但余异文。展示采用同一通行正文，不把异文注混入诗句。",
+        "form": "古诗",
+        "url": "https://zh.wikisource.org/zh/題破山寺後禪院",
+        "fullOriginalUrl": "https://zh.wikisource.org/zh/題破山寺後禪院"
+      }
+    },
+    {
+      "id": "c06-path-welcome",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "welcome",
+      "scene": "host",
+      "target": "table",
+      "source": "c06-path",
+      "title": "欢迎相聚 · 曲径慢相识",
+      "short": "古诗里说：“曲径通幽处，禅房花木深。”这是常建写的。有些好风景，要走近了才看得见；人与人相处，也可以慢慢认识、慢慢聊。很高兴今天能坐下来聊聊。饭慢慢吃，话慢慢说，愿这一席坐得自在，下回还想再来。",
+      "full": "古诗里说：“曲径通幽处，禅房花木深。”这是常建写的。\n有些好风景，要走近了才看得见；人与人相处，也可以慢慢认识、慢慢聊。\n很高兴今天能坐下来聊聊。饭慢慢吃，话慢慢说，愿这一席坐得自在，下回还想再来。",
+      "english": "To good conversations, without any rush. Welcome. Let us enjoy the food and the conversation at our own pace.",
+      "translation": "有些好风景，要走近了才看得见；人与人相处，也可以慢慢认识、慢慢聊。很高兴今天能坐下来聊聊。饭慢慢吃，话慢慢说，愿这一席坐得自在，下回还想再来。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-path",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "c06-path",
+        "title": "常建《题破山寺后禅院》",
+        "book": "公开古籍原文补充",
+        "pages": "维基文库《题破山寺后禅院》",
+        "original": "曲径通幽处，禅房花木深。",
+        "fullOriginal": "清晨入古寺，初日照高林。\n曲径通幽处，禅房花木深。\n山光悦鸟性，潭影空人心。\n万籁此俱寂，惟闻钟磬音。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "常建《题破山寺后禅院》",
+        "meaning": "原诗写寺院清幽与心境澄静。借曲径通幽说相处不用赶进度，不推断在场者信仰。",
+        "note": "曲径有竹径等异文；惟闻有但余异文。展示采用同一通行正文，不把异文注混入诗句。",
+        "fullOriginalNote": "曲径有竹径等异文；惟闻有但余异文。展示采用同一通行正文，不把异文注混入诗句。",
+        "form": "古诗",
+        "url": "https://zh.wikisource.org/zh/題破山寺後禪院",
+        "fullOriginalUrl": "https://zh.wikisource.org/zh/題破山寺後禪院"
+      }
+    },
+    {
+      "id": "c06-path-closing",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "closing",
+      "scene": "closing",
+      "target": "table",
+      "source": "c06-path",
+      "title": "散席留余温 · 曲径慢相识",
+      "short": "古诗里说：“曲径通幽处，禅房花木深。”这是常建写的。有些好风景，要走近了才看得见；人与人相处，也可以慢慢认识、慢慢聊。今天就先把相聚留在这里。回去路上慢一点，到了报声平安；下回有机会，再坐一桌。",
+      "full": "古诗里说：“曲径通幽处，禅房花木深。”这是常建写的。\n有些好风景，要走近了才看得见；人与人相处，也可以慢慢认识、慢慢聊。\n今天就先把相聚留在这里。回去路上慢一点，到了报声平安；下回有机会，再坐一桌。",
+      "english": "To good conversations, without any rush. Have a safe journey home. I look forward to our next conversation.",
+      "translation": "有些好风景，要走近了才看得见；人与人相处，也可以慢慢认识、慢慢聊。今天就先把相聚留在这里。回去路上慢一点，到了报声平安；下回有机会，再坐一桌。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-path",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "c06-path",
+        "title": "常建《题破山寺后禅院》",
+        "book": "公开古籍原文补充",
+        "pages": "维基文库《题破山寺后禅院》",
+        "original": "曲径通幽处，禅房花木深。",
+        "fullOriginal": "清晨入古寺，初日照高林。\n曲径通幽处，禅房花木深。\n山光悦鸟性，潭影空人心。\n万籁此俱寂，惟闻钟磬音。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "常建《题破山寺后禅院》",
+        "meaning": "原诗写寺院清幽与心境澄静。借曲径通幽说相处不用赶进度，不推断在场者信仰。",
+        "note": "曲径有竹径等异文；惟闻有但余异文。展示采用同一通行正文，不把异文注混入诗句。",
+        "fullOriginalNote": "曲径有竹径等异文；惟闻有但余异文。展示采用同一通行正文，不把异文注混入诗句。",
+        "form": "古诗",
+        "url": "https://zh.wikisource.org/zh/題破山寺後禪院",
+        "fullOriginalUrl": "https://zh.wikisource.org/zh/題破山寺後禪院"
+      }
+    },
+    {
+      "id": "c06-path-farewell",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "farewell",
+      "scene": "farewell",
+      "target": "table",
+      "source": "c06-path",
+      "title": "送一份祝福 · 曲径慢相识",
+      "short": "古诗里说：“曲径通幽处，禅房花木深。”这是常建写的。好风景藏在拐弯处，好话就别都藏着了；今天高兴，我先直说。这一杯送一份祝福，愿你接下来的路走得稳、过得好；有空的时候，咱们再约。",
+      "full": "古诗里说：“曲径通幽处，禅房花木深。”这是常建写的。\n好风景藏在拐弯处，好话就别都藏着了；今天高兴，我先直说。\n这一杯送一份祝福，愿你接下来的路走得稳、过得好；有空的时候，咱们再约。",
+      "english": "To good conversations, without any rush. Wishing you a smooth journey and good company wherever you go.",
+      "translation": "好风景藏在拐弯处，好话就别都藏着了；今天高兴，我先直说。这一杯送一份祝福，愿你接下来的路走得稳、过得好；有空的时候，咱们再约。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "c06-path",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "c06-path",
+        "title": "常建《题破山寺后禅院》",
+        "book": "公开古籍原文补充",
+        "pages": "维基文库《题破山寺后禅院》",
+        "original": "曲径通幽处，禅房花木深。",
+        "fullOriginal": "清晨入古寺，初日照高林。\n曲径通幽处，禅房花木深。\n山光悦鸟性，潭影空人心。\n万籁此俱寂，惟闻钟磬音。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "常建《题破山寺后禅院》",
+        "meaning": "原诗写寺院清幽与心境澄静。借曲径通幽说相处不用赶进度，不推断在场者信仰。",
+        "note": "曲径有竹径等异文；惟闻有但余异文。展示采用同一通行正文，不把异文注混入诗句。",
+        "fullOriginalNote": "曲径有竹径等异文；惟闻有但余异文。展示采用同一通行正文，不把异文注混入诗句。",
+        "form": "古诗",
+        "url": "https://zh.wikisource.org/zh/題破山寺後禪院",
+        "fullOriginalUrl": "https://zh.wikisource.org/zh/題破山寺後禪院"
+      }
+    },
+    {
+      "id": "c06-path-gratitude",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "gratitude",
+      "scene": "thanks",
+      "target": "table",
+      "source": "c06-path",
+      "title": "谢一份好意 · 曲径慢相识",
+      "short": "古诗里说：“曲径通幽处，禅房花木深。”这是常建写的。有些好风景，要走近了才看得见；人与人相处，也可以慢慢认识、慢慢聊。今天借这一杯，认真谢谢你的好意。愿你给出去的体贴，也常有人还给你。",
+      "full": "古诗里说：“曲径通幽处，禅房花木深。”这是常建写的。\n有些好风景，要走近了才看得见；人与人相处，也可以慢慢认识、慢慢聊。\n今天借这一杯，认真谢谢你的好意。愿你给出去的体贴，也常有人还给你。",
+      "english": "To good conversations, without any rush. Thank you for your kindness. May you find the same care in return.",
+      "translation": "有些好风景，要走近了才看得见；人与人相处，也可以慢慢认识、慢慢聊。今天借这一杯，认真谢谢你的好意。愿你给出去的体贴，也常有人还给你。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-path",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "c06-path",
+        "title": "常建《题破山寺后禅院》",
+        "book": "公开古籍原文补充",
+        "pages": "维基文库《题破山寺后禅院》",
+        "original": "曲径通幽处，禅房花木深。",
+        "fullOriginal": "清晨入古寺，初日照高林。\n曲径通幽处，禅房花木深。\n山光悦鸟性，潭影空人心。\n万籁此俱寂，惟闻钟磬音。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "常建《题破山寺后禅院》",
+        "meaning": "原诗写寺院清幽与心境澄静。借曲径通幽说相处不用赶进度，不推断在场者信仰。",
+        "note": "曲径有竹径等异文；惟闻有但余异文。展示采用同一通行正文，不把异文注混入诗句。",
+        "fullOriginalNote": "曲径有竹径等异文；惟闻有但余异文。展示采用同一通行正文，不把异文注混入诗句。",
+        "form": "古诗",
+        "url": "https://zh.wikisource.org/zh/題破山寺後禪院",
+        "fullOriginalUrl": "https://zh.wikisource.org/zh/題破山寺後禪院"
+      }
+    },
+    {
+      "id": "c06-path-finish",
+      "version": 1,
+      "occasions": [
+        "general",
+        "work",
+        "friends",
+        "family",
+        "meeting",
+        "dating"
+      ],
+      "purpose": "finish",
+      "scene": "closing",
+      "target": "table",
+      "source": "c06-path",
+      "title": "话短心意长 · 曲径慢相识",
+      "short": "古诗里说：“曲径通幽处，禅房花木深。”这是常建写的。有些好风景，要走近了才看得见；人与人相处，也可以慢慢认识、慢慢聊。我就先说到这里，把时间留给吃饭聊天。祝这份好心情，从饭桌一直跟到回家。",
+      "full": "古诗里说：“曲径通幽处，禅房花木深。”这是常建写的。\n有些好风景，要走近了才看得见；人与人相处，也可以慢慢认识、慢慢聊。\n我就先说到这里，把时间留给吃饭聊天。祝这份好心情，从饭桌一直跟到回家。",
+      "english": "To good conversations, without any rush. That is all from me. Enjoy the meal and the conversation.",
+      "translation": "有些好风景，要走近了才看得见；人与人相处，也可以慢慢认识、慢慢聊。我就先说到这里，把时间留给吃饭聊天。祝这份好心情，从饭桌一直跟到回家。",
+      "tip": "引句与原作背景见出处；后续心意为当代整理，按当前关系斟酌称呼。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "c06-path",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "0.6新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "c06-path",
+        "title": "常建《题破山寺后禅院》",
+        "book": "公开古籍原文补充",
+        "pages": "维基文库《题破山寺后禅院》",
+        "original": "曲径通幽处，禅房花木深。",
+        "fullOriginal": "清晨入古寺，初日照高林。\n曲径通幽处，禅房花木深。\n山光悦鸟性，潭影空人心。\n万籁此俱寂，惟闻钟磬音。",
+        "fullOriginalLabel": "完整原文",
+        "fullOriginalTitle": "常建《题破山寺后禅院》",
+        "meaning": "原诗写寺院清幽与心境澄静。借曲径通幽说相处不用赶进度，不推断在场者信仰。",
+        "note": "曲径有竹径等异文；惟闻有但余异文。展示采用同一通行正文，不把异文注混入诗句。",
+        "fullOriginalNote": "曲径有竹径等异文；惟闻有但余异文。展示采用同一通行正文，不把异文注混入诗句。",
+        "form": "古诗",
+        "url": "https://zh.wikisource.org/zh/題破山寺後禪院",
+        "fullOriginalUrl": "https://zh.wikisource.org/zh/題破山寺後禪院"
       }
     },
     {

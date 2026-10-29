@@ -4,7 +4,7 @@ import {sources} from '../src/data/sources';
 const plain=(s:string)=>s.replace(/[\s\p{P}\p{S}]/gu,'');
 test('Every existing cited original has complete text with an honest scope label',()=>{
  const cited=Object.values(sources).filter(s=>s.original);
- assert.equal(cited.length,140);
+ assert.equal(cited.length,148);
  for(const s of cited){
   assert.ok(s.fullOriginal,s.id);
   assert.ok(s.fullOriginalLabel,s.id);

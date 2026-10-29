@@ -1,11 +1,11 @@
 import type {Choice,Toast,Occasion,Purpose,Scene} from './types';
 export const occasionOptions=[{id:'general',name:'直接给我一句'},{id:'friends',name:'朋友聚会'},{id:'work',name:'同事聚餐'},{id:'family',name:'家庭聚会'},{id:'meeting',name:'认识新朋友'},{id:'dating',name:'相亲约会'}] as const;
-export const purposeOptions=[{id:'toast',name:'敬大家'},{id:'personal',name:'单独敬一位'},{id:'reply',name:'接一句祝福'},{id:'thanks',name:'感谢款待'},{id:'welcome',name:'主人开场'},{id:'closing',name:'结束收尾'},{id:'farewell',name:'送别珍重'}] as const;
+export const purposeOptions=[{id:'toast',name:'敬大家'},{id:'personal',name:'单独敬一位'},{id:'reply',name:'接一句祝福'},{id:'thanks',name:'感谢款待'},{id:'welcome',name:'主人开场'},{id:'closing',name:'结束收尾'},{id:'farewell',name:'送别珍重'},{id:'gratitude',name:'感谢帮助'},{id:'finish',name:'结束发言'}] as const;
 export const flavorOptions=[{id:'verse',name:'诗意自然'},{id:'fun',name:'轻松有趣'},{id:'formal',name:'郑重得体'}] as const;
 export const imageryOptions=[{id:'any',name:'不限意象'},{id:'night',name:'夜晚'},{id:'moon',name:'月色'},{id:'wine',name:'茶酒待客'}] as const;
-export const purposeScene:Partial<Record<Purpose,Scene>>={reply:'reply',thanks:'thanks',welcome:'host',closing:'closing',farewell:'farewell'};
+export const purposeScene:Partial<Record<Purpose,Scene>>={reply:'reply',thanks:'thanks',welcome:'host',closing:'closing',farewell:'farewell',gratitude:'thanks',finish:'closing'};
 // Reviewed, relationship-neutral speeches may serve more than one occasion.
-// Other legacy intent-only entries remain available through their old links.
+// Familiar-group legacy entries have a separate route below; old links remain valid.
 const shared=new Set([
  'reply-01','reply-02','spoken-reply-03','spoken-reply-06','spoken-reply-09','verse-liu-renew','verse-xu-light-reply','r04-shi-44-2','r04-shi-702-2','r04-shi-991-2',
  'verse-li-askmoon-midautumn','host-01','host-02','spoken-host-02','spoken-host-04','verse-li-spring','verse-du-guest','verse-zhang-world','r04-shi-469-1','r04-shi-683-1','r04-shi-687-1','r04-shi-706-1','r04-story-13-1',
@@ -18,6 +18,12 @@ export function matchesContext(t:Toast,c:Choice):boolean {
  const purpose=c.purpose||'toast';
  if(t.purpose)return t.purpose===purpose&&!!t.occasions?.includes(c.occasion);
  if(c.occasion==='general'&&(purpose==='toast'||purpose==='personal'))return !t.purpose;
+ if(purpose==='gratitude')return t.scene==='thanks'&&t.target==='table'&&c.occasion!=='dating';
+ if(purpose==='finish')return t.scene==='closing'&&!t.id.startsWith('r04-')&&c.occasion!=='dating';
+ // Familiar-group legacy texts remain available in the friends occasion.
+ if(c.occasion==='friends'&&purpose!=='closing')return true;
+ if(c.occasion==='family'&&t.id==='r04-shi-642-2')return purpose==='closing';
+ if(c.occasion==='friends'&&purpose==='closing'&&t.id.startsWith('r04-')&&t.id!=='r04-shi-642-2')return true;
  if(purpose==='toast'||purpose==='personal')return t.scene===c.occasion;
  // First meetings do not inherit familiar-group promises or plural host scripts.
  if(c.occasion==='dating')return purpose==='reply'&&shared.has(t.id);

@@ -1,14 +1,14 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
 import {occasionOptions,purposeOptions,flavorOptions,matchesContext} from '../src/core/context';
-import {normalize,select,shareQuery,restore,ending,parseQuery} from '../src/core/engine';
+import {normalize,select,eligiblePool,shareQuery,restore,ending,parseQuery} from '../src/core/engine';
 import {sources} from '../src/data/sources';
 import {toasts} from '../src/data/toasts';
 import {Session} from '../src/core/session';
 test('occasion and purpose jointly select usable cultural speeches in every supported combination',()=>{
  for(const o of occasionOptions)for(const p of purposeOptions)for(const f of flavorOptions)for(const language of ['zh','en'] as const){
   const c=normalize({occasion:o.id,purpose:p.id,flavor:f.id,language,date:'2026-10-29'}),r=select(c,[],()=>0);
-  assert.ok(r.poolIds.length,o.id+'/'+p.id+'/'+f.id);assert.ok(matchesContext(r.toast,c));assert.equal(r.toast.scene,c.scene);assert.equal(r.toast.target,c.target);
+  assert.ok(r.poolIds.length,o.id+'/'+p.id+'/'+f.id);assert.ok(matchesContext(r.toast,c));assert.ok(r.toast.scene===c.scene||(p.id==='personal'&&r.toast.scene==='general'));assert.equal(r.toast.target,c.target);
   assert.ok(ending(r.toast,c));assert.ok(sources[r.toast.source]);
   if(f.id==='verse')assert.equal(r.toast.kind,'引句后整理',o.id+'/'+p.id);
   const restored=restore(parseQuery(shareQuery(r.toast,c)));assert.ok(restored.toast);assert.equal(ending(restored.toast!,restored.choice),ending(r.toast,c));assert.equal(restored.choice.occasion,o.id);assert.equal(restored.choice.purpose,p.id);
@@ -21,7 +21,7 @@ test('ending a family meal does not use generic keep-eating speeches or a collea
 test('new language selection preserves the chosen card, full source and custom editor; legacy shares stay exact',()=>{
  const s=new Session({get:()=>[],set:()=>{}});assert.equal(s.choice.occasion,'general');assert.equal(s.optionsOpen,false);s.choose('occasion','work');s.choose('purpose','closing');const id=s.toast.id;s.choose('language','en');assert.equal(s.toast.id,id);assert.equal(s.choice.tone,'english');s.choose('language','zh');assert.equal(s.toast.id,id);s.beginDraft(true);assert.equal(s.editor!.scene,'同事聚餐 · 结束收尾');assert.equal(s.editor!.text,s.view().text);
  s.cancelDraft();const old=toasts.find(t=>t.id==='general-verse-02'&&t.version===1)!;const c=normalize({scene:'general',length:'full',date:'2026-10-17'});const oldShare=shareQuery(old,c),r=restore(parseQuery(oldShare));assert.equal(r.choice.occasion,undefined);assert.equal(ending(r.toast!,r.choice),ending(old,c));
- const newQ=parseQuery(s.query());assert.equal(restore({...newQ,scene:'dating'}).toast,undefined);assert.equal(restore({...newQ,occasion:'dating'}).toast,undefined);
+ const newQ=parseQuery(s.query());assert.equal(restore({...newQ,scene:'dating'}).toast,undefined);assert.equal(restore({...newQ,occasion:'dating',id:'c05-work-closing-1'}).toast,undefined);
 });
 test('single-person toasts distinguish a leader, a colleague, an elder and a peer',()=>{
  for(const [occasion,target] of [['work','leader'],['work','person'],['family','elder'],['family','person'],['friends','person'],['meeting','person'],['dating','person'],['general','person']] as const){const c=normalize({occasion,purpose:'personal',target,date:'2026-10-29'});const r=select(c,[],()=>0);assert.equal(r.toast.target,target);assert.ok(r.toast.kind==='引句后整理');assert.ok(matchesContext(r.toast,c));}
@@ -32,3 +32,12 @@ test('lunar festival-specific poetry still precedes generic context speeches',()
 test('after the first context speech, another source is preferred over its second rewrite',()=>{const c=normalize({occasion:'work',purpose:'closing',date:'2026-10-29'});const first=select(c,[],()=>0).toast;assert.ok(first.occasions?.includes('work'));const next=select(c,[first.id],()=>0).toast;assert.notEqual(next.source,first.source);});
 
 test('malformed single-person parameters cannot create an empty host or closing pool',()=>{for(const scene of ['host','closing','thanks','reply','farewell'] as const){const c=normalize({scene,target:'person'});assert.notEqual(c.target,'person');assert.ok(select(c,[],()=>0).toast);}});
+
+test('all active entries have a current UI route, including seasonal and festival entries',()=>{
+ const union=new Set<string>();for(const occasion of occasionOptions)for(const purpose of purposeOptions)for(const flavor of flavorOptions)for(const target of ['table','leader','elder','person'] as const)for(const date of ['2026-10-29','2026-01-15','2026-04-15','2026-07-15','2026-09-25','2026-10-18'])for(const t of eligiblePool(normalize({occasion:occasion.id,purpose:purpose.id,flavor:flavor.id,target,date})).pool)union.add(t.id);
+ assert.deepEqual(toasts.filter(t=>t.active!==false&&!union.has(t.id)).map(t=>t.id),[]);
+});
+test('thin poetic groups have at least eight different complete originals and language changes do not inflate counts',()=>{
+ for(const occasion of occasionOptions)for(const purpose of purposeOptions){const c=normalize({occasion:occasion.id,purpose:purpose.id,flavor:'verse',target:'person',date:'2026-10-29'});const pool=eligiblePool(c).pool;const works=new Set(pool.map(t=>(sources[t.source].fullOriginal||'').replace(/[\s\p{P}]/gu,'')));assert.ok(works.size>=8,occasion.id+'/'+purpose.id+': '+works.size);}
+ const s=new Session({get:()=>[],set:()=>{}});const initial=s.view();s.choose('language','en');assert.equal(s.view().poolCount,initial.poolCount);assert.equal(s.view().unseenCount,initial.unseenCount);assert.equal(s.toast.id,initial.toast.id);
+});

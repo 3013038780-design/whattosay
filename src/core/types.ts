@@ -1,7 +1,7 @@
 export type Scene = 'general'|'work'|'friends'|'meeting'|'dating'|'family'|'host'|'farewell'|'thanks'|'reply'|'closing';
 export type Target = 'table'|'leader'|'elder'|'host'|'person';
 export type Occasion = 'general'|'work'|'friends'|'family'|'meeting'|'dating';
-export type Purpose = 'toast'|'personal'|'reply'|'thanks'|'welcome'|'closing'|'farewell';
+export type Purpose = 'toast'|'personal'|'reply'|'thanks'|'welcome'|'closing'|'farewell'|'gratitude'|'finish';
 export type Flavor = 'verse'|'fun'|'formal';
 export type Tone = 'auto'|'poetic'|'verse'|'fun'|'english';
 export type Length = 'short'|'full';
