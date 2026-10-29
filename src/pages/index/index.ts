@@ -11,6 +11,7 @@ Page({
  flavor(e:WechatMiniprogram.BaseEvent){this.session!.choose('flavor',e.currentTarget.dataset.id);this.sync();},
  language(e:WechatMiniprogram.BaseEvent){this.session!.choose('language',e.currentTarget.dataset.id);this.sync();},
  reviewed(){this.session!.reviewed();this.sync();},
+ toggleExpression(){this.session!.expressionOpen=!this.session!.expressionOpen;this.sync();},
  toggleOptions(){this.session!.optionsOpen=!this.session!.optionsOpen;this.sync();},
  scene(e:WechatMiniprogram.BaseEvent){this.session!.change({scene:e.currentTarget.dataset.id});this.sync();},
  target(e:WechatMiniprogram.BaseEvent){this.session!.change({target:e.currentTarget.dataset.id});this.sync();},
