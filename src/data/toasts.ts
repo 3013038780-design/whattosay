@@ -1,3 +1,4 @@
+import {contextualToasts} from './contextual';
 import {readingToasts} from './reading-batch';
 import {spokenToasts} from './spoken';
 import {collectedToasts} from './poetry-expanded';
@@ -79,7 +80,7 @@ toasts.push({...gatheringV1,version:2,active:true,full:'“有朋自远方来，
 
 // Poetry remains in recommendations. Conversational and rhythmic additions supplement it.
 // Preserve every old wording; the latest request also reserves specific familiar sources below.
-toasts.push(...spokenToasts,...culturalToasts,...collectedToasts,...readingToasts);
+toasts.push(...spokenToasts,...culturalToasts,...collectedToasts,...readingToasts,...contextualToasts);
 // User explicitly requested less overfamiliar references. Keep these exact versions for review/shares.
 const commonReferences=new Set(['welcoming','practice','bode','gaoshi','reciprocate']);
 for(const t of toasts)if(t.active!==false&&commonReferences.has(t.source)){t.active=false;t.archiveReason='common';}

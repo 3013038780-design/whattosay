@@ -12,7 +12,7 @@ test('80 independently sourced complete originals support 160 distinct usable dr
  assert.equal(readingToasts.length,160);assert.equal(new Set(readingToasts.map(t=>t.full)).size,160);
  for(const s of sources){assert.ok(s.fullOriginal,s.id);assert.ok(plain(s.fullOriginal!).includes(plain(s.original!)),s.id);assert.ok(s.pages.startsWith('PDF '));assert.equal(readingToasts.filter(t=>t.source===s.id).length,2);assert.doesNotMatch(s.fullOriginal!,/待核|今名茵陈|土山|置办酒食|词无实义/);}
  for(const t of readingToasts){assert.ok(readingSources[t.source]);assert.ok(t.short.length<240,t.id);assert.ok(t.full.length<400,t.id);assert.ok(t.english&&t.translation);}
- assert.equal(toasts.filter(t=>t.active!==false).length,420);
+ assert.equal(toasts.filter(t=>t.active!==false).length,482);
 });
 test('anecdote caveats distinguish disputed stories, unsuccessful visits and unreadable characters',()=>{
  assert.match(readingSources['r04-story-04'].meaning,/矛盾/);

@@ -1,21 +1,21 @@
 {
   "stats": {
     "date": "2026-10-29",
-    "version": "0.4.0",
-    "activeTotal": 420,
-    "activeQuotedEntries": 272,
-    "activePoetryEntries": 201,
-    "activeProseEntries": 71,
+    "version": "0.5.0",
+    "activeTotal": 482,
+    "activeQuotedEntries": 334,
+    "activePoetryEntries": 255,
+    "activeProseEntries": 79,
     "activeDistinctPoeticExcerpts": 104,
     "activeDistinctProseExcerpts": 27,
     "totalDistinctExcerptsIncludingReserved": 137,
-    "newExcerpts": 80,
-    "newWorks": 80,
-    "newDrafts": 160,
+    "newExcerpts": 0,
+    "newWorks": 0,
+    "newDrafts": 62,
     "modernExcerpts": 1,
     "commonReservedVersions": 30,
     "historicalVersions": 1,
-    "sourceSHA256": "35e3b731fc626c72e8e52416853c76cb1ab5e3bec996b75a8ff7557ca6eac6a5"
+    "sourceSHA256": "68b79dd60d2f0876a5b74330c3e1404b0deffe81b66840630e1f2c4f66f5da64"
   },
   "scope": "当前程序中全部古诗文引用文案及其历史版本；不代表所供十份PDF的全部诗句。",
   "entries": [
@@ -6276,6 +6276,2486 @@
         "form": "古文／语录",
         "excerpts": [
           "既有凌霄之姿，何肯为人作耳目近玩？"
+        ]
+      }
+    },
+    {
+      "id": "c05-work-reply-1",
+      "version": 1,
+      "occasions": [
+        "work"
+      ],
+      "purpose": "reply",
+      "scene": "reply",
+      "target": "table",
+      "source": "r04-shi-710",
+      "title": "同事聚餐 · 回敬心意",
+      "short": "《诗经·菁菁者莪》里有一句：“既见君子，我心则喜。”谢谢您的祝福，心意我认真收下。也祝您手上的事推进顺利，忙完有闲，付出有回响。",
+      "full": "《诗经·菁菁者莪》里有一句：“既见君子，我心则喜。”谢谢您的祝福，心意我认真收下。也祝您手上的事推进顺利，忙完有闲，付出有回响。\n谢谢这份心意，也愿好意常有回应。",
+      "english": "To your kind wishes, good work, and time to enjoy life.",
+      "translation": "谢谢您的祝福，心意我认真收下。也祝您手上的事推进顺利，忙完有闲，付出有回响。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-work-reply-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-710",
+        "title": "《诗经·菁菁者莪》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 710—713",
+        "original": "既见君子，我心则喜。",
+        "fullOriginal": "菁菁者莪，在彼中阿。\n既见君子，乐且有仪。\n菁菁者莪，在彼中沚。\n既见君子，我心则喜。\n菁菁者莪，在彼中陵。\n既见君子，锡我百朋。\n泛泛杨舟，载沉载浮。\n既见君子，我心则休。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "有乐育人才等解释；借相见与受教之喜，不编造具体师生经历。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "既见君子，我心则喜。"
+        ]
+      }
+    },
+    {
+      "id": "c05-work-reply-2",
+      "version": 1,
+      "occasions": [
+        "work"
+      ],
+      "purpose": "reply",
+      "scene": "reply",
+      "target": "table",
+      "source": "r04-shi-710",
+      "title": "同事聚餐 · 回敬心意",
+      "short": "好话我收到了，也把好意敬回来。愿咱们工作上遇事有商量，生活里也常有值得高兴的消息。\n《诗经·菁菁者莪》里有一句：“既见君子，我心则喜。”",
+      "full": "好话我收到了，也把好意敬回来。愿咱们工作上遇事有商量，生活里也常有值得高兴的消息。\n《诗经·菁菁者莪》里有一句：“既见君子，我心则喜。”\n谢谢这份心意，也愿好意常有回应。",
+      "english": "To your kind wishes, good work, and time to enjoy life. Wishing you something to smile about every day.",
+      "translation": "好话我收到了，也把好意敬回来。愿咱们工作上遇事有商量，生活里也常有值得高兴的消息。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-work-reply-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-710",
+        "title": "《诗经·菁菁者莪》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 710—713",
+        "original": "既见君子，我心则喜。",
+        "fullOriginal": "菁菁者莪，在彼中阿。\n既见君子，乐且有仪。\n菁菁者莪，在彼中沚。\n既见君子，我心则喜。\n菁菁者莪，在彼中陵。\n既见君子，锡我百朋。\n泛泛杨舟，载沉载浮。\n既见君子，我心则休。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "有乐育人才等解释；借相见与受教之喜，不编造具体师生经历。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "既见君子，我心则喜。"
+        ]
+      }
+    },
+    {
+      "id": "c05-work-closing-1",
+      "version": 1,
+      "occasions": [
+        "work"
+      ],
+      "purpose": "closing",
+      "scene": "closing",
+      "target": "table",
+      "source": "r04-shi-1192",
+      "title": "同事聚餐 · 好好收尾",
+      "short": "《诗经·既醉》里有一句：“君子万年，介尔景福。”今天先把工作放一放，也把这一席的好心情带回去。最后敬各位，愿共事有默契，回家有安宁，明天各自顺利。",
+      "full": "《诗经·既醉》里有一句：“君子万年，介尔景福。”今天先把工作放一放，也把这一席的好心情带回去。最后敬各位，愿共事有默契，回家有安宁，明天各自顺利。\n今天尽兴，回去平安，往后常有好消息。",
+      "english": "To good company at work and a safe journey home tonight.",
+      "translation": "今天先把工作放一放，也把这一席的好心情带回去。最后敬各位，愿共事有默契，回家有安宁，明天各自顺利。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-work-closing-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-1192",
+        "title": "《诗经·既醉》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 1192—1198",
+        "original": "君子万年，介尔景福。",
+        "fullOriginal": "既醉以酒，既饱以德。\n君子万年，介尔景福。\n既醉以酒，尔殽既将。\n君子万年，介尔昭明。\n昭明有融，高朗令终。\n令终有俶。\n公尸嘉告。\n其告维何？\n笾豆静嘉。\n朋友攸摄，摄以威仪。\n威仪孔时，君子有孝子。\n孝子不匮，永锡尔类。\n其类维何？\n室家之壸。\n君子万年，永锡祚胤。\n其胤维何？\n天被尔禄。\n君子万年，景命有仆。\n其仆维何？\n厘尔女士。\n厘尔女士，从以孙子。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "祭祀嘏辞，君子指周王；只借古老祝愿，不说饮酒能延寿获福。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "君子万年，介尔景福。"
+        ]
+      }
+    },
+    {
+      "id": "c05-work-closing-2",
+      "version": 1,
+      "occasions": [
+        "work"
+      ],
+      "purpose": "closing",
+      "scene": "closing",
+      "target": "table",
+      "source": "r04-shi-1192",
+      "title": "同事聚餐 · 好好收尾",
+      "short": "今天这顿饭就先到这里，没聊完的以后接着聊。祝各位归途平安，事情顺手，日子顺心。\n《诗经·既醉》里有一句：“君子万年，介尔景福。”",
+      "full": "今天这顿饭就先到这里，没聊完的以后接着聊。祝各位归途平安，事情顺手，日子顺心。\n《诗经·既醉》里有一句：“君子万年，介尔景福。”\n今天尽兴，回去平安，往后常有好消息。",
+      "english": "To good company at work and a safe journey home tonight. Wishing you something to smile about every day.",
+      "translation": "今天这顿饭就先到这里，没聊完的以后接着聊。祝各位归途平安，事情顺手，日子顺心。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-work-closing-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-1192",
+        "title": "《诗经·既醉》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 1192—1198",
+        "original": "君子万年，介尔景福。",
+        "fullOriginal": "既醉以酒，既饱以德。\n君子万年，介尔景福。\n既醉以酒，尔殽既将。\n君子万年，介尔昭明。\n昭明有融，高朗令终。\n令终有俶。\n公尸嘉告。\n其告维何？\n笾豆静嘉。\n朋友攸摄，摄以威仪。\n威仪孔时，君子有孝子。\n孝子不匮，永锡尔类。\n其类维何？\n室家之壸。\n君子万年，永锡祚胤。\n其胤维何？\n天被尔禄。\n君子万年，景命有仆。\n其仆维何？\n厘尔女士。\n厘尔女士，从以孙子。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "祭祀嘏辞，君子指周王；只借古老祝愿，不说饮酒能延寿获福。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "君子万年，介尔景福。"
+        ]
+      }
+    },
+    {
+      "id": "c05-work-welcome-1",
+      "version": 1,
+      "occasions": [
+        "work"
+      ],
+      "purpose": "welcome",
+      "scene": "host",
+      "target": "table",
+      "source": "r04-story-13",
+      "title": "同事聚餐 · 先说欢迎",
+      "short": "《世说新语》里记载：“随客早晚，不问贵贱。”今天我来张罗，先欢迎各位。工作里的认真咱们都有，饭桌上就多一点自在；愿大家吃得舒心，聊得开心。",
+      "full": "《世说新语》里记载：“随客早晚，不问贵贱。”今天我来张罗，先欢迎各位。工作里的认真咱们都有，饭桌上就多一点自在；愿大家吃得舒心，聊得开心。\n愿这顿饭吃得舒服，聊得自在。",
+      "english": "Welcome, colleagues. Here is to a relaxed meal and good conversation.",
+      "translation": "今天我来张罗，先欢迎各位。工作里的认真咱们都有，饭桌上就多一点自在；愿大家吃得舒心，聊得开心。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-work-welcome-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古文／语录",
+      "sourceDetails": {
+        "id": "r04-story-13",
+        "title": "《世说新语·雅量第二十则》羊曼待客真率",
+        "book": "刘义庆著、刘孝标注、余嘉锡笺疏《世说新语笺疏》",
+        "pages": "PDF 312",
+        "original": "随客早晚，不问贵贱。",
+        "fullOriginal": "过江初，拜官，舆饰供馔。羊曼拜丹阳尹，客来蚤者，并得佳设。日晏渐罄，不复及精，随客早晚，不问贵贱。羊固拜临海，竟日皆美供。虽晚至，亦获盛馔。时论以固之丰华，不如曼之真率。",
+        "fullOriginalLabel": "故事所在条目原文 · 完整条目",
+        "meaning": "古人评论待客真率，不意味早晚客应区别对待；不照搬官场贵贱。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。这是古籍中的叙事，不等于所有细节均获独立史实证实。",
+        "form": "古文／语录",
+        "excerpts": [
+          "随客早晚，不问贵贱。"
+        ]
+      }
+    },
+    {
+      "id": "c05-work-welcome-2",
+      "version": 1,
+      "occasions": [
+        "work"
+      ],
+      "purpose": "welcome",
+      "scene": "host",
+      "target": "table",
+      "source": "r04-story-13",
+      "title": "同事聚餐 · 先说欢迎",
+      "short": "难得从工作里挪出一点时间坐到一起。今天先把客套放一放，饭趁热吃，话慢慢聊，谢谢各位赏光。\n《世说新语》里记载：“随客早晚，不问贵贱。”",
+      "full": "难得从工作里挪出一点时间坐到一起。今天先把客套放一放，饭趁热吃，话慢慢聊，谢谢各位赏光。\n《世说新语》里记载：“随客早晚，不问贵贱。”\n愿这顿饭吃得舒服，聊得自在。",
+      "english": "Welcome, colleagues. Here is to a relaxed meal and good conversation. Wishing you something to smile about every day.",
+      "translation": "难得从工作里挪出一点时间坐到一起。今天先把客套放一放，饭趁热吃，话慢慢聊，谢谢各位赏光。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-work-welcome-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古文／语录",
+      "sourceDetails": {
+        "id": "r04-story-13",
+        "title": "《世说新语·雅量第二十则》羊曼待客真率",
+        "book": "刘义庆著、刘孝标注、余嘉锡笺疏《世说新语笺疏》",
+        "pages": "PDF 312",
+        "original": "随客早晚，不问贵贱。",
+        "fullOriginal": "过江初，拜官，舆饰供馔。羊曼拜丹阳尹，客来蚤者，并得佳设。日晏渐罄，不复及精，随客早晚，不问贵贱。羊固拜临海，竟日皆美供。虽晚至，亦获盛馔。时论以固之丰华，不如曼之真率。",
+        "fullOriginalLabel": "故事所在条目原文 · 完整条目",
+        "meaning": "古人评论待客真率，不意味早晚客应区别对待；不照搬官场贵贱。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。这是古籍中的叙事，不等于所有细节均获独立史实证实。",
+        "form": "古文／语录",
+        "excerpts": [
+          "随客早晚，不问贵贱。"
+        ]
+      }
+    },
+    {
+      "id": "c05-work-thanks-1",
+      "version": 1,
+      "occasions": [
+        "work"
+      ],
+      "purpose": "thanks",
+      "scene": "thanks",
+      "target": "host",
+      "source": "r04-shi-683",
+      "title": "同事聚餐 · 谢谢款待",
+      "short": "《诗经·鱼丽》里有一句：“物其多矣，惟其嘉矣！”这杯先谢谢今天张罗的人。把一桌同事聚齐并不容易，饭菜之外，这份用心也值得认真道一声谢。",
+      "full": "《诗经·鱼丽》里有一句：“物其多矣，惟其嘉矣！”这杯先谢谢今天张罗的人。把一桌同事聚齐并不容易，饭菜之外，这份用心也值得认真道一声谢。\n这份用心我记着，也盼以后有机会好好回应。",
+      "english": "To the care that brought our colleagues together for this meal.",
+      "translation": "这杯先谢谢今天张罗的人。把一桌同事聚齐并不容易，饭菜之外，这份用心也值得认真道一声谢。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-work-thanks-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-683",
+        "title": "《诗经·鱼丽》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 683—686",
+        "original": "物其多矣，惟其嘉矣！",
+        "fullOriginal": "鱼丽于罶，鲿鲨。\n君子有酒，旨且多。\n鱼丽于罶，鲂鳢。\n君子有酒，多且旨。\n鱼丽于罶，鰋鲤。\n君子有酒，旨且有。\n物其多矣，惟其嘉矣！\n物其旨矣，惟其偕矣！\n物其有矣，惟其时矣！",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "贵族宴飨之歌；借食物丰足、相聚愉快，不赞奢侈排场。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "物其多矣，惟其嘉矣！"
+        ]
+      }
+    },
+    {
+      "id": "c05-work-thanks-2",
+      "version": 1,
+      "occasions": [
+        "work"
+      ],
+      "purpose": "thanks",
+      "scene": "thanks",
+      "target": "host",
+      "source": "r04-shi-683",
+      "title": "同事聚餐 · 谢谢款待",
+      "short": "平时大家各忙各的，今天有人费心把这一桌凑齐。谢谢款待，愿您忙有所成，也常有安心做客的时候。\n《诗经·鱼丽》里有一句：“物其多矣，惟其嘉矣！”",
+      "full": "平时大家各忙各的，今天有人费心把这一桌凑齐。谢谢款待，愿您忙有所成，也常有安心做客的时候。\n《诗经·鱼丽》里有一句：“物其多矣，惟其嘉矣！”\n这份用心我记着，也盼以后有机会好好回应。",
+      "english": "To the care that brought our colleagues together for this meal. Wishing you something to smile about every day.",
+      "translation": "平时大家各忙各的，今天有人费心把这一桌凑齐。谢谢款待，愿您忙有所成，也常有安心做客的时候。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-work-thanks-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-683",
+        "title": "《诗经·鱼丽》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 683—686",
+        "original": "物其多矣，惟其嘉矣！",
+        "fullOriginal": "鱼丽于罶，鲿鲨。\n君子有酒，旨且多。\n鱼丽于罶，鲂鳢。\n君子有酒，多且旨。\n鱼丽于罶，鰋鲤。\n君子有酒，旨且有。\n物其多矣，惟其嘉矣！\n物其旨矣，惟其偕矣！\n物其有矣，惟其时矣！",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "贵族宴飨之歌；借食物丰足、相聚愉快，不赞奢侈排场。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "物其多矣，惟其嘉矣！"
+        ]
+      }
+    },
+    {
+      "id": "c05-work-farewell-1",
+      "version": 1,
+      "occasions": [
+        "work"
+      ],
+      "purpose": "farewell",
+      "scene": "farewell",
+      "target": "table",
+      "source": "r04-shi-765",
+      "title": "同事聚餐 · 道声珍重",
+      "short": "《诗经·白驹》里有一句：“毋金玉尔音，而有遐心。”今天借这句话送您一份珍重。往后换了环境，愿事情做得顺，也有合得来的伙伴；有空常说说近况。",
+      "full": "《诗经·白驹》里有一句：“毋金玉尔音，而有遐心。”今天借这句话送您一份珍重。往后换了环境，愿事情做得顺，也有合得来的伙伴；有空常说说近况。\n这一程，愿你走得从容，也有人惦记。",
+      "english": "To your next chapter, good colleagues, and keeping in touch.",
+      "translation": "今天借这句话送您一份珍重。往后换了环境，愿事情做得顺，也有合得来的伙伴；有空常说说近况。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-work-farewell-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-765",
+        "title": "《诗经·白驹》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 765—769",
+        "original": "毋金玉尔音，而有遐心。",
+        "fullOriginal": "皎皎白驹，食我场苗。\n絷之维之，以永今朝。\n所谓伊人，于焉逍遥。\n皎皎白驹，食我场藿。\n絷之维之，以永今夕。\n所谓伊人，于焉嘉客？\n皎皎白驹，贲然来思。\n尔公尔侯，逸豫无期。\n慎尔优游，勉尔遁思。\n皎皎白驹，在彼空谷。\n生刍一束，其人如玉。\n毋金玉尔音，而有遐心。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "留客惜别，盼勿吝音信；不解释为索要金玉礼物，不强留客人。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "毋金玉尔音，而有遐心。"
+        ]
+      }
+    },
+    {
+      "id": "c05-work-farewell-2",
+      "version": 1,
+      "occasions": [
+        "work"
+      ],
+      "purpose": "farewell",
+      "scene": "farewell",
+      "target": "table",
+      "source": "r04-shi-765",
+      "title": "同事聚餐 · 道声珍重",
+      "short": "工作会有新的篇章，这份来往还可以接着写。祝您前路顺遂，到了新地方照顾好自己，好消息记得分享。\n《诗经·白驹》里有一句：“毋金玉尔音，而有遐心。”",
+      "full": "工作会有新的篇章，这份来往还可以接着写。祝您前路顺遂，到了新地方照顾好自己，好消息记得分享。\n《诗经·白驹》里有一句：“毋金玉尔音，而有遐心。”\n这一程，愿你走得从容，也有人惦记。",
+      "english": "To your next chapter, good colleagues, and keeping in touch. Wishing you something to smile about every day.",
+      "translation": "工作会有新的篇章，这份来往还可以接着写。祝您前路顺遂，到了新地方照顾好自己，好消息记得分享。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-work-farewell-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-765",
+        "title": "《诗经·白驹》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 765—769",
+        "original": "毋金玉尔音，而有遐心。",
+        "fullOriginal": "皎皎白驹，食我场苗。\n絷之维之，以永今朝。\n所谓伊人，于焉逍遥。\n皎皎白驹，食我场藿。\n絷之维之，以永今夕。\n所谓伊人，于焉嘉客？\n皎皎白驹，贲然来思。\n尔公尔侯，逸豫无期。\n慎尔优游，勉尔遁思。\n皎皎白驹，在彼空谷。\n生刍一束，其人如玉。\n毋金玉尔音，而有遐心。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "留客惜别，盼勿吝音信；不解释为索要金玉礼物，不强留客人。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "毋金玉尔音，而有遐心。"
+        ]
+      }
+    },
+    {
+      "id": "c05-family-reply-1",
+      "version": 1,
+      "occasions": [
+        "family"
+      ],
+      "purpose": "reply",
+      "scene": "reply",
+      "target": "table",
+      "source": "r04-shi-44",
+      "title": "家人同席 · 回敬心意",
+      "short": "《诗经·樛木》里有一句：“乐只君子，福履绥之。”您的祝福我收下了，也把这份好愿回敬您。愿家里人平安，日常有笑声，咱们都少一点操心，多一点舒心。",
+      "full": "《诗经·樛木》里有一句：“乐只君子，福履绥之。”您的祝福我收下了，也把这份好愿回敬您。愿家里人平安，日常有笑声，咱们都少一点操心，多一点舒心。\n谢谢这份心意，也愿好意常有回应。",
+      "english": "To your loving wishes and peaceful, happy days for our family.",
+      "translation": "您的祝福我收下了，也把这份好愿回敬您。愿家里人平安，日常有笑声，咱们都少一点操心，多一点舒心。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-family-reply-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-44",
+        "title": "《诗经·樛木》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 44—46",
+        "original": "乐只君子，福履绥之。",
+        "fullOriginal": "南有樛木，葛藟累之。\n乐只君子，福履绥之。\n南有樛木，葛藟荒之。\n乐只君子，福履将之。\n南有樛木，葛藟萦之。\n乐只君子，福履成之。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "祝福安乐福禄的诗；旧说及今解不同，借祝福，不套用依附关系。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "乐只君子，福履绥之。"
+        ]
+      }
+    },
+    {
+      "id": "c05-family-reply-2",
+      "version": 1,
+      "occasions": [
+        "family"
+      ],
+      "purpose": "reply",
+      "scene": "reply",
+      "target": "table",
+      "source": "r04-shi-44",
+      "title": "家人同席 · 回敬心意",
+      "short": "一家人不用把好话说得多漂亮，心意听得出来。谢谢这份牵挂，也祝您吃得香、睡得稳，天天有点高兴事。\n《诗经·樛木》里有一句：“乐只君子，福履绥之。”",
+      "full": "一家人不用把好话说得多漂亮，心意听得出来。谢谢这份牵挂，也祝您吃得香、睡得稳，天天有点高兴事。\n《诗经·樛木》里有一句：“乐只君子，福履绥之。”\n谢谢这份心意，也愿好意常有回应。",
+      "english": "To your loving wishes and peaceful, happy days for our family. Wishing you something to smile about every day.",
+      "translation": "一家人不用把好话说得多漂亮，心意听得出来。谢谢这份牵挂，也祝您吃得香、睡得稳，天天有点高兴事。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-family-reply-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-44",
+        "title": "《诗经·樛木》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 44—46",
+        "original": "乐只君子，福履绥之。",
+        "fullOriginal": "南有樛木，葛藟累之。\n乐只君子，福履绥之。\n南有樛木，葛藟荒之。\n乐只君子，福履将之。\n南有樛木，葛藟萦之。\n乐只君子，福履成之。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "祝福安乐福禄的诗；旧说及今解不同，借祝福，不套用依附关系。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "乐只君子，福履绥之。"
+        ]
+      }
+    },
+    {
+      "id": "c05-family-closing-1",
+      "version": 1,
+      "occasions": [
+        "family"
+      ],
+      "purpose": "closing",
+      "scene": "closing",
+      "target": "table",
+      "source": "r04-shi-642",
+      "title": "家人同席 · 好好收尾",
+      "short": "《诗经·常棣》里有一句：“兄弟既具，和乐且孺。”今天这桌饭先吃到这里，牵挂可不散。最后敬家里人，愿各自回去都平安，往后常有消息，也常能坐到一起。",
+      "full": "《诗经·常棣》里有一句：“兄弟既具，和乐且孺。”今天这桌饭先吃到这里，牵挂可不散。最后敬家里人，愿各自回去都平安，往后常有消息，也常能坐到一起。\n今天尽兴，回去平安，往后常有好消息。",
+      "english": "To our family, safe journeys home, and many more meals together.",
+      "translation": "今天这桌饭先吃到这里，牵挂可不散。最后敬家里人，愿各自回去都平安，往后常有消息，也常能坐到一起。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-family-closing-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-642",
+        "title": "《诗经·常棣》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 642—648",
+        "original": "兄弟既具，和乐且孺。",
+        "fullOriginal": "常棣之华，鄂不韡韡。\n凡今之人，莫如兄弟。\n死丧之威，兄弟孔怀。\n原隰裒矣，兄弟求矣。\n脊令在原，兄弟急难。\n每有良朋，况也永叹。\n兄弟阋于墙，外御其务。\n每有良朋，烝也无戎。\n丧乱既平，既安且宁。\n虽有兄弟，不如友生。\n傧尔笾豆，饮酒之饫。\n兄弟既具，和乐且孺。\n妻子好合，如鼓瑟琴。\n兄弟既翕，和乐且湛。\n宜尔室家，乐尔妻帑。\n是究是图，亶其然乎？",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "兄弟亲族宴饮的诗；珍惜团聚，不照搬原诗对朋友与兄弟的高下判断。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "兄弟既具，和乐且孺。"
+        ]
+      }
+    },
+    {
+      "id": "c05-family-closing-2",
+      "version": 1,
+      "occasions": [
+        "family"
+      ],
+      "purpose": "closing",
+      "scene": "closing",
+      "target": "table",
+      "source": "r04-shi-642",
+      "title": "家人同席 · 好好收尾",
+      "short": "团圆的热闹先收进心里，回去了也别把家常放远。祝大家一路平安，忙归忙，记得照顾好自己。\n《诗经·常棣》里有一句：“兄弟既具，和乐且孺。”",
+      "full": "团圆的热闹先收进心里，回去了也别把家常放远。祝大家一路平安，忙归忙，记得照顾好自己。\n《诗经·常棣》里有一句：“兄弟既具，和乐且孺。”\n今天尽兴，回去平安，往后常有好消息。",
+      "english": "To our family, safe journeys home, and many more meals together. Wishing you something to smile about every day.",
+      "translation": "团圆的热闹先收进心里，回去了也别把家常放远。祝大家一路平安，忙归忙，记得照顾好自己。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-family-closing-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-642",
+        "title": "《诗经·常棣》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 642—648",
+        "original": "兄弟既具，和乐且孺。",
+        "fullOriginal": "常棣之华，鄂不韡韡。\n凡今之人，莫如兄弟。\n死丧之威，兄弟孔怀。\n原隰裒矣，兄弟求矣。\n脊令在原，兄弟急难。\n每有良朋，况也永叹。\n兄弟阋于墙，外御其务。\n每有良朋，烝也无戎。\n丧乱既平，既安且宁。\n虽有兄弟，不如友生。\n傧尔笾豆，饮酒之饫。\n兄弟既具，和乐且孺。\n妻子好合，如鼓瑟琴。\n兄弟既翕，和乐且湛。\n宜尔室家，乐尔妻帑。\n是究是图，亶其然乎？",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "兄弟亲族宴饮的诗；珍惜团聚，不照搬原诗对朋友与兄弟的高下判断。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "兄弟既具，和乐且孺。"
+        ]
+      }
+    },
+    {
+      "id": "c05-family-welcome-1",
+      "version": 1,
+      "occasions": [
+        "family"
+      ],
+      "purpose": "welcome",
+      "scene": "host",
+      "target": "table",
+      "source": "r04-ci-17",
+      "title": "家人同席 · 先说欢迎",
+      "short": "辛弃疾《清平乐·村居》里有一句：“醉里吴音相媚好，白发谁家翁媪。”一家人坐齐了，这顿饭就有滋味了。今天欢迎大家来，喜欢的菜多尝一点，想说的家常慢慢说。",
+      "full": "辛弃疾《清平乐·村居》里有一句：“醉里吴音相媚好，白发谁家翁媪。”一家人坐齐了，这顿饭就有滋味了。今天欢迎大家来，喜欢的菜多尝一点，想说的家常慢慢说。\n愿这顿饭吃得舒服，聊得自在。",
+      "english": "Welcome, family. May this meal bring warmth and easy conversation.",
+      "translation": "一家人坐齐了，这顿饭就有滋味了。今天欢迎大家来，喜欢的菜多尝一点，想说的家常慢慢说。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-family-welcome-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "r04-ci-17",
+        "title": "辛弃疾《清平乐·村居》",
+        "book": "俞平伯《唐宋词选释》",
+        "pages": "PDF 164—165",
+        "original": "醉里吴音相媚好，白发谁家翁媪。",
+        "fullOriginal": "茅檐低小，溪上青青草。醉里吴音相媚好，白发谁家翁媪。\n大儿锄豆溪东，中儿正织鸡笼。最喜小儿无赖，溪头看剥莲蓬。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "描绘乡村家庭，翁媪指老人，无赖作顽皮解；不默认用户子女人数。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "词",
+        "excerpts": [
+          "醉里吴音相媚好，白发谁家翁媪。"
+        ]
+      }
+    },
+    {
+      "id": "c05-family-welcome-2",
+      "version": 1,
+      "occasions": [
+        "family"
+      ],
+      "purpose": "welcome",
+      "scene": "host",
+      "target": "table",
+      "source": "r04-ci-17",
+      "title": "家人同席 · 先说欢迎",
+      "short": "今天我来张罗，大家就安心坐着吃。菜够不够热、饭合不合口尽管说，一家人自在，比什么场面都好。\n辛弃疾《清平乐·村居》里有一句：“醉里吴音相媚好，白发谁家翁媪。”",
+      "full": "今天我来张罗，大家就安心坐着吃。菜够不够热、饭合不合口尽管说，一家人自在，比什么场面都好。\n辛弃疾《清平乐·村居》里有一句：“醉里吴音相媚好，白发谁家翁媪。”\n愿这顿饭吃得舒服，聊得自在。",
+      "english": "Welcome, family. May this meal bring warmth and easy conversation. Wishing you something to smile about every day.",
+      "translation": "今天我来张罗，大家就安心坐着吃。菜够不够热、饭合不合口尽管说，一家人自在，比什么场面都好。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-family-welcome-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "r04-ci-17",
+        "title": "辛弃疾《清平乐·村居》",
+        "book": "俞平伯《唐宋词选释》",
+        "pages": "PDF 164—165",
+        "original": "醉里吴音相媚好，白发谁家翁媪。",
+        "fullOriginal": "茅檐低小，溪上青青草。醉里吴音相媚好，白发谁家翁媪。\n大儿锄豆溪东，中儿正织鸡笼。最喜小儿无赖，溪头看剥莲蓬。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "描绘乡村家庭，翁媪指老人，无赖作顽皮解；不默认用户子女人数。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "词",
+        "excerpts": [
+          "醉里吴音相媚好，白发谁家翁媪。"
+        ]
+      }
+    },
+    {
+      "id": "c05-family-thanks-1",
+      "version": 1,
+      "occasions": [
+        "family"
+      ],
+      "purpose": "thanks",
+      "scene": "thanks",
+      "target": "host",
+      "source": "r04-shi-1074",
+      "title": "家人同席 · 谢谢款待",
+      "short": "《诗经·瓠叶》里有一句：“幡幡瓠叶，采之亨之。”家常饭也要择菜、做饭、照应每个人。今天先谢谢张罗的家人，您也快坐下来，这份辛苦我们记在心里。",
+      "full": "《诗经·瓠叶》里有一句：“幡幡瓠叶，采之亨之。”家常饭也要择菜、做饭、照应每个人。今天先谢谢张罗的家人，您也快坐下来，这份辛苦我们记在心里。\n这份用心我记着，也盼以后有机会好好回应。",
+      "english": "To the family members who prepared this meal with so much care.",
+      "translation": "家常饭也要择菜、做饭、照应每个人。今天先谢谢张罗的家人，您也快坐下来，这份辛苦我们记在心里。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-family-thanks-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-1074",
+        "title": "《诗经·瓠叶》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 1074—1077",
+        "original": "幡幡瓠叶，采之亨之。",
+        "fullOriginal": "幡幡瓠叶，采之亨之。\n君子有酒，酌言尝之。\n有兔斯首，炮之燔之。\n君子有酒，酌言献之。\n有兔斯首，燔之炙之。\n君子有酒，酌言酢之。\n有兔斯首，燔之炮之。\n君子有酒，酌言酬之。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "宴饮诗，有俭薄不废礼与燕饮等解；亨通烹，借家常待客的诚意。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "幡幡瓠叶，采之亨之。"
+        ]
+      }
+    },
+    {
+      "id": "c05-family-thanks-2",
+      "version": 1,
+      "occasions": [
+        "family"
+      ],
+      "purpose": "thanks",
+      "scene": "thanks",
+      "target": "host",
+      "source": "r04-shi-1074",
+      "title": "家人同席 · 谢谢款待",
+      "short": "吃得香的时候，也别把做饭的人忘了。这杯谢谢今天忙前忙后的人，往后咱们轮着张罗，让您也轻松做回客。\n《诗经·瓠叶》里有一句：“幡幡瓠叶，采之亨之。”",
+      "full": "吃得香的时候，也别把做饭的人忘了。这杯谢谢今天忙前忙后的人，往后咱们轮着张罗，让您也轻松做回客。\n《诗经·瓠叶》里有一句：“幡幡瓠叶，采之亨之。”\n这份用心我记着，也盼以后有机会好好回应。",
+      "english": "To the family members who prepared this meal with so much care. Wishing you something to smile about every day.",
+      "translation": "吃得香的时候，也别把做饭的人忘了。这杯谢谢今天忙前忙后的人，往后咱们轮着张罗，让您也轻松做回客。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-family-thanks-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-1074",
+        "title": "《诗经·瓠叶》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 1074—1077",
+        "original": "幡幡瓠叶，采之亨之。",
+        "fullOriginal": "幡幡瓠叶，采之亨之。\n君子有酒，酌言尝之。\n有兔斯首，炮之燔之。\n君子有酒，酌言献之。\n有兔斯首，燔之炙之。\n君子有酒，酌言酢之。\n有兔斯首，燔之炮之。\n君子有酒，酌言酬之。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "宴饮诗，有俭薄不废礼与燕饮等解；亨通烹，借家常待客的诚意。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "幡幡瓠叶，采之亨之。"
+        ]
+      }
+    },
+    {
+      "id": "c05-family-farewell-1",
+      "version": 1,
+      "occasions": [
+        "family"
+      ],
+      "purpose": "farewell",
+      "scene": "farewell",
+      "target": "table",
+      "source": "r04-ci-06",
+      "title": "家人同席 · 道声珍重",
+      "short": "苏轼《醉落魄·离京口作》里有一句：“轻云微月”今天这杯送家里人。往后到了新的地方，先把饭吃好，把自己照顾好；惦记家了，就打个电话。",
+      "full": "苏轼《醉落魄·离京口作》里有一句：“轻云微月”今天这杯送家里人。往后到了新的地方，先把饭吃好，把自己照顾好；惦记家了，就打个电话。\n这一程，愿你走得从容，也有人惦记。",
+      "english": "To a safe journey, a good life ahead, and a home always waiting for you.",
+      "translation": "今天这杯送家里人。往后到了新的地方，先把饭吃好，把自己照顾好；惦记家了，就打个电话。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-family-farewell-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "r04-ci-06",
+        "title": "苏轼《醉落魄·离京口作》",
+        "book": "俞平伯《唐宋词选释》",
+        "pages": "PDF 99",
+        "original": "轻云微月",
+        "fullOriginal": "轻云微月，二更酒醒船初发。孤城回望苍烟合。记得歌时，不记归时节。\n巾偏扇坠藤床滑，觉来幽梦无人说。此生飘荡何时歇。家在西南，常作东南别。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "行旅夜归与思家，不把漂泊愁绪改说成原词庆功。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "词",
+        "excerpts": [
+          "轻云微月"
+        ]
+      }
+    },
+    {
+      "id": "c05-family-farewell-2",
+      "version": 1,
+      "occasions": [
+        "family"
+      ],
+      "purpose": "farewell",
+      "scene": "farewell",
+      "target": "table",
+      "source": "r04-ci-06",
+      "title": "家人同席 · 道声珍重",
+      "short": "路上带好行李，也带上家里人的牵挂。祝你一路顺当，到了说一声，有高兴事、烦心事都能跟家里聊。\n苏轼《醉落魄·离京口作》里有一句：“轻云微月”",
+      "full": "路上带好行李，也带上家里人的牵挂。祝你一路顺当，到了说一声，有高兴事、烦心事都能跟家里聊。\n苏轼《醉落魄·离京口作》里有一句：“轻云微月”\n这一程，愿你走得从容，也有人惦记。",
+      "english": "To a safe journey, a good life ahead, and a home always waiting for you. Wishing you something to smile about every day.",
+      "translation": "路上带好行李，也带上家里人的牵挂。祝你一路顺当，到了说一声，有高兴事、烦心事都能跟家里聊。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-family-farewell-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "r04-ci-06",
+        "title": "苏轼《醉落魄·离京口作》",
+        "book": "俞平伯《唐宋词选释》",
+        "pages": "PDF 99",
+        "original": "轻云微月",
+        "fullOriginal": "轻云微月，二更酒醒船初发。孤城回望苍烟合。记得歌时，不记归时节。\n巾偏扇坠藤床滑，觉来幽梦无人说。此生飘荡何时歇。家在西南，常作东南别。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "行旅夜归与思家，不把漂泊愁绪改说成原词庆功。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "词",
+        "excerpts": [
+          "轻云微月"
+        ]
+      }
+    },
+    {
+      "id": "c05-friends-reply-1",
+      "version": 1,
+      "occasions": [
+        "friends"
+      ],
+      "purpose": "reply",
+      "scene": "reply",
+      "target": "table",
+      "source": "r04-ci-22",
+      "title": "朋友相聚 · 回敬心意",
+      "short": "辛弃疾《贺新郎·甚矣吾衰矣》里有一句：“知我者，二三子。”谢谢你这杯，也谢谢你愿意把好话说给我听。我也敬你，愿忙的时候有着落，闲的时候有人约。",
+      "full": "辛弃疾《贺新郎·甚矣吾衰矣》里有一句：“知我者，二三子。”谢谢你这杯，也谢谢你愿意把好话说给我听。我也敬你，愿忙的时候有着落，闲的时候有人约。\n谢谢这份心意，也愿好意常有回应。",
+      "english": "To your kind words, good friends, and more time together.",
+      "translation": "谢谢你这杯，也谢谢你愿意把好话说给我听。我也敬你，愿忙的时候有着落，闲的时候有人约。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-friends-reply-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "r04-ci-22",
+        "title": "辛弃疾《贺新郎·甚矣吾衰矣》",
+        "book": "俞平伯《唐宋词选释》",
+        "pages": "PDF 175—176",
+        "original": "知我者，二三子。",
+        "fullOriginal": "邑中园亭，仆皆为赋此词。一日独坐停云，水声山色，竞来相娱，意溪山欲援例者，遂作数语，庶几仿佛渊明思亲友之意云。\n甚矣吾衰矣。怅平生交游零落，只今余几。白发空垂三千丈，一笑人间万事。问何物能令公喜？我见青山多妩媚，料青山见我应如是。情与貌，略相似。\n一尊搔首东窗里，想渊明停云诗就，此时风味。江左沉酣求名者，岂识浊醪妙理。回首叫云飞风起。不恨古人吾不见，恨古人不见吾狂耳。知我者，二三子。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "思亲友与自许相杂；二三子指朋友，不译成只有两三位，不预设交游零落。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "词",
+        "excerpts": [
+          "知我者，二三子。"
+        ]
+      }
+    },
+    {
+      "id": "c05-friends-reply-2",
+      "version": 1,
+      "occasions": [
+        "friends"
+      ],
+      "purpose": "reply",
+      "scene": "reply",
+      "target": "table",
+      "source": "r04-ci-22",
+      "title": "朋友相聚 · 回敬心意",
+      "short": "好话我先收好，祝福也不能只收不回。愿你想做的事慢慢有结果，想见的人总能约上一顿饭。\n辛弃疾《贺新郎·甚矣吾衰矣》里有一句：“知我者，二三子。”",
+      "full": "好话我先收好，祝福也不能只收不回。愿你想做的事慢慢有结果，想见的人总能约上一顿饭。\n辛弃疾《贺新郎·甚矣吾衰矣》里有一句：“知我者，二三子。”\n谢谢这份心意，也愿好意常有回应。",
+      "english": "To your kind words, good friends, and more time together. Wishing you something to smile about every day.",
+      "translation": "好话我先收好，祝福也不能只收不回。愿你想做的事慢慢有结果，想见的人总能约上一顿饭。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-friends-reply-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "r04-ci-22",
+        "title": "辛弃疾《贺新郎·甚矣吾衰矣》",
+        "book": "俞平伯《唐宋词选释》",
+        "pages": "PDF 175—176",
+        "original": "知我者，二三子。",
+        "fullOriginal": "邑中园亭，仆皆为赋此词。一日独坐停云，水声山色，竞来相娱，意溪山欲援例者，遂作数语，庶几仿佛渊明思亲友之意云。\n甚矣吾衰矣。怅平生交游零落，只今余几。白发空垂三千丈，一笑人间万事。问何物能令公喜？我见青山多妩媚，料青山见我应如是。情与貌，略相似。\n一尊搔首东窗里，想渊明停云诗就，此时风味。江左沉酣求名者，岂识浊醪妙理。回首叫云飞风起。不恨古人吾不见，恨古人不见吾狂耳。知我者，二三子。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "思亲友与自许相杂；二三子指朋友，不译成只有两三位，不预设交游零落。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "词",
+        "excerpts": [
+          "知我者，二三子。"
+        ]
+      }
+    },
+    {
+      "id": "c05-friends-closing-1",
+      "version": 1,
+      "occasions": [
+        "friends"
+      ],
+      "purpose": "closing",
+      "scene": "closing",
+      "target": "table",
+      "source": "r04-ci-15",
+      "title": "朋友相聚 · 好好收尾",
+      "short": "秦观《蝶恋花·晓日窥轩双燕语》里有一句：“持酒劝云云且住”最后这杯敬朋友。今天没聊完的，留给下回；散席以后别散了联系，回去慢一点，咱们改天再聚。",
+      "full": "秦观《蝶恋花·晓日窥轩双燕语》里有一句：“持酒劝云云且住”最后这杯敬朋友。今天没聊完的，留给下回；散席以后别散了联系，回去慢一点，咱们改天再聚。\n今天尽兴，回去平安，往后常有好消息。",
+      "english": "To a safe trip home and the next time our friends gather.",
+      "translation": "最后这杯敬朋友。今天没聊完的，留给下回；散席以后别散了联系，回去慢一点，咱们改天再聚。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-friends-closing-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "r04-ci-15",
+        "title": "秦观《蝶恋花·晓日窥轩双燕语》",
+        "book": "俞平伯《唐宋词选释》",
+        "pages": "PDF 116—117",
+        "original": "持酒劝云云且住",
+        "fullOriginal": "晓日窥轩双燕语，似与佳人，共惜春将暮。屈指艳阳都几许，可无时霎闲风雨。\n流水落花无问处，只有飞云，冉冉来还去。持酒劝云云且住，凭君碍断春归路。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "拟人留云以惜春，非实际天气；不把惜春写成必定成功的承诺。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "词",
+        "excerpts": [
+          "持酒劝云云且住"
+        ]
+      }
+    },
+    {
+      "id": "c05-friends-closing-2",
+      "version": 1,
+      "occasions": [
+        "friends"
+      ],
+      "purpose": "closing",
+      "scene": "closing",
+      "target": "table",
+      "source": "r04-ci-15",
+      "title": "朋友相聚 · 好好收尾",
+      "short": "这顿饭先画个逗号，别急着画句号。祝大家回去一路平安，有新鲜事就在群里说，下回咱们接着聊。\n秦观《蝶恋花·晓日窥轩双燕语》里有一句：“持酒劝云云且住”",
+      "full": "这顿饭先画个逗号，别急着画句号。祝大家回去一路平安，有新鲜事就在群里说，下回咱们接着聊。\n秦观《蝶恋花·晓日窥轩双燕语》里有一句：“持酒劝云云且住”\n今天尽兴，回去平安，往后常有好消息。",
+      "english": "To a safe trip home and the next time our friends gather. Wishing you something to smile about every day.",
+      "translation": "这顿饭先画个逗号，别急着画句号。祝大家回去一路平安，有新鲜事就在群里说，下回咱们接着聊。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-friends-closing-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "r04-ci-15",
+        "title": "秦观《蝶恋花·晓日窥轩双燕语》",
+        "book": "俞平伯《唐宋词选释》",
+        "pages": "PDF 116—117",
+        "original": "持酒劝云云且住",
+        "fullOriginal": "晓日窥轩双燕语，似与佳人，共惜春将暮。屈指艳阳都几许，可无时霎闲风雨。\n流水落花无问处，只有飞云，冉冉来还去。持酒劝云云且住，凭君碍断春归路。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "拟人留云以惜春，非实际天气；不把惜春写成必定成功的承诺。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "词",
+        "excerpts": [
+          "持酒劝云云且住"
+        ]
+      }
+    },
+    {
+      "id": "c05-friends-welcome-1",
+      "version": 1,
+      "occasions": [
+        "friends"
+      ],
+      "purpose": "welcome",
+      "scene": "host",
+      "target": "table",
+      "source": "r04-shi-687",
+      "title": "朋友相聚 · 先说欢迎",
+      "short": "《诗经·南有嘉鱼》里有一句：“君子有酒，嘉宾式燕以乐。”今天我做东，先欢迎各位。老朋友来了，就别忙着找客套话，菜慢慢吃，近况慢慢说，咱们自在就好。",
+      "full": "《诗经·南有嘉鱼》里有一句：“君子有酒，嘉宾式燕以乐。”今天我做东，先欢迎各位。老朋友来了，就别忙着找客套话，菜慢慢吃，近况慢慢说，咱们自在就好。\n愿这顿饭吃得舒服，聊得自在。",
+      "english": "Welcome, friends. Here is to good food and catching up properly.",
+      "translation": "今天我做东，先欢迎各位。老朋友来了，就别忙着找客套话，菜慢慢吃，近况慢慢说，咱们自在就好。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-friends-welcome-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-687",
+        "title": "《诗经·南有嘉鱼》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 687—690",
+        "original": "君子有酒，嘉宾式燕以乐。",
+        "fullOriginal": "南有嘉鱼，烝然罩罩。\n君子有酒，嘉宾式燕以乐。\n南有嘉鱼，烝然汕汕。\n君子有酒，嘉宾式燕以衎。\n南有樛木，甘瓠累之。\n君子有酒，嘉宾式燕绥之。\n翩翩者鵻，烝然来思。\n君子有酒，嘉宾式燕又思。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "宾主宴饮相乐；仅借相聚之乐，不要求客人饮酒。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "君子有酒，嘉宾式燕以乐。"
+        ]
+      }
+    },
+    {
+      "id": "c05-friends-welcome-2",
+      "version": 1,
+      "occasions": [
+        "friends"
+      ],
+      "purpose": "welcome",
+      "scene": "host",
+      "target": "table",
+      "source": "r04-shi-687",
+      "title": "朋友相聚 · 先说欢迎",
+      "short": "把朋友请来，是想听听大家最近过得怎么样。今天先敬各位，饭要吃热，天要聊开，有什么需要尽管说。\n《诗经·南有嘉鱼》里有一句：“君子有酒，嘉宾式燕以乐。”",
+      "full": "把朋友请来，是想听听大家最近过得怎么样。今天先敬各位，饭要吃热，天要聊开，有什么需要尽管说。\n《诗经·南有嘉鱼》里有一句：“君子有酒，嘉宾式燕以乐。”\n愿这顿饭吃得舒服，聊得自在。",
+      "english": "Welcome, friends. Here is to good food and catching up properly. Wishing you something to smile about every day.",
+      "translation": "把朋友请来，是想听听大家最近过得怎么样。今天先敬各位，饭要吃热，天要聊开，有什么需要尽管说。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-friends-welcome-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-687",
+        "title": "《诗经·南有嘉鱼》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 687—690",
+        "original": "君子有酒，嘉宾式燕以乐。",
+        "fullOriginal": "南有嘉鱼，烝然罩罩。\n君子有酒，嘉宾式燕以乐。\n南有嘉鱼，烝然汕汕。\n君子有酒，嘉宾式燕以衎。\n南有樛木，甘瓠累之。\n君子有酒，嘉宾式燕绥之。\n翩翩者鵻，烝然来思。\n君子有酒，嘉宾式燕又思。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "宾主宴饮相乐；仅借相聚之乐，不要求客人饮酒。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "君子有酒，嘉宾式燕以乐。"
+        ]
+      }
+    },
+    {
+      "id": "c05-friends-thanks-1",
+      "version": 1,
+      "occasions": [
+        "friends"
+      ],
+      "purpose": "thanks",
+      "scene": "thanks",
+      "target": "host",
+      "source": "r04-story-05",
+      "title": "朋友相聚 · 谢谢款待",
+      "short": "《世说新语》里记载：“岂有终日执之，而不知其味者乎？”这杯谢谢主人，也谢谢为这一桌忙前忙后的人。朋友相聚，难得的不只是一桌菜，还有愿意替大家费的心。",
+      "full": "《世说新语》里记载：“岂有终日执之，而不知其味者乎？”这杯谢谢主人，也谢谢为这一桌忙前忙后的人。朋友相聚，难得的不只是一桌菜，还有愿意替大家费的心。\n这份用心我记着，也盼以后有机会好好回应。",
+      "english": "To our host and everyone who helped make this gathering happen.",
+      "translation": "这杯谢谢主人，也谢谢为这一桌忙前忙后的人。朋友相聚，难得的不只是一桌菜，还有愿意替大家费的心。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-friends-thanks-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古文／语录",
+      "sourceDetails": {
+        "id": "r04-story-05",
+        "title": "《世说新语·德行第二十五则》顾荣分炙",
+        "book": "刘义庆著、刘孝标注、余嘉锡笺疏《世说新语笺疏》",
+        "pages": "PDF 32—33",
+        "original": "岂有终日执之，而不知其味者乎？",
+        "fullOriginal": "顾荣在洛阳，尝应人请，觉行炙人有欲炙之色，因辍己施焉。同坐嗤之。荣曰：“岂有终日执之，而不知其味者乎？”后遭乱渡江，每经危急，常有一人左右己，问其所以，乃受炙人也。",
+        "fullOriginalLabel": "故事所在条目原文 · 完整条目",
+        "meaning": "原条目与所引传记对获救时间情节不同；借顾及辛劳者的体贴，不推导行善必获回报。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。这是古籍中的叙事，不等于所有细节均获独立史实证实。",
+        "form": "古文／语录",
+        "excerpts": [
+          "岂有终日执之，而不知其味者乎？"
+        ]
+      }
+    },
+    {
+      "id": "c05-friends-thanks-2",
+      "version": 1,
+      "occasions": [
+        "friends"
+      ],
+      "purpose": "thanks",
+      "scene": "thanks",
+      "target": "host",
+      "source": "r04-story-05",
+      "title": "朋友相聚 · 谢谢款待",
+      "short": "菜当然要夸，张罗的人更要谢。今天让你费心了，下回也给我们一个机会，让你坐着等开饭。\n《世说新语》里记载：“岂有终日执之，而不知其味者乎？”",
+      "full": "菜当然要夸，张罗的人更要谢。今天让你费心了，下回也给我们一个机会，让你坐着等开饭。\n《世说新语》里记载：“岂有终日执之，而不知其味者乎？”\n这份用心我记着，也盼以后有机会好好回应。",
+      "english": "To our host and everyone who helped make this gathering happen. Wishing you something to smile about every day.",
+      "translation": "菜当然要夸，张罗的人更要谢。今天让你费心了，下回也给我们一个机会，让你坐着等开饭。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-friends-thanks-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古文／语录",
+      "sourceDetails": {
+        "id": "r04-story-05",
+        "title": "《世说新语·德行第二十五则》顾荣分炙",
+        "book": "刘义庆著、刘孝标注、余嘉锡笺疏《世说新语笺疏》",
+        "pages": "PDF 32—33",
+        "original": "岂有终日执之，而不知其味者乎？",
+        "fullOriginal": "顾荣在洛阳，尝应人请，觉行炙人有欲炙之色，因辍己施焉。同坐嗤之。荣曰：“岂有终日执之，而不知其味者乎？”后遭乱渡江，每经危急，常有一人左右己，问其所以，乃受炙人也。",
+        "fullOriginalLabel": "故事所在条目原文 · 完整条目",
+        "meaning": "原条目与所引传记对获救时间情节不同；借顾及辛劳者的体贴，不推导行善必获回报。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。这是古籍中的叙事，不等于所有细节均获独立史实证实。",
+        "form": "古文／语录",
+        "excerpts": [
+          "岂有终日执之，而不知其味者乎？"
+        ]
+      }
+    },
+    {
+      "id": "c05-friends-farewell-1",
+      "version": 1,
+      "occasions": [
+        "friends"
+      ],
+      "purpose": "farewell",
+      "scene": "farewell",
+      "target": "table",
+      "source": "r04-ci-01",
+      "title": "朋友相聚 · 道声珍重",
+      "short": "王观《卜算子·送鲍浩然之浙东》里有一句：“若到江南赶上春，千万和春住。”这杯送你，也先约好下一次见面。愿新地方有好风景、好伙伴，累的时候记得还有朋友愿意听你说话。",
+      "full": "王观《卜算子·送鲍浩然之浙东》里有一句：“若到江南赶上春，千万和春住。”这杯送你，也先约好下一次见面。愿新地方有好风景、好伙伴，累的时候记得还有朋友愿意听你说话。\n这一程，愿你走得从容，也有人惦记。",
+      "english": "To your journey, new discoveries, and friendships that stay close.",
+      "translation": "这杯送你，也先约好下一次见面。愿新地方有好风景、好伙伴，累的时候记得还有朋友愿意听你说话。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-friends-farewell-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "r04-ci-01",
+        "title": "王观《卜算子·送鲍浩然之浙东》",
+        "book": "俞平伯《唐宋词选释》",
+        "pages": "PDF 83",
+        "original": "若到江南赶上春，千万和春住。",
+        "fullOriginal": "水是眼波横，山是眉峰聚。欲问行人去那边，眉眼盈盈处。\n才始送春归，又送君归去。若到江南赶上春，千万和春住。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "送别词把江南山水与惜春相连；祝前路有好景，不预设目的地就是江南。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "词",
+        "excerpts": [
+          "若到江南赶上春，千万和春住。"
+        ]
+      }
+    },
+    {
+      "id": "c05-friends-farewell-2",
+      "version": 1,
+      "occasions": [
+        "friends"
+      ],
+      "purpose": "farewell",
+      "scene": "farewell",
+      "target": "table",
+      "source": "r04-ci-01",
+      "title": "朋友相聚 · 道声珍重",
+      "short": "行李你来装，祝福我们多送一点。祝一路顺当，新日子慢慢过顺了，带点新鲜事回来，咱们接着聊。\n王观《卜算子·送鲍浩然之浙东》里有一句：“若到江南赶上春，千万和春住。”",
+      "full": "行李你来装，祝福我们多送一点。祝一路顺当，新日子慢慢过顺了，带点新鲜事回来，咱们接着聊。\n王观《卜算子·送鲍浩然之浙东》里有一句：“若到江南赶上春，千万和春住。”\n这一程，愿你走得从容，也有人惦记。",
+      "english": "To your journey, new discoveries, and friendships that stay close. Wishing you something to smile about every day.",
+      "translation": "行李你来装，祝福我们多送一点。祝一路顺当，新日子慢慢过顺了，带点新鲜事回来，咱们接着聊。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-friends-farewell-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "r04-ci-01",
+        "title": "王观《卜算子·送鲍浩然之浙东》",
+        "book": "俞平伯《唐宋词选释》",
+        "pages": "PDF 83",
+        "original": "若到江南赶上春，千万和春住。",
+        "fullOriginal": "水是眼波横，山是眉峰聚。欲问行人去那边，眉眼盈盈处。\n才始送春归，又送君归去。若到江南赶上春，千万和春住。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "送别词把江南山水与惜春相连；祝前路有好景，不预设目的地就是江南。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "词",
+        "excerpts": [
+          "若到江南赶上春，千万和春住。"
+        ]
+      }
+    },
+    {
+      "id": "c05-meeting-reply-1",
+      "version": 1,
+      "occasions": [
+        "meeting"
+      ],
+      "purpose": "reply",
+      "scene": "reply",
+      "target": "table",
+      "source": "r04-shi-991",
+      "title": "初次同桌 · 回敬心意",
+      "short": "《诗经·鸳鸯》里有一句：“君子万年，福禄绥之。”谢谢你的祝福，初次见面就收到这份好意，很高兴。我也敬你，愿往后的日子顺心，今天聊得自在。",
+      "full": "《诗经·鸳鸯》里有一句：“君子万年，福禄绥之。”谢谢你的祝福，初次见面就收到这份好意，很高兴。我也敬你，愿往后的日子顺心，今天聊得自在。\n谢谢这份心意，也愿好意常有回应。",
+      "english": "Thank you for your kind wishes. Here is to a good first meeting.",
+      "translation": "谢谢你的祝福，初次见面就收到这份好意，很高兴。我也敬你，愿往后的日子顺心，今天聊得自在。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-meeting-reply-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-991",
+        "title": "《诗经·鸳鸯》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 991—994",
+        "original": "君子万年，福禄绥之。",
+        "fullOriginal": "鸳鸯于飞，毕之罗之。\n君子万年，福禄宜之。\n鸳鸯在梁，戢其左翼。\n君子万年，宜其遐福。\n乘马在厩，摧之秣之。\n君子万年，福禄艾之。\n乘马在厩，秣之摧之。\n君子万年，福禄绥之。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "祝福之歌，存在婚礼及君臣酬答等解释；不默认所有对象为夫妻。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "君子万年，福禄绥之。"
+        ]
+      }
+    },
+    {
+      "id": "c05-meeting-reply-2",
+      "version": 1,
+      "occasions": [
+        "meeting"
+      ],
+      "purpose": "reply",
+      "scene": "reply",
+      "target": "table",
+      "source": "r04-shi-991",
+      "title": "初次同桌 · 回敬心意",
+      "short": "好话我认真收下，也把祝福送回去。今天从认识开始，不急着把交情说得多深，愿以后的来往自然、真诚。\n《诗经·鸳鸯》里有一句：“君子万年，福禄绥之。”",
+      "full": "好话我认真收下，也把祝福送回去。今天从认识开始，不急着把交情说得多深，愿以后的来往自然、真诚。\n《诗经·鸳鸯》里有一句：“君子万年，福禄绥之。”\n谢谢这份心意，也愿好意常有回应。",
+      "english": "Thank you for your kind wishes. Here is to a good first meeting. Wishing you something to smile about every day.",
+      "translation": "好话我认真收下，也把祝福送回去。今天从认识开始，不急着把交情说得多深，愿以后的来往自然、真诚。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-meeting-reply-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-991",
+        "title": "《诗经·鸳鸯》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 991—994",
+        "original": "君子万年，福禄绥之。",
+        "fullOriginal": "鸳鸯于飞，毕之罗之。\n君子万年，福禄宜之。\n鸳鸯在梁，戢其左翼。\n君子万年，宜其遐福。\n乘马在厩，摧之秣之。\n君子万年，福禄艾之。\n乘马在厩，秣之摧之。\n君子万年，福禄绥之。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "祝福之歌，存在婚礼及君臣酬答等解释；不默认所有对象为夫妻。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "君子万年，福禄绥之。"
+        ]
+      }
+    },
+    {
+      "id": "c05-meeting-closing-1",
+      "version": 1,
+      "occasions": [
+        "meeting"
+      ],
+      "purpose": "closing",
+      "scene": "closing",
+      "target": "table",
+      "source": "r04-ci-01",
+      "title": "初次同桌 · 好好收尾",
+      "short": "王观《卜算子·送鲍浩然之浙东》里有一句：“若到江南赶上春，千万和春住。”今天很高兴认识大家，最后这杯祝各位归途平安。有缘再坐一桌，把今天没聊完的话慢慢接上。",
+      "full": "王观《卜算子·送鲍浩然之浙东》里有一句：“若到江南赶上春，千万和春住。”今天很高兴认识大家，最后这杯祝各位归途平安。有缘再坐一桌，把今天没聊完的话慢慢接上。\n今天尽兴，回去平安，往后常有好消息。",
+      "english": "To meeting you today, a safe journey home, and another conversation soon.",
+      "translation": "今天很高兴认识大家，最后这杯祝各位归途平安。有缘再坐一桌，把今天没聊完的话慢慢接上。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-meeting-closing-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "r04-ci-01",
+        "title": "王观《卜算子·送鲍浩然之浙东》",
+        "book": "俞平伯《唐宋词选释》",
+        "pages": "PDF 83",
+        "original": "若到江南赶上春，千万和春住。",
+        "fullOriginal": "水是眼波横，山是眉峰聚。欲问行人去那边，眉眼盈盈处。\n才始送春归，又送君归去。若到江南赶上春，千万和春住。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "送别词把江南山水与惜春相连；祝前路有好景，不预设目的地就是江南。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "词",
+        "excerpts": [
+          "若到江南赶上春，千万和春住。"
+        ]
+      }
+    },
+    {
+      "id": "c05-meeting-closing-2",
+      "version": 1,
+      "occasions": [
+        "meeting"
+      ],
+      "purpose": "closing",
+      "scene": "closing",
+      "target": "table",
+      "source": "r04-ci-01",
+      "title": "初次同桌 · 好好收尾",
+      "short": "初次见面，能自在地聊上几句就很好。今天先到这里，祝大家回去顺当，也期待下回多了解彼此一点。\n王观《卜算子·送鲍浩然之浙东》里有一句：“若到江南赶上春，千万和春住。”",
+      "full": "初次见面，能自在地聊上几句就很好。今天先到这里，祝大家回去顺当，也期待下回多了解彼此一点。\n王观《卜算子·送鲍浩然之浙东》里有一句：“若到江南赶上春，千万和春住。”\n今天尽兴，回去平安，往后常有好消息。",
+      "english": "To meeting you today, a safe journey home, and another conversation soon. Wishing you something to smile about every day.",
+      "translation": "初次见面，能自在地聊上几句就很好。今天先到这里，祝大家回去顺当，也期待下回多了解彼此一点。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-meeting-closing-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "r04-ci-01",
+        "title": "王观《卜算子·送鲍浩然之浙东》",
+        "book": "俞平伯《唐宋词选释》",
+        "pages": "PDF 83",
+        "original": "若到江南赶上春，千万和春住。",
+        "fullOriginal": "水是眼波横，山是眉峰聚。欲问行人去那边，眉眼盈盈处。\n才始送春归，又送君归去。若到江南赶上春，千万和春住。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "送别词把江南山水与惜春相连；祝前路有好景，不预设目的地就是江南。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "词",
+        "excerpts": [
+          "若到江南赶上春，千万和春住。"
+        ]
+      }
+    },
+    {
+      "id": "c05-meeting-welcome-1",
+      "version": 1,
+      "occasions": [
+        "meeting"
+      ],
+      "purpose": "welcome",
+      "scene": "host",
+      "target": "table",
+      "source": "r04-shi-702",
+      "title": "初次同桌 · 先说欢迎",
+      "short": "《诗经·湛露》里有一句：“岂弟君子，莫不令仪。”今天我来张罗，先欢迎各位。初次同桌，不用急着把履历介绍齐全，先吃口热菜，聊些愿意聊的事。",
+      "full": "《诗经·湛露》里有一句：“岂弟君子，莫不令仪。”今天我来张罗，先欢迎各位。初次同桌，不用急着把履历介绍齐全，先吃口热菜，聊些愿意聊的事。\n愿这顿饭吃得舒服，聊得自在。",
+      "english": "Welcome. May everyone feel comfortable meeting new people at this table.",
+      "translation": "今天我来张罗，先欢迎各位。初次同桌，不用急着把履历介绍齐全，先吃口热菜，聊些愿意聊的事。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-meeting-welcome-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-702",
+        "title": "《诗经·湛露》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 702—705",
+        "original": "岂弟君子，莫不令仪。",
+        "fullOriginal": "湛湛露斯，匪阳不晞。\n厌厌夜饮，不醉无归。\n湛湛露斯，在彼丰草。\n厌厌夜饮，在宗载考。\n湛湛露斯，在彼杞棘。\n显允君子，莫不令德。\n其桐其椅，其实离离。\n岂弟君子，莫不令仪。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "天子宴诸侯之诗，含不醉无归；此处只取和乐有仪，不沿用劝醉语。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "岂弟君子，莫不令仪。"
+        ]
+      }
+    },
+    {
+      "id": "c05-meeting-welcome-2",
+      "version": 1,
+      "occasions": [
+        "meeting"
+      ],
+      "purpose": "welcome",
+      "scene": "host",
+      "target": "table",
+      "source": "r04-shi-702",
+      "title": "初次同桌 · 先说欢迎",
+      "short": "欢迎大家来这一桌。认识新朋友，不用忙着找标准答案，聊得舒服、吃得自在，今天就已经很好。\n《诗经·湛露》里有一句：“岂弟君子，莫不令仪。”",
+      "full": "欢迎大家来这一桌。认识新朋友，不用忙着找标准答案，聊得舒服、吃得自在，今天就已经很好。\n《诗经·湛露》里有一句：“岂弟君子，莫不令仪。”\n愿这顿饭吃得舒服，聊得自在。",
+      "english": "Welcome. May everyone feel comfortable meeting new people at this table. Wishing you something to smile about every day.",
+      "translation": "欢迎大家来这一桌。认识新朋友，不用忙着找标准答案，聊得舒服、吃得自在，今天就已经很好。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-meeting-welcome-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-702",
+        "title": "《诗经·湛露》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 702—705",
+        "original": "岂弟君子，莫不令仪。",
+        "fullOriginal": "湛湛露斯，匪阳不晞。\n厌厌夜饮，不醉无归。\n湛湛露斯，在彼丰草。\n厌厌夜饮，在宗载考。\n湛湛露斯，在彼杞棘。\n显允君子，莫不令德。\n其桐其椅，其实离离。\n岂弟君子，莫不令仪。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "天子宴诸侯之诗，含不醉无归；此处只取和乐有仪，不沿用劝醉语。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "岂弟君子，莫不令仪。"
+        ]
+      }
+    },
+    {
+      "id": "c05-meeting-thanks-1",
+      "version": 1,
+      "occasions": [
+        "meeting"
+      ],
+      "purpose": "thanks",
+      "scene": "thanks",
+      "target": "host",
+      "source": "r04-story-13",
+      "title": "初次同桌 · 谢谢款待",
+      "short": "《世说新语》里记载：“随客早晚，不问贵贱。”今天谢谢主人的款待，也谢谢把大家介绍到一起的用心。能从陌生聊到自在，这一席就很值得。",
+      "full": "《世说新语》里记载：“随客早晚，不问贵贱。”今天谢谢主人的款待，也谢谢把大家介绍到一起的用心。能从陌生聊到自在，这一席就很值得。\n这份用心我记着，也盼以后有机会好好回应。",
+      "english": "To our host, a warm welcome, and the chance to meet one another.",
+      "translation": "今天谢谢主人的款待，也谢谢把大家介绍到一起的用心。能从陌生聊到自在，这一席就很值得。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-meeting-thanks-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古文／语录",
+      "sourceDetails": {
+        "id": "r04-story-13",
+        "title": "《世说新语·雅量第二十则》羊曼待客真率",
+        "book": "刘义庆著、刘孝标注、余嘉锡笺疏《世说新语笺疏》",
+        "pages": "PDF 312",
+        "original": "随客早晚，不问贵贱。",
+        "fullOriginal": "过江初，拜官，舆饰供馔。羊曼拜丹阳尹，客来蚤者，并得佳设。日晏渐罄，不复及精，随客早晚，不问贵贱。羊固拜临海，竟日皆美供。虽晚至，亦获盛馔。时论以固之丰华，不如曼之真率。",
+        "fullOriginalLabel": "故事所在条目原文 · 完整条目",
+        "meaning": "古人评论待客真率，不意味早晚客应区别对待；不照搬官场贵贱。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。这是古籍中的叙事，不等于所有细节均获独立史实证实。",
+        "form": "古文／语录",
+        "excerpts": [
+          "随客早晚，不问贵贱。"
+        ]
+      }
+    },
+    {
+      "id": "c05-meeting-thanks-2",
+      "version": 1,
+      "occasions": [
+        "meeting"
+      ],
+      "purpose": "thanks",
+      "scene": "thanks",
+      "target": "host",
+      "source": "r04-story-13",
+      "title": "初次同桌 · 谢谢款待",
+      "short": "刚认识就有机会好好坐下一起吃饭，要谢张罗的人。这杯谢谢款待，也祝以后的来往轻松、真诚。\n《世说新语》里记载：“随客早晚，不问贵贱。”",
+      "full": "刚认识就有机会好好坐下一起吃饭，要谢张罗的人。这杯谢谢款待，也祝以后的来往轻松、真诚。\n《世说新语》里记载：“随客早晚，不问贵贱。”\n这份用心我记着，也盼以后有机会好好回应。",
+      "english": "To our host, a warm welcome, and the chance to meet one another. Wishing you something to smile about every day.",
+      "translation": "刚认识就有机会好好坐下一起吃饭，要谢张罗的人。这杯谢谢款待，也祝以后的来往轻松、真诚。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-meeting-thanks-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古文／语录",
+      "sourceDetails": {
+        "id": "r04-story-13",
+        "title": "《世说新语·雅量第二十则》羊曼待客真率",
+        "book": "刘义庆著、刘孝标注、余嘉锡笺疏《世说新语笺疏》",
+        "pages": "PDF 312",
+        "original": "随客早晚，不问贵贱。",
+        "fullOriginal": "过江初，拜官，舆饰供馔。羊曼拜丹阳尹，客来蚤者，并得佳设。日晏渐罄，不复及精，随客早晚，不问贵贱。羊固拜临海，竟日皆美供。虽晚至，亦获盛馔。时论以固之丰华，不如曼之真率。",
+        "fullOriginalLabel": "故事所在条目原文 · 完整条目",
+        "meaning": "古人评论待客真率，不意味早晚客应区别对待；不照搬官场贵贱。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。这是古籍中的叙事，不等于所有细节均获独立史实证实。",
+        "form": "古文／语录",
+        "excerpts": [
+          "随客早晚，不问贵贱。"
+        ]
+      }
+    },
+    {
+      "id": "c05-meeting-farewell-1",
+      "version": 1,
+      "occasions": [
+        "meeting"
+      ],
+      "purpose": "farewell",
+      "scene": "farewell",
+      "target": "table",
+      "source": "r04-ci-07",
+      "title": "初次同桌 · 道声珍重",
+      "short": "苏轼《南乡子·送述古》里有一句：“归路晚风清”今天初识，就遇到你即将启程，也送上一份好祝愿。愿去路顺当，新地方有合得来的人和做得顺的事。",
+      "full": "苏轼《南乡子·送述古》里有一句：“归路晚风清”今天初识，就遇到你即将启程，也送上一份好祝愿。愿去路顺当，新地方有合得来的人和做得顺的事。\n这一程，愿你走得从容，也有人惦记。",
+      "english": "To your journey ahead and the chance to meet again.",
+      "translation": "今天初识，就遇到你即将启程，也送上一份好祝愿。愿去路顺当，新地方有合得来的人和做得顺的事。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-meeting-farewell-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "r04-ci-07",
+        "title": "苏轼《南乡子·送述古》",
+        "book": "俞平伯《唐宋词选释》",
+        "pages": "PDF 99—100",
+        "original": "归路晚风清",
+        "fullOriginal": "回首乱山横，不见居人只见城。谁似临平山上塔，亭亭，迎客西来送客行。\n归路晚风清，一枕初寒梦不成。今夜残灯斜照处，荧荧，秋雨晴时泪不晴。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "送陈襄离杭，后片含愁；借归路珍重，不预报今晚天气。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "词",
+        "excerpts": [
+          "归路晚风清"
+        ]
+      }
+    },
+    {
+      "id": "c05-meeting-farewell-2",
+      "version": 1,
+      "occasions": [
+        "meeting"
+      ],
+      "purpose": "farewell",
+      "scene": "farewell",
+      "target": "table",
+      "source": "r04-ci-07",
+      "title": "初次同桌 · 道声珍重",
+      "short": "认识的时间还不长，祝福可以先送到。愿你一路平安，新的日子顺心，有缘再听你讲一路的见闻。\n苏轼《南乡子·送述古》里有一句：“归路晚风清”",
+      "full": "认识的时间还不长，祝福可以先送到。愿你一路平安，新的日子顺心，有缘再听你讲一路的见闻。\n苏轼《南乡子·送述古》里有一句：“归路晚风清”\n这一程，愿你走得从容，也有人惦记。",
+      "english": "To your journey ahead and the chance to meet again. Wishing you something to smile about every day.",
+      "translation": "认识的时间还不长，祝福可以先送到。愿你一路平安，新的日子顺心，有缘再听你讲一路的见闻。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-meeting-farewell-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "r04-ci-07",
+        "title": "苏轼《南乡子·送述古》",
+        "book": "俞平伯《唐宋词选释》",
+        "pages": "PDF 99—100",
+        "original": "归路晚风清",
+        "fullOriginal": "回首乱山横，不见居人只见城。谁似临平山上塔，亭亭，迎客西来送客行。\n归路晚风清，一枕初寒梦不成。今夜残灯斜照处，荧荧，秋雨晴时泪不晴。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "送陈襄离杭，后片含愁；借归路珍重，不预报今晚天气。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "词",
+        "excerpts": [
+          "归路晚风清"
+        ]
+      }
+    },
+    {
+      "id": "c05-dating-reply-1",
+      "version": 1,
+      "occasions": [
+        "dating"
+      ],
+      "purpose": "reply",
+      "scene": "reply",
+      "target": "table",
+      "source": "r04-shi-369",
+      "title": "轻松相识 · 回敬心意",
+      "short": "《诗经·野有蔓草》里有一句：“邂逅相遇，适我愿兮。”谢谢你的祝福，也谢谢今天愿意坐下来聊聊。我也敬你，愿最近的日子顺心，今天这顿饭吃得轻松。",
+      "full": "《诗经·野有蔓草》里有一句：“邂逅相遇，适我愿兮。”谢谢你的祝福，也谢谢今天愿意坐下来聊聊。我也敬你，愿最近的日子顺心，今天这顿饭吃得轻松。\n谢谢这份心意，也愿好意常有回应。",
+      "english": "Thank you for your kind wishes. Here is to an easy, enjoyable conversation.",
+      "translation": "谢谢你的祝福，也谢谢今天愿意坐下来聊聊。我也敬你，愿最近的日子顺心，今天这顿饭吃得轻松。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-dating-reply-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-369",
+        "title": "《诗经·野有蔓草》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 369—371",
+        "original": "邂逅相遇，适我愿兮。",
+        "fullOriginal": "野有蔓草，零露漙兮。\n有美一人，清扬婉兮。\n邂逅相遇，适我愿兮。\n野有蔓草，零露瀼瀼。\n有美一人，婉如清扬。\n邂逅相遇，与子偕臧。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "男女相遇的情歌；初识只取相逢之喜，不替对方表白。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "邂逅相遇，适我愿兮。"
+        ]
+      }
+    },
+    {
+      "id": "c05-dating-reply-2",
+      "version": 1,
+      "occasions": [
+        "dating"
+      ],
+      "purpose": "reply",
+      "scene": "reply",
+      "target": "table",
+      "source": "r04-shi-369",
+      "title": "轻松相识 · 回敬心意",
+      "short": "这份好意我收下，也回送给你。初次见面，不用急着把以后说满，今天聊得开心，就是一份很好的开始。\n《诗经·野有蔓草》里有一句：“邂逅相遇，适我愿兮。”",
+      "full": "这份好意我收下，也回送给你。初次见面，不用急着把以后说满，今天聊得开心，就是一份很好的开始。\n《诗经·野有蔓草》里有一句：“邂逅相遇，适我愿兮。”\n谢谢这份心意，也愿好意常有回应。",
+      "english": "Thank you for your kind wishes. Here is to an easy, enjoyable conversation. Wishing you something to smile about every day.",
+      "translation": "这份好意我收下，也回送给你。初次见面，不用急着把以后说满，今天聊得开心，就是一份很好的开始。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-dating-reply-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-369",
+        "title": "《诗经·野有蔓草》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 369—371",
+        "original": "邂逅相遇，适我愿兮。",
+        "fullOriginal": "野有蔓草，零露漙兮。\n有美一人，清扬婉兮。\n邂逅相遇，适我愿兮。\n野有蔓草，零露瀼瀼。\n有美一人，婉如清扬。\n邂逅相遇，与子偕臧。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "男女相遇的情歌；初识只取相逢之喜，不替对方表白。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "邂逅相遇，适我愿兮。"
+        ]
+      }
+    },
+    {
+      "id": "c05-dating-closing-1",
+      "version": 1,
+      "occasions": [
+        "dating"
+      ],
+      "purpose": "closing",
+      "scene": "closing",
+      "target": "table",
+      "source": "r04-ci-28",
+      "title": "轻松相识 · 好好收尾",
+      "short": "牛希济《生查子·春山烟欲收》里有一句：“语已多，情未了。”今天很高兴能这样坐下来聊聊。先祝你回去一路平安，今天没说完的话，有机会再接着说。",
+      "full": "牛希济《生查子·春山烟欲收》里有一句：“语已多，情未了。”今天很高兴能这样坐下来聊聊。先祝你回去一路平安，今天没说完的话，有机会再接着说。\n今天尽兴，回去平安，往后常有好消息。",
+      "english": "Thank you for today. Have a safe trip home and a lovely week ahead.",
+      "translation": "今天很高兴能这样坐下来聊聊。先祝你回去一路平安，今天没说完的话，有机会再接着说。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-dating-closing-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "r04-ci-28",
+        "title": "牛希济《生查子·春山烟欲收》",
+        "book": "俞平伯《唐宋词选释》",
+        "pages": "PDF 66",
+        "original": "语已多，情未了。",
+        "fullOriginal": "春山烟欲收，天淡稀星小。残月脸边明，别泪临清晓。\n语已多，情未了，回首犹重道。记得绿罗裙，处处怜芳草。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "恋人清晓惜别；借话未尽的惜别，不把普通朋友拟作恋人。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "词",
+        "excerpts": [
+          "语已多，情未了。"
+        ]
+      }
+    },
+    {
+      "id": "c05-dating-closing-2",
+      "version": 1,
+      "occasions": [
+        "dating"
+      ],
+      "purpose": "closing",
+      "scene": "closing",
+      "target": "table",
+      "source": "r04-ci-28",
+      "title": "轻松相识 · 好好收尾",
+      "short": "这顿饭先到这里，谢谢今天的时间。回去慢一点，愿你接下来的日子顺心，咱们自然地保持联系就好。\n牛希济《生查子·春山烟欲收》里有一句：“语已多，情未了。”",
+      "full": "这顿饭先到这里，谢谢今天的时间。回去慢一点，愿你接下来的日子顺心，咱们自然地保持联系就好。\n牛希济《生查子·春山烟欲收》里有一句：“语已多，情未了。”\n今天尽兴，回去平安，往后常有好消息。",
+      "english": "Thank you for today. Have a safe trip home and a lovely week ahead. Wishing you something to smile about every day.",
+      "translation": "这顿饭先到这里，谢谢今天的时间。回去慢一点，愿你接下来的日子顺心，咱们自然地保持联系就好。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-dating-closing-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "r04-ci-28",
+        "title": "牛希济《生查子·春山烟欲收》",
+        "book": "俞平伯《唐宋词选释》",
+        "pages": "PDF 66",
+        "original": "语已多，情未了。",
+        "fullOriginal": "春山烟欲收，天淡稀星小。残月脸边明，别泪临清晓。\n语已多，情未了，回首犹重道。记得绿罗裙，处处怜芳草。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "恋人清晓惜别；借话未尽的惜别，不把普通朋友拟作恋人。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "词",
+        "excerpts": [
+          "语已多，情未了。"
+        ]
+      }
+    },
+    {
+      "id": "c05-dating-welcome-1",
+      "version": 1,
+      "occasions": [
+        "dating"
+      ],
+      "purpose": "welcome",
+      "scene": "host",
+      "target": "table",
+      "source": "r04-shi-357",
+      "title": "轻松相识 · 先说欢迎",
+      "short": "《诗经·风雨》里有一句：“既见君子，云胡不喜？”今天我来招待，先敬你一杯。很高兴你愿意来，喜欢吃什么尽管说，咱们边吃边聊，不用拘束。",
+      "full": "《诗经·风雨》里有一句：“既见君子，云胡不喜？”今天我来招待，先敬你一杯。很高兴你愿意来，喜欢吃什么尽管说，咱们边吃边聊，不用拘束。\n愿这顿饭吃得舒服，聊得自在。",
+      "english": "Welcome. I am glad you came, and I hope you feel at ease.",
+      "translation": "今天我来招待，先敬你一杯。很高兴你愿意来，喜欢吃什么尽管说，咱们边吃边聊，不用拘束。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-dating-welcome-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-357",
+        "title": "《诗经·风雨》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 357—359",
+        "original": "既见君子，云胡不喜？",
+        "fullOriginal": "风雨凄凄，鸡鸣喈喈。\n既见君子，云胡不夷？\n风雨潇潇，鸡鸣㬵㬵。\n既见君子，云胡不瘳？\n风雨如晦，鸡鸣不已。\n既见君子，云胡不喜？",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "原为久别相见的喜悦，今借重逢；不声称现场有风雨或彼此有夫妻关系。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "既见君子，云胡不喜？"
+        ]
+      }
+    },
+    {
+      "id": "c05-dating-welcome-2",
+      "version": 1,
+      "occasions": [
+        "dating"
+      ],
+      "purpose": "welcome",
+      "scene": "host",
+      "target": "table",
+      "source": "r04-shi-357",
+      "title": "轻松相识 · 先说欢迎",
+      "short": "见面不用忙着给自己安排表现分。今天先把饭吃香，把天聊舒服，很高兴能有这个机会慢慢认识你。\n《诗经·风雨》里有一句：“既见君子，云胡不喜？”",
+      "full": "见面不用忙着给自己安排表现分。今天先把饭吃香，把天聊舒服，很高兴能有这个机会慢慢认识你。\n《诗经·风雨》里有一句：“既见君子，云胡不喜？”\n愿这顿饭吃得舒服，聊得自在。",
+      "english": "Welcome. I am glad you came, and I hope you feel at ease. Wishing you something to smile about every day.",
+      "translation": "见面不用忙着给自己安排表现分。今天先把饭吃香，把天聊舒服，很高兴能有这个机会慢慢认识你。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-dating-welcome-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-357",
+        "title": "《诗经·风雨》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 357—359",
+        "original": "既见君子，云胡不喜？",
+        "fullOriginal": "风雨凄凄，鸡鸣喈喈。\n既见君子，云胡不夷？\n风雨潇潇，鸡鸣㬵㬵。\n既见君子，云胡不瘳？\n风雨如晦，鸡鸣不已。\n既见君子，云胡不喜？",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "原为久别相见的喜悦，今借重逢；不声称现场有风雨或彼此有夫妻关系。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "既见君子，云胡不喜？"
+        ]
+      }
+    },
+    {
+      "id": "c05-dating-thanks-1",
+      "version": 1,
+      "occasions": [
+        "dating"
+      ],
+      "purpose": "thanks",
+      "scene": "thanks",
+      "target": "host",
+      "source": "r04-ci-09",
+      "title": "轻松相识 · 谢谢款待",
+      "short": "苏轼《浣溪沙·簌簌衣巾落枣花》里有一句：“日高人渴漫思茶，敲门试问野人家。”这杯谢谢你的款待，也谢谢今天愿意花时间见面。饭吃得舒服，话也可以慢慢聊，心意我记下了。",
+      "full": "苏轼《浣溪沙·簌簌衣巾落枣花》里有一句：“日高人渴漫思茶，敲门试问野人家。”这杯谢谢你的款待，也谢谢今天愿意花时间见面。饭吃得舒服，话也可以慢慢聊，心意我记下了。\n这份用心我记着，也盼以后有机会好好回应。",
+      "english": "Thank you for the meal and for taking the time to meet today.",
+      "translation": "这杯谢谢你的款待，也谢谢今天愿意花时间见面。饭吃得舒服，话也可以慢慢聊，心意我记下了。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-dating-thanks-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "r04-ci-09",
+        "title": "苏轼《浣溪沙·簌簌衣巾落枣花》",
+        "book": "俞平伯《唐宋词选释》",
+        "pages": "PDF 105",
+        "original": "日高人渴漫思茶，敲门试问野人家。",
+        "fullOriginal": "簌簌衣巾落枣花，村南村北响缲车，牛衣古柳卖黄瓜。\n酒困路长惟欲睡，日高人渴漫思茶，敲门试问野人家。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "乡间行路渴而求茶；不编造主人曾收留用户，茶与酒均可。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "词",
+        "excerpts": [
+          "日高人渴漫思茶，敲门试问野人家。"
+        ]
+      }
+    },
+    {
+      "id": "c05-dating-thanks-2",
+      "version": 1,
+      "occasions": [
+        "dating"
+      ],
+      "purpose": "thanks",
+      "scene": "thanks",
+      "target": "host",
+      "source": "r04-ci-09",
+      "title": "轻松相识 · 谢谢款待",
+      "short": "今天不能只顾着夸菜，也得认真谢谢请客的人。谢谢你的用心，愿你往后的日子，也常有被好好对待的时候。\n苏轼《浣溪沙·簌簌衣巾落枣花》里有一句：“日高人渴漫思茶，敲门试问野人家。”",
+      "full": "今天不能只顾着夸菜，也得认真谢谢请客的人。谢谢你的用心，愿你往后的日子，也常有被好好对待的时候。\n苏轼《浣溪沙·簌簌衣巾落枣花》里有一句：“日高人渴漫思茶，敲门试问野人家。”\n这份用心我记着，也盼以后有机会好好回应。",
+      "english": "Thank you for the meal and for taking the time to meet today. Wishing you something to smile about every day.",
+      "translation": "今天不能只顾着夸菜，也得认真谢谢请客的人。谢谢你的用心，愿你往后的日子，也常有被好好对待的时候。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-dating-thanks-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "r04-ci-09",
+        "title": "苏轼《浣溪沙·簌簌衣巾落枣花》",
+        "book": "俞平伯《唐宋词选释》",
+        "pages": "PDF 105",
+        "original": "日高人渴漫思茶，敲门试问野人家。",
+        "fullOriginal": "簌簌衣巾落枣花，村南村北响缲车，牛衣古柳卖黄瓜。\n酒困路长惟欲睡，日高人渴漫思茶，敲门试问野人家。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "乡间行路渴而求茶；不编造主人曾收留用户，茶与酒均可。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "词",
+        "excerpts": [
+          "日高人渴漫思茶，敲门试问野人家。"
+        ]
+      }
+    },
+    {
+      "id": "c05-dating-farewell-1",
+      "version": 1,
+      "occasions": [
+        "dating"
+      ],
+      "purpose": "farewell",
+      "scene": "farewell",
+      "target": "table",
+      "source": "r04-ci-28",
+      "title": "轻松相识 · 道声珍重",
+      "short": "牛希济《生查子·春山烟欲收》里有一句：“语已多，情未了。”知道你接下来要去新的地方，也送上一份祝愿。愿一路顺当，忙的时候照顾好自己，闲的时候常有好心情。",
+      "full": "牛希济《生查子·春山烟欲收》里有一句：“语已多，情未了。”知道你接下来要去新的地方，也送上一份祝愿。愿一路顺当，忙的时候照顾好自己，闲的时候常有好心情。\n这一程，愿你走得从容，也有人惦记。",
+      "english": "To your journey and a new chapter that unfolds at your own pace.",
+      "translation": "知道你接下来要去新的地方，也送上一份祝愿。愿一路顺当，忙的时候照顾好自己，闲的时候常有好心情。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-dating-farewell-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "r04-ci-28",
+        "title": "牛希济《生查子·春山烟欲收》",
+        "book": "俞平伯《唐宋词选释》",
+        "pages": "PDF 66",
+        "original": "语已多，情未了。",
+        "fullOriginal": "春山烟欲收，天淡稀星小。残月脸边明，别泪临清晓。\n语已多，情未了，回首犹重道。记得绿罗裙，处处怜芳草。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "恋人清晓惜别；借话未尽的惜别，不把普通朋友拟作恋人。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "词",
+        "excerpts": [
+          "语已多，情未了。"
+        ]
+      }
+    },
+    {
+      "id": "c05-dating-farewell-2",
+      "version": 1,
+      "occasions": [
+        "dating"
+      ],
+      "purpose": "farewell",
+      "scene": "farewell",
+      "target": "table",
+      "source": "r04-ci-28",
+      "title": "轻松相识 · 道声珍重",
+      "short": "今天先认真道一声珍重。新的生活慢慢展开，不用急，愿你走得稳，也过得开心；有机会再聊一路的新鲜事。\n牛希济《生查子·春山烟欲收》里有一句：“语已多，情未了。”",
+      "full": "今天先认真道一声珍重。新的生活慢慢展开，不用急，愿你走得稳，也过得开心；有机会再聊一路的新鲜事。\n牛希济《生查子·春山烟欲收》里有一句：“语已多，情未了。”\n这一程，愿你走得从容，也有人惦记。",
+      "english": "To your journey and a new chapter that unfolds at your own pace. Wishing you something to smile about every day.",
+      "translation": "今天先认真道一声珍重。新的生活慢慢展开，不用急，愿你走得稳，也过得开心；有机会再聊一路的新鲜事。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-dating-farewell-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "词",
+      "sourceDetails": {
+        "id": "r04-ci-28",
+        "title": "牛希济《生查子·春山烟欲收》",
+        "book": "俞平伯《唐宋词选释》",
+        "pages": "PDF 66",
+        "original": "语已多，情未了。",
+        "fullOriginal": "春山烟欲收，天淡稀星小。残月脸边明，别泪临清晓。\n语已多，情未了，回首犹重道。记得绿罗裙，处处怜芳草。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "恋人清晓惜别；借话未尽的惜别，不把普通朋友拟作恋人。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "词",
+        "excerpts": [
+          "语已多，情未了。"
+        ]
+      }
+    },
+    {
+      "id": "c05-general-personal-1",
+      "version": 1,
+      "occasions": [
+        "general"
+      ],
+      "purpose": "personal",
+      "scene": "general",
+      "target": "person",
+      "source": "r04-shi-44",
+      "title": "送一份好意 · 单独敬你",
+      "short": "《诗经·樛木》里有一句：“乐只君子，福履绥之。”借古人的好话，单独敬你一杯。愿手上的事顺，心里惦记的人平安，普通日子也有甜头。",
+      "full": "《诗经·樛木》里有一句：“乐只君子，福履绥之。”借古人的好话，单独敬你一杯。愿手上的事顺，心里惦记的人平安，普通日子也有甜头。\n杯中饮什么、饮多少都随意，这份祝愿认真送到。",
+      "english": "Warm wishes to you, for peace of mind and good days ahead.",
+      "translation": "借古人的好话，单独敬你一杯。愿手上的事顺，心里惦记的人平安，普通日子也有甜头。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-general-personal-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-44",
+        "title": "《诗经·樛木》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 44—46",
+        "original": "乐只君子，福履绥之。",
+        "fullOriginal": "南有樛木，葛藟累之。\n乐只君子，福履绥之。\n南有樛木，葛藟荒之。\n乐只君子，福履将之。\n南有樛木，葛藟萦之。\n乐只君子，福履成之。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "祝福安乐福禄的诗；旧说及今解不同，借祝福，不套用依附关系。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "乐只君子，福履绥之。"
+        ]
+      }
+    },
+    {
+      "id": "c05-general-personal-2",
+      "version": 1,
+      "occasions": [
+        "general"
+      ],
+      "purpose": "personal",
+      "scene": "general",
+      "target": "person",
+      "source": "r04-shi-44",
+      "title": "送一份好意 · 单独敬你",
+      "short": "这杯想把祝福认真送给你。愿忙的时候有收获，停下来的时候，也有属于自己的开心。\n《诗经·樛木》里有一句：“乐只君子，福履绥之。”",
+      "full": "这杯想把祝福认真送给你。愿忙的时候有收获，停下来的时候，也有属于自己的开心。\n《诗经·樛木》里有一句：“乐只君子，福履绥之。”\n杯中饮什么、饮多少都随意，这份祝愿认真送到。",
+      "english": "Warm wishes to you, for peace of mind and good days ahead. Wishing you something to smile about every day.",
+      "translation": "这杯想把祝福认真送给你。愿忙的时候有收获，停下来的时候，也有属于自己的开心。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-general-personal-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-44",
+        "title": "《诗经·樛木》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 44—46",
+        "original": "乐只君子，福履绥之。",
+        "fullOriginal": "南有樛木，葛藟累之。\n乐只君子，福履绥之。\n南有樛木，葛藟荒之。\n乐只君子，福履将之。\n南有樛木，葛藟萦之。\n乐只君子，福履成之。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "祝福安乐福禄的诗；旧说及今解不同，借祝福，不套用依附关系。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "乐只君子，福履绥之。"
+        ]
+      }
+    },
+    {
+      "id": "c05-work-personal-1",
+      "version": 1,
+      "occasions": [
+        "work"
+      ],
+      "purpose": "personal",
+      "scene": "work",
+      "target": "person",
+      "source": "r04-shi-710",
+      "title": "同事聚餐 · 单独敬你",
+      "short": "《诗经·菁菁者莪》里有一句：“既见君子，我心则喜。”这杯敬你这位同事。愿咱们共事有商量，遇事能照应，各自把工作做好，也把生活过好。",
+      "full": "《诗经·菁菁者莪》里有一句：“既见君子，我心则喜。”这杯敬你这位同事。愿咱们共事有商量，遇事能照应，各自把工作做好，也把生活过好。\n杯中饮什么、饮多少都随意，这份祝愿认真送到。",
+      "english": "To a colleague, good work together, and a happy life beyond it.",
+      "translation": "这杯敬你这位同事。愿咱们共事有商量，遇事能照应，各自把工作做好，也把生活过好。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-work-personal-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-710",
+        "title": "《诗经·菁菁者莪》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 710—713",
+        "original": "既见君子，我心则喜。",
+        "fullOriginal": "菁菁者莪，在彼中阿。\n既见君子，乐且有仪。\n菁菁者莪，在彼中沚。\n既见君子，我心则喜。\n菁菁者莪，在彼中陵。\n既见君子，锡我百朋。\n泛泛杨舟，载沉载浮。\n既见君子，我心则休。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "有乐育人才等解释；借相见与受教之喜，不编造具体师生经历。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "既见君子，我心则喜。"
+        ]
+      }
+    },
+    {
+      "id": "c05-work-personal-2",
+      "version": 1,
+      "occasions": [
+        "work"
+      ],
+      "purpose": "personal",
+      "scene": "work",
+      "target": "person",
+      "source": "r04-shi-710",
+      "title": "同事聚餐 · 单独敬你",
+      "short": "今天借一杯好意敬你。工作里的难题慢慢解，生活里的开心别落下，愿你付出有回响，忙完有清闲。\n《诗经·菁菁者莪》里有一句：“既见君子，我心则喜。”",
+      "full": "今天借一杯好意敬你。工作里的难题慢慢解，生活里的开心别落下，愿你付出有回响，忙完有清闲。\n《诗经·菁菁者莪》里有一句：“既见君子，我心则喜。”\n杯中饮什么、饮多少都随意，这份祝愿认真送到。",
+      "english": "To a colleague, good work together, and a happy life beyond it. Wishing you something to smile about every day.",
+      "translation": "今天借一杯好意敬你。工作里的难题慢慢解，生活里的开心别落下，愿你付出有回响，忙完有清闲。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-work-personal-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-710",
+        "title": "《诗经·菁菁者莪》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 710—713",
+        "original": "既见君子，我心则喜。",
+        "fullOriginal": "菁菁者莪，在彼中阿。\n既见君子，乐且有仪。\n菁菁者莪，在彼中沚。\n既见君子，我心则喜。\n菁菁者莪，在彼中陵。\n既见君子，锡我百朋。\n泛泛杨舟，载沉载浮。\n既见君子，我心则休。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "有乐育人才等解释；借相见与受教之喜，不编造具体师生经历。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "既见君子，我心则喜。"
+        ]
+      }
+    },
+    {
+      "id": "c05-family-personal-1",
+      "version": 1,
+      "occasions": [
+        "family"
+      ],
+      "purpose": "personal",
+      "scene": "family",
+      "target": "person",
+      "source": "r04-shi-991",
+      "title": "家人同席 · 单独敬你",
+      "short": "《诗经·鸳鸯》里有一句：“君子万年，福禄绥之。”这杯单独敬你。家里人的关心，有时说得少，心里一直放着；愿你日子安稳，开心的事多一些。",
+      "full": "《诗经·鸳鸯》里有一句：“君子万年，福禄绥之。”这杯单独敬你。家里人的关心，有时说得少，心里一直放着；愿你日子安稳，开心的事多一些。\n杯中饮什么、饮多少都随意，这份祝愿认真送到。",
+      "english": "To you, with family affection and wishes for peaceful, happy days.",
+      "translation": "这杯单独敬你。家里人的关心，有时说得少，心里一直放着；愿你日子安稳，开心的事多一些。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-family-personal-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-991",
+        "title": "《诗经·鸳鸯》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 991—994",
+        "original": "君子万年，福禄绥之。",
+        "fullOriginal": "鸳鸯于飞，毕之罗之。\n君子万年，福禄宜之。\n鸳鸯在梁，戢其左翼。\n君子万年，宜其遐福。\n乘马在厩，摧之秣之。\n君子万年，福禄艾之。\n乘马在厩，秣之摧之。\n君子万年，福禄绥之。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "祝福之歌，存在婚礼及君臣酬答等解释；不默认所有对象为夫妻。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "君子万年，福禄绥之。"
+        ]
+      }
+    },
+    {
+      "id": "c05-family-personal-2",
+      "version": 1,
+      "occasions": [
+        "family"
+      ],
+      "purpose": "personal",
+      "scene": "family",
+      "target": "person",
+      "source": "r04-shi-991",
+      "title": "家人同席 · 单独敬你",
+      "short": "一家人不必总把客气挂在嘴上，祝福还是想认真送到。愿你吃得香、睡得好，忙的事也有好结果。\n《诗经·鸳鸯》里有一句：“君子万年，福禄绥之。”",
+      "full": "一家人不必总把客气挂在嘴上，祝福还是想认真送到。愿你吃得香、睡得好，忙的事也有好结果。\n《诗经·鸳鸯》里有一句：“君子万年，福禄绥之。”\n杯中饮什么、饮多少都随意，这份祝愿认真送到。",
+      "english": "To you, with family affection and wishes for peaceful, happy days. Wishing you something to smile about every day.",
+      "translation": "一家人不必总把客气挂在嘴上，祝福还是想认真送到。愿你吃得香、睡得好，忙的事也有好结果。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-family-personal-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-991",
+        "title": "《诗经·鸳鸯》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 991—994",
+        "original": "君子万年，福禄绥之。",
+        "fullOriginal": "鸳鸯于飞，毕之罗之。\n君子万年，福禄宜之。\n鸳鸯在梁，戢其左翼。\n君子万年，宜其遐福。\n乘马在厩，摧之秣之。\n君子万年，福禄艾之。\n乘马在厩，秣之摧之。\n君子万年，福禄绥之。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "祝福之歌，存在婚礼及君臣酬答等解释；不默认所有对象为夫妻。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "君子万年，福禄绥之。"
+        ]
+      }
+    },
+    {
+      "id": "c05-friends-personal-1",
+      "version": 1,
+      "occasions": [
+        "friends"
+      ],
+      "purpose": "personal",
+      "scene": "friends",
+      "target": "person",
+      "source": "r04-story-15",
+      "title": "朋友相聚 · 单独敬你",
+      "short": "《世说新语》里记载：“而谈琴书愈妙。”借这份日常里的雅兴，单独敬你。愿你忙的时候有奔头，闲的时候有自己的趣味，想说话的时候有朋友在。",
+      "full": "《世说新语》里记载：“而谈琴书愈妙。”借这份日常里的雅兴，单独敬你。愿你忙的时候有奔头，闲的时候有自己的趣味，想说话的时候有朋友在。\n杯中饮什么、饮多少都随意，这份祝愿认真送到。",
+      "english": "To you, my friend, and the things that make your days worthwhile.",
+      "translation": "借这份日常里的雅兴，单独敬你。愿你忙的时候有奔头，闲的时候有自己的趣味，想说话的时候有朋友在。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-friends-personal-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古文／语录",
+      "sourceDetails": {
+        "id": "r04-story-15",
+        "title": "《世说新语·雅量第三十四则》戴逵谈琴书",
+        "book": "刘义庆著、刘孝标注、余嘉锡笺疏《世说新语笺疏》",
+        "pages": "PDF 320",
+        "original": "而谈琴书愈妙。",
+        "fullOriginal": "戴公从东出，谢太傅往看之。谢本轻戴，见但与论琴书。戴既无吝色，而谈琴书愈妙。谢悠然知其量。",
+        "fullOriginalLabel": "故事所在条目原文 · 完整条目",
+        "meaning": "借从容分享所爱，不赞美轻视他人的试探；今天不预设双方有高下。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。这是古籍中的叙事，不等于所有细节均获独立史实证实。",
+        "form": "古文／语录",
+        "excerpts": [
+          "而谈琴书愈妙。"
+        ]
+      }
+    },
+    {
+      "id": "c05-friends-personal-2",
+      "version": 1,
+      "occasions": [
+        "friends"
+      ],
+      "purpose": "personal",
+      "scene": "friends",
+      "target": "person",
+      "source": "r04-story-15",
+      "title": "朋友相聚 · 单独敬你",
+      "short": "今天这杯敬你。愿你手头的事慢慢顺起来，也别把喜欢的事都排到以后，咱们有空常约。\n《世说新语》里记载：“而谈琴书愈妙。”",
+      "full": "今天这杯敬你。愿你手头的事慢慢顺起来，也别把喜欢的事都排到以后，咱们有空常约。\n《世说新语》里记载：“而谈琴书愈妙。”\n杯中饮什么、饮多少都随意，这份祝愿认真送到。",
+      "english": "To you, my friend, and the things that make your days worthwhile. Wishing you something to smile about every day.",
+      "translation": "今天这杯敬你。愿你手头的事慢慢顺起来，也别把喜欢的事都排到以后，咱们有空常约。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-friends-personal-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古文／语录",
+      "sourceDetails": {
+        "id": "r04-story-15",
+        "title": "《世说新语·雅量第三十四则》戴逵谈琴书",
+        "book": "刘义庆著、刘孝标注、余嘉锡笺疏《世说新语笺疏》",
+        "pages": "PDF 320",
+        "original": "而谈琴书愈妙。",
+        "fullOriginal": "戴公从东出，谢太傅往看之。谢本轻戴，见但与论琴书。戴既无吝色，而谈琴书愈妙。谢悠然知其量。",
+        "fullOriginalLabel": "故事所在条目原文 · 完整条目",
+        "meaning": "借从容分享所爱，不赞美轻视他人的试探；今天不预设双方有高下。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。这是古籍中的叙事，不等于所有细节均获独立史实证实。",
+        "form": "古文／语录",
+        "excerpts": [
+          "而谈琴书愈妙。"
+        ]
+      }
+    },
+    {
+      "id": "c05-meeting-personal-1",
+      "version": 1,
+      "occasions": [
+        "meeting"
+      ],
+      "purpose": "personal",
+      "scene": "meeting",
+      "target": "person",
+      "source": "r04-shi-369",
+      "title": "初次同桌 · 单独敬你",
+      "short": "《诗经·野有蔓草》里有一句：“邂逅相遇，适我愿兮。”今天很高兴认识你，这杯单独敬你。先从这一顿饭、这几句话开始，愿咱们聊得自然，相处真诚。",
+      "full": "《诗经·野有蔓草》里有一句：“邂逅相遇，适我愿兮。”今天很高兴认识你，这杯单独敬你。先从这一顿饭、这几句话开始，愿咱们聊得自然，相处真诚。\n杯中饮什么、饮多少都随意，这份祝愿认真送到。",
+      "english": "It is good to meet you. Here is to an honest, easy conversation.",
+      "translation": "今天很高兴认识你，这杯单独敬你。先从这一顿饭、这几句话开始，愿咱们聊得自然，相处真诚。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-meeting-personal-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-369",
+        "title": "《诗经·野有蔓草》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 369—371",
+        "original": "邂逅相遇，适我愿兮。",
+        "fullOriginal": "野有蔓草，零露漙兮。\n有美一人，清扬婉兮。\n邂逅相遇，适我愿兮。\n野有蔓草，零露瀼瀼。\n有美一人，婉如清扬。\n邂逅相遇，与子偕臧。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "男女相遇的情歌；初识只取相逢之喜，不替对方表白。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "邂逅相遇，适我愿兮。"
+        ]
+      }
+    },
+    {
+      "id": "c05-meeting-personal-2",
+      "version": 1,
+      "occasions": [
+        "meeting"
+      ],
+      "purpose": "personal",
+      "scene": "meeting",
+      "target": "person",
+      "source": "r04-shi-369",
+      "title": "初次同桌 · 单独敬你",
+      "short": "认识新朋友，不用一开口就把交情说满。今天这杯敬你，愿你最近顺心，也愿我们以后有话可聊。\n《诗经·野有蔓草》里有一句：“邂逅相遇，适我愿兮。”",
+      "full": "认识新朋友，不用一开口就把交情说满。今天这杯敬你，愿你最近顺心，也愿我们以后有话可聊。\n《诗经·野有蔓草》里有一句：“邂逅相遇，适我愿兮。”\n杯中饮什么、饮多少都随意，这份祝愿认真送到。",
+      "english": "It is good to meet you. Here is to an honest, easy conversation. Wishing you something to smile about every day.",
+      "translation": "认识新朋友，不用一开口就把交情说满。今天这杯敬你，愿你最近顺心，也愿我们以后有话可聊。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-meeting-personal-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-369",
+        "title": "《诗经·野有蔓草》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 369—371",
+        "original": "邂逅相遇，适我愿兮。",
+        "fullOriginal": "野有蔓草，零露漙兮。\n有美一人，清扬婉兮。\n邂逅相遇，适我愿兮。\n野有蔓草，零露瀼瀼。\n有美一人，婉如清扬。\n邂逅相遇，与子偕臧。",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "男女相遇的情歌；初识只取相逢之喜，不替对方表白。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "邂逅相遇，适我愿兮。"
+        ]
+      }
+    },
+    {
+      "id": "c05-dating-personal-1",
+      "version": 1,
+      "occasions": [
+        "dating"
+      ],
+      "purpose": "personal",
+      "scene": "dating",
+      "target": "person",
+      "source": "r04-shi-357",
+      "title": "轻松相识 · 单独敬你",
+      "short": "《诗经·风雨》里有一句：“既见君子，云胡不喜？”今天很高兴见到你。这杯敬这次见面，愿咱们都不用急着表现，吃得舒服，聊得开心。",
+      "full": "《诗经·风雨》里有一句：“既见君子，云胡不喜？”今天很高兴见到你。这杯敬这次见面，愿咱们都不用急着表现，吃得舒服，聊得开心。\n杯中饮什么、饮多少都随意，这份祝愿认真送到。",
+      "english": "I am glad we could meet. Here is to getting to know each other at our own pace.",
+      "translation": "今天很高兴见到你。这杯敬这次见面，愿咱们都不用急着表现，吃得舒服，聊得开心。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "poetic",
+      "delivery": "spoken",
+      "theme": "context-dating-personal-1",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-357",
+        "title": "《诗经·风雨》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 357—359",
+        "original": "既见君子，云胡不喜？",
+        "fullOriginal": "风雨凄凄，鸡鸣喈喈。\n既见君子，云胡不夷？\n风雨潇潇，鸡鸣㬵㬵。\n既见君子，云胡不瘳？\n风雨如晦，鸡鸣不已。\n既见君子，云胡不喜？",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "原为久别相见的喜悦，今借重逢；不声称现场有风雨或彼此有夫妻关系。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "既见君子，云胡不喜？"
+        ]
+      }
+    },
+    {
+      "id": "c05-dating-personal-2",
+      "version": 1,
+      "occasions": [
+        "dating"
+      ],
+      "purpose": "personal",
+      "scene": "dating",
+      "target": "person",
+      "source": "r04-shi-357",
+      "title": "轻松相识 · 单独敬你",
+      "short": "把这句相见的欢喜借来敬你。今天先慢慢认识，愿彼此都自在，也都有真实表达自己的余地。\n《诗经·风雨》里有一句：“既见君子，云胡不喜？”",
+      "full": "把这句相见的欢喜借来敬你。今天先慢慢认识，愿彼此都自在，也都有真实表达自己的余地。\n《诗经·风雨》里有一句：“既见君子，云胡不喜？”\n杯中饮什么、饮多少都随意，这份祝愿认真送到。",
+      "english": "I am glad we could meet. Here is to getting to know each other at our own pace. Wishing you something to smile about every day.",
+      "translation": "把这句相见的欢喜借来敬你。今天先慢慢认识，愿彼此都自在，也都有真实表达自己的余地。",
+      "tip": "借用原作意境；后续祝愿为独立整理，不把原作人物关系套在当下。",
+      "tone": "fun",
+      "delivery": "spoken",
+      "theme": "context-dating-personal-2",
+      "kind": "引句后整理",
+      "teaLine": "我以茶代酒，心意一样真。",
+      "englishTeaLine": "With tea in my cup and the same warm wishes.",
+      "status": "本轮新增 · 当前推荐",
+      "category": "古诗",
+      "sourceDetails": {
+        "id": "r04-shi-357",
+        "title": "《诗经·风雨》",
+        "book": "王秀梅译注《诗经》（全二册）",
+        "pages": "PDF 357—359",
+        "original": "既见君子，云胡不喜？",
+        "fullOriginal": "风雨凄凄，鸡鸣喈喈。\n既见君子，云胡不夷？\n风雨潇潇，鸡鸣㬵㬵。\n既见君子，云胡不瘳？\n风雨如晦，鸡鸣不已。\n既见君子，云胡不喜？",
+        "fullOriginalLabel": "原作全文",
+        "meaning": "原为久别相见的喜悦，今借重逢；不声称现场有风雨或彼此有夫妻关系。",
+        "note": "2026-10-29依据用户补充的实际版本核读原文及相关题解／注释。原作转简体，标点作阅读整理；祝酒文字为独立整理。",
+        "form": "古诗",
+        "excerpts": [
+          "既见君子，云胡不喜？"
         ]
       }
     },
