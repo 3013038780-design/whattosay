@@ -1,0 +1,3872 @@
+{
+  "date": "2026-10-29",
+  "version": "0.6.1",
+  "active": 546,
+  "quoted": 398,
+  "totalVersions": 841,
+  "todayReachable": 539,
+  "seasonAndFestivalReachable": 546,
+  "unreachable": [],
+  "groups": [
+    {
+      "occasion": "general",
+      "purpose": "toast",
+      "flavor": "verse",
+      "count": 29,
+      "works": 27
+    },
+    {
+      "occasion": "general",
+      "purpose": "toast",
+      "flavor": "fun",
+      "count": 8,
+      "works": 2
+    },
+    {
+      "occasion": "general",
+      "purpose": "toast",
+      "flavor": "formal",
+      "count": 34,
+      "works": 25
+    },
+    {
+      "occasion": "general",
+      "purpose": "personal",
+      "flavor": "verse",
+      "count": 10,
+      "works": 9
+    },
+    {
+      "occasion": "general",
+      "purpose": "personal",
+      "flavor": "fun",
+      "count": 4,
+      "works": 4
+    },
+    {
+      "occasion": "general",
+      "purpose": "personal",
+      "flavor": "formal",
+      "count": 6,
+      "works": 6
+    },
+    {
+      "occasion": "general",
+      "purpose": "reply",
+      "flavor": "verse",
+      "count": 14,
+      "works": 14
+    },
+    {
+      "occasion": "general",
+      "purpose": "reply",
+      "flavor": "fun",
+      "count": 2,
+      "works": 2
+    },
+    {
+      "occasion": "general",
+      "purpose": "reply",
+      "flavor": "formal",
+      "count": 16,
+      "works": 12
+    },
+    {
+      "occasion": "general",
+      "purpose": "thanks",
+      "flavor": "verse",
+      "count": 17,
+      "works": 15
+    },
+    {
+      "occasion": "general",
+      "purpose": "thanks",
+      "flavor": "fun",
+      "count": 5,
+      "works": 3
+    },
+    {
+      "occasion": "general",
+      "purpose": "thanks",
+      "flavor": "formal",
+      "count": 19,
+      "works": 12
+    },
+    {
+      "occasion": "general",
+      "purpose": "welcome",
+      "flavor": "verse",
+      "count": 19,
+      "works": 16
+    },
+    {
+      "occasion": "general",
+      "purpose": "welcome",
+      "flavor": "fun",
+      "count": 3,
+      "works": 3
+    },
+    {
+      "occasion": "general",
+      "purpose": "welcome",
+      "flavor": "formal",
+      "count": 17,
+      "works": 13
+    },
+    {
+      "occasion": "general",
+      "purpose": "closing",
+      "flavor": "verse",
+      "count": 12,
+      "works": 12
+    },
+    {
+      "occasion": "general",
+      "purpose": "closing",
+      "flavor": "fun",
+      "count": 2,
+      "works": 2
+    },
+    {
+      "occasion": "general",
+      "purpose": "closing",
+      "flavor": "formal",
+      "count": 10,
+      "works": 10
+    },
+    {
+      "occasion": "general",
+      "purpose": "farewell",
+      "flavor": "verse",
+      "count": 14,
+      "works": 14
+    },
+    {
+      "occasion": "general",
+      "purpose": "farewell",
+      "flavor": "fun",
+      "count": 3,
+      "works": 3
+    },
+    {
+      "occasion": "general",
+      "purpose": "farewell",
+      "flavor": "formal",
+      "count": 14,
+      "works": 11
+    },
+    {
+      "occasion": "general",
+      "purpose": "gratitude",
+      "flavor": "verse",
+      "count": 18,
+      "works": 18
+    },
+    {
+      "occasion": "general",
+      "purpose": "gratitude",
+      "flavor": "fun",
+      "count": 7,
+      "works": 3
+    },
+    {
+      "occasion": "general",
+      "purpose": "gratitude",
+      "flavor": "formal",
+      "count": 20,
+      "works": 15
+    },
+    {
+      "occasion": "general",
+      "purpose": "finish",
+      "flavor": "verse",
+      "count": 15,
+      "works": 12
+    },
+    {
+      "occasion": "general",
+      "purpose": "finish",
+      "flavor": "fun",
+      "count": 7,
+      "works": 2
+    },
+    {
+      "occasion": "general",
+      "purpose": "finish",
+      "flavor": "formal",
+      "count": 18,
+      "works": 10
+    },
+    {
+      "occasion": "friends",
+      "purpose": "toast",
+      "flavor": "verse",
+      "count": 47,
+      "works": 42
+    },
+    {
+      "occasion": "friends",
+      "purpose": "toast",
+      "flavor": "fun",
+      "count": 6,
+      "works": 1
+    },
+    {
+      "occasion": "friends",
+      "purpose": "toast",
+      "flavor": "formal",
+      "count": 51,
+      "works": 42
+    },
+    {
+      "occasion": "friends",
+      "purpose": "personal",
+      "flavor": "verse",
+      "count": 10,
+      "works": 9
+    },
+    {
+      "occasion": "friends",
+      "purpose": "personal",
+      "flavor": "fun",
+      "count": 4,
+      "works": 4
+    },
+    {
+      "occasion": "friends",
+      "purpose": "personal",
+      "flavor": "formal",
+      "count": 6,
+      "works": 6
+    },
+    {
+      "occasion": "friends",
+      "purpose": "reply",
+      "flavor": "verse",
+      "count": 22,
+      "works": 20
+    },
+    {
+      "occasion": "friends",
+      "purpose": "reply",
+      "flavor": "fun",
+      "count": 9,
+      "works": 5
+    },
+    {
+      "occasion": "friends",
+      "purpose": "reply",
+      "flavor": "formal",
+      "count": 23,
+      "works": 16
+    },
+    {
+      "occasion": "friends",
+      "purpose": "thanks",
+      "flavor": "verse",
+      "count": 24,
+      "works": 19
+    },
+    {
+      "occasion": "friends",
+      "purpose": "thanks",
+      "flavor": "fun",
+      "count": 8,
+      "works": 4
+    },
+    {
+      "occasion": "friends",
+      "purpose": "thanks",
+      "flavor": "formal",
+      "count": 25,
+      "works": 16
+    },
+    {
+      "occasion": "friends",
+      "purpose": "welcome",
+      "flavor": "verse",
+      "count": 31,
+      "works": 23
+    },
+    {
+      "occasion": "friends",
+      "purpose": "welcome",
+      "flavor": "fun",
+      "count": 9,
+      "works": 4
+    },
+    {
+      "occasion": "friends",
+      "purpose": "welcome",
+      "flavor": "formal",
+      "count": 31,
+      "works": 20
+    },
+    {
+      "occasion": "friends",
+      "purpose": "closing",
+      "flavor": "verse",
+      "count": 18,
+      "works": 16
+    },
+    {
+      "occasion": "friends",
+      "purpose": "closing",
+      "flavor": "fun",
+      "count": 3,
+      "works": 3
+    },
+    {
+      "occasion": "friends",
+      "purpose": "closing",
+      "flavor": "formal",
+      "count": 15,
+      "works": 14
+    },
+    {
+      "occasion": "friends",
+      "purpose": "farewell",
+      "flavor": "verse",
+      "count": 22,
+      "works": 19
+    },
+    {
+      "occasion": "friends",
+      "purpose": "farewell",
+      "flavor": "fun",
+      "count": 9,
+      "works": 4
+    },
+    {
+      "occasion": "friends",
+      "purpose": "farewell",
+      "flavor": "formal",
+      "count": 24,
+      "works": 16
+    },
+    {
+      "occasion": "friends",
+      "purpose": "gratitude",
+      "flavor": "verse",
+      "count": 18,
+      "works": 18
+    },
+    {
+      "occasion": "friends",
+      "purpose": "gratitude",
+      "flavor": "fun",
+      "count": 7,
+      "works": 3
+    },
+    {
+      "occasion": "friends",
+      "purpose": "gratitude",
+      "flavor": "formal",
+      "count": 20,
+      "works": 15
+    },
+    {
+      "occasion": "friends",
+      "purpose": "finish",
+      "flavor": "verse",
+      "count": 15,
+      "works": 12
+    },
+    {
+      "occasion": "friends",
+      "purpose": "finish",
+      "flavor": "fun",
+      "count": 7,
+      "works": 2
+    },
+    {
+      "occasion": "friends",
+      "purpose": "finish",
+      "flavor": "formal",
+      "count": 18,
+      "works": 10
+    },
+    {
+      "occasion": "work",
+      "purpose": "toast",
+      "flavor": "verse",
+      "count": 18,
+      "works": 16
+    },
+    {
+      "occasion": "work",
+      "purpose": "toast",
+      "flavor": "fun",
+      "count": 6,
+      "works": 0
+    },
+    {
+      "occasion": "work",
+      "purpose": "toast",
+      "flavor": "formal",
+      "count": 24,
+      "works": 16
+    },
+    {
+      "occasion": "work",
+      "purpose": "personal",
+      "flavor": "verse",
+      "count": 11,
+      "works": 11
+    },
+    {
+      "occasion": "work",
+      "purpose": "personal",
+      "flavor": "fun",
+      "count": 5,
+      "works": 0
+    },
+    {
+      "occasion": "work",
+      "purpose": "personal",
+      "flavor": "formal",
+      "count": 18,
+      "works": 11
+    },
+    {
+      "occasion": "work",
+      "purpose": "reply",
+      "flavor": "verse",
+      "count": 16,
+      "works": 15
+    },
+    {
+      "occasion": "work",
+      "purpose": "reply",
+      "flavor": "fun",
+      "count": 3,
+      "works": 3
+    },
+    {
+      "occasion": "work",
+      "purpose": "reply",
+      "flavor": "formal",
+      "count": 17,
+      "works": 13
+    },
+    {
+      "occasion": "work",
+      "purpose": "thanks",
+      "flavor": "verse",
+      "count": 19,
+      "works": 16
+    },
+    {
+      "occasion": "work",
+      "purpose": "thanks",
+      "flavor": "fun",
+      "count": 6,
+      "works": 4
+    },
+    {
+      "occasion": "work",
+      "purpose": "thanks",
+      "flavor": "formal",
+      "count": 20,
+      "works": 13
+    },
+    {
+      "occasion": "work",
+      "purpose": "welcome",
+      "flavor": "verse",
+      "count": 21,
+      "works": 16
+    },
+    {
+      "occasion": "work",
+      "purpose": "welcome",
+      "flavor": "fun",
+      "count": 4,
+      "works": 4
+    },
+    {
+      "occasion": "work",
+      "purpose": "welcome",
+      "flavor": "formal",
+      "count": 18,
+      "works": 13
+    },
+    {
+      "occasion": "work",
+      "purpose": "closing",
+      "flavor": "verse",
+      "count": 14,
+      "works": 12
+    },
+    {
+      "occasion": "work",
+      "purpose": "closing",
+      "flavor": "fun",
+      "count": 3,
+      "works": 3
+    },
+    {
+      "occasion": "work",
+      "purpose": "closing",
+      "flavor": "formal",
+      "count": 11,
+      "works": 10
+    },
+    {
+      "occasion": "work",
+      "purpose": "farewell",
+      "flavor": "verse",
+      "count": 16,
+      "works": 14
+    },
+    {
+      "occasion": "work",
+      "purpose": "farewell",
+      "flavor": "fun",
+      "count": 4,
+      "works": 4
+    },
+    {
+      "occasion": "work",
+      "purpose": "farewell",
+      "flavor": "formal",
+      "count": 15,
+      "works": 11
+    },
+    {
+      "occasion": "work",
+      "purpose": "gratitude",
+      "flavor": "verse",
+      "count": 18,
+      "works": 18
+    },
+    {
+      "occasion": "work",
+      "purpose": "gratitude",
+      "flavor": "fun",
+      "count": 7,
+      "works": 3
+    },
+    {
+      "occasion": "work",
+      "purpose": "gratitude",
+      "flavor": "formal",
+      "count": 20,
+      "works": 15
+    },
+    {
+      "occasion": "work",
+      "purpose": "finish",
+      "flavor": "verse",
+      "count": 15,
+      "works": 12
+    },
+    {
+      "occasion": "work",
+      "purpose": "finish",
+      "flavor": "fun",
+      "count": 7,
+      "works": 2
+    },
+    {
+      "occasion": "work",
+      "purpose": "finish",
+      "flavor": "formal",
+      "count": 18,
+      "works": 10
+    },
+    {
+      "occasion": "family",
+      "purpose": "toast",
+      "flavor": "verse",
+      "count": 21,
+      "works": 16
+    },
+    {
+      "occasion": "family",
+      "purpose": "toast",
+      "flavor": "fun",
+      "count": 6,
+      "works": 0
+    },
+    {
+      "occasion": "family",
+      "purpose": "toast",
+      "flavor": "formal",
+      "count": 27,
+      "works": 16
+    },
+    {
+      "occasion": "family",
+      "purpose": "personal",
+      "flavor": "verse",
+      "count": 19,
+      "works": 14
+    },
+    {
+      "occasion": "family",
+      "purpose": "personal",
+      "flavor": "fun",
+      "count": 4,
+      "works": 0
+    },
+    {
+      "occasion": "family",
+      "purpose": "personal",
+      "flavor": "formal",
+      "count": 24,
+      "works": 14
+    },
+    {
+      "occasion": "family",
+      "purpose": "reply",
+      "flavor": "verse",
+      "count": 16,
+      "works": 14
+    },
+    {
+      "occasion": "family",
+      "purpose": "reply",
+      "flavor": "fun",
+      "count": 3,
+      "works": 3
+    },
+    {
+      "occasion": "family",
+      "purpose": "reply",
+      "flavor": "formal",
+      "count": 17,
+      "works": 12
+    },
+    {
+      "occasion": "family",
+      "purpose": "thanks",
+      "flavor": "verse",
+      "count": 19,
+      "works": 15
+    },
+    {
+      "occasion": "family",
+      "purpose": "thanks",
+      "flavor": "fun",
+      "count": 6,
+      "works": 4
+    },
+    {
+      "occasion": "family",
+      "purpose": "thanks",
+      "flavor": "formal",
+      "count": 20,
+      "works": 12
+    },
+    {
+      "occasion": "family",
+      "purpose": "welcome",
+      "flavor": "verse",
+      "count": 21,
+      "works": 17
+    },
+    {
+      "occasion": "family",
+      "purpose": "welcome",
+      "flavor": "fun",
+      "count": 4,
+      "works": 4
+    },
+    {
+      "occasion": "family",
+      "purpose": "welcome",
+      "flavor": "formal",
+      "count": 18,
+      "works": 14
+    },
+    {
+      "occasion": "family",
+      "purpose": "closing",
+      "flavor": "verse",
+      "count": 15,
+      "works": 13
+    },
+    {
+      "occasion": "family",
+      "purpose": "closing",
+      "flavor": "fun",
+      "count": 3,
+      "works": 3
+    },
+    {
+      "occasion": "family",
+      "purpose": "closing",
+      "flavor": "formal",
+      "count": 12,
+      "works": 11
+    },
+    {
+      "occasion": "family",
+      "purpose": "farewell",
+      "flavor": "verse",
+      "count": 16,
+      "works": 14
+    },
+    {
+      "occasion": "family",
+      "purpose": "farewell",
+      "flavor": "fun",
+      "count": 4,
+      "works": 4
+    },
+    {
+      "occasion": "family",
+      "purpose": "farewell",
+      "flavor": "formal",
+      "count": 15,
+      "works": 11
+    },
+    {
+      "occasion": "family",
+      "purpose": "gratitude",
+      "flavor": "verse",
+      "count": 18,
+      "works": 18
+    },
+    {
+      "occasion": "family",
+      "purpose": "gratitude",
+      "flavor": "fun",
+      "count": 7,
+      "works": 3
+    },
+    {
+      "occasion": "family",
+      "purpose": "gratitude",
+      "flavor": "formal",
+      "count": 20,
+      "works": 15
+    },
+    {
+      "occasion": "family",
+      "purpose": "finish",
+      "flavor": "verse",
+      "count": 15,
+      "works": 12
+    },
+    {
+      "occasion": "family",
+      "purpose": "finish",
+      "flavor": "fun",
+      "count": 7,
+      "works": 2
+    },
+    {
+      "occasion": "family",
+      "purpose": "finish",
+      "flavor": "formal",
+      "count": 18,
+      "works": 10
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "toast",
+      "flavor": "verse",
+      "count": 20,
+      "works": 16
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "toast",
+      "flavor": "fun",
+      "count": 5,
+      "works": 0
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "toast",
+      "flavor": "formal",
+      "count": 26,
+      "works": 16
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "personal",
+      "flavor": "verse",
+      "count": 10,
+      "works": 9
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "personal",
+      "flavor": "fun",
+      "count": 4,
+      "works": 4
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "personal",
+      "flavor": "formal",
+      "count": 6,
+      "works": 6
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "reply",
+      "flavor": "verse",
+      "count": 16,
+      "works": 14
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "reply",
+      "flavor": "fun",
+      "count": 3,
+      "works": 3
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "reply",
+      "flavor": "formal",
+      "count": 17,
+      "works": 12
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "thanks",
+      "flavor": "verse",
+      "count": 19,
+      "works": 15
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "thanks",
+      "flavor": "fun",
+      "count": 6,
+      "works": 4
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "thanks",
+      "flavor": "formal",
+      "count": 20,
+      "works": 12
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "welcome",
+      "flavor": "verse",
+      "count": 21,
+      "works": 17
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "welcome",
+      "flavor": "fun",
+      "count": 4,
+      "works": 4
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "welcome",
+      "flavor": "formal",
+      "count": 18,
+      "works": 14
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "closing",
+      "flavor": "verse",
+      "count": 13,
+      "works": 11
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "closing",
+      "flavor": "fun",
+      "count": 3,
+      "works": 3
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "closing",
+      "flavor": "formal",
+      "count": 10,
+      "works": 9
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "farewell",
+      "flavor": "verse",
+      "count": 16,
+      "works": 14
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "farewell",
+      "flavor": "fun",
+      "count": 4,
+      "works": 4
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "farewell",
+      "flavor": "formal",
+      "count": 15,
+      "works": 11
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "gratitude",
+      "flavor": "verse",
+      "count": 18,
+      "works": 18
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "gratitude",
+      "flavor": "fun",
+      "count": 7,
+      "works": 3
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "gratitude",
+      "flavor": "formal",
+      "count": 20,
+      "works": 15
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "finish",
+      "flavor": "verse",
+      "count": 15,
+      "works": 12
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "finish",
+      "flavor": "fun",
+      "count": 7,
+      "works": 2
+    },
+    {
+      "occasion": "meeting",
+      "purpose": "finish",
+      "flavor": "formal",
+      "count": 18,
+      "works": 10
+    },
+    {
+      "occasion": "dating",
+      "purpose": "toast",
+      "flavor": "verse",
+      "count": 15,
+      "works": 9
+    },
+    {
+      "occasion": "dating",
+      "purpose": "toast",
+      "flavor": "fun",
+      "count": 5,
+      "works": 0
+    },
+    {
+      "occasion": "dating",
+      "purpose": "toast",
+      "flavor": "formal",
+      "count": 21,
+      "works": 9
+    },
+    {
+      "occasion": "dating",
+      "purpose": "personal",
+      "flavor": "verse",
+      "count": 10,
+      "works": 9
+    },
+    {
+      "occasion": "dating",
+      "purpose": "personal",
+      "flavor": "fun",
+      "count": 4,
+      "works": 4
+    },
+    {
+      "occasion": "dating",
+      "purpose": "personal",
+      "flavor": "formal",
+      "count": 6,
+      "works": 6
+    },
+    {
+      "occasion": "dating",
+      "purpose": "reply",
+      "flavor": "verse",
+      "count": 16,
+      "works": 15
+    },
+    {
+      "occasion": "dating",
+      "purpose": "reply",
+      "flavor": "fun",
+      "count": 3,
+      "works": 3
+    },
+    {
+      "occasion": "dating",
+      "purpose": "reply",
+      "flavor": "formal",
+      "count": 17,
+      "works": 13
+    },
+    {
+      "occasion": "dating",
+      "purpose": "thanks",
+      "flavor": "verse",
+      "count": 10,
+      "works": 9
+    },
+    {
+      "occasion": "dating",
+      "purpose": "thanks",
+      "flavor": "fun",
+      "count": 4,
+      "works": 4
+    },
+    {
+      "occasion": "dating",
+      "purpose": "thanks",
+      "flavor": "formal",
+      "count": 6,
+      "works": 6
+    },
+    {
+      "occasion": "dating",
+      "purpose": "welcome",
+      "flavor": "verse",
+      "count": 10,
+      "works": 9
+    },
+    {
+      "occasion": "dating",
+      "purpose": "welcome",
+      "flavor": "fun",
+      "count": 4,
+      "works": 4
+    },
+    {
+      "occasion": "dating",
+      "purpose": "welcome",
+      "flavor": "formal",
+      "count": 6,
+      "works": 6
+    },
+    {
+      "occasion": "dating",
+      "purpose": "closing",
+      "flavor": "verse",
+      "count": 10,
+      "works": 9
+    },
+    {
+      "occasion": "dating",
+      "purpose": "closing",
+      "flavor": "fun",
+      "count": 3,
+      "works": 3
+    },
+    {
+      "occasion": "dating",
+      "purpose": "closing",
+      "flavor": "formal",
+      "count": 7,
+      "works": 7
+    },
+    {
+      "occasion": "dating",
+      "purpose": "farewell",
+      "flavor": "verse",
+      "count": 10,
+      "works": 9
+    },
+    {
+      "occasion": "dating",
+      "purpose": "farewell",
+      "flavor": "fun",
+      "count": 4,
+      "works": 4
+    },
+    {
+      "occasion": "dating",
+      "purpose": "farewell",
+      "flavor": "formal",
+      "count": 6,
+      "works": 6
+    },
+    {
+      "occasion": "dating",
+      "purpose": "gratitude",
+      "flavor": "verse",
+      "count": 8,
+      "works": 8
+    },
+    {
+      "occasion": "dating",
+      "purpose": "gratitude",
+      "flavor": "fun",
+      "count": 3,
+      "works": 3
+    },
+    {
+      "occasion": "dating",
+      "purpose": "gratitude",
+      "flavor": "formal",
+      "count": 5,
+      "works": 5
+    },
+    {
+      "occasion": "dating",
+      "purpose": "finish",
+      "flavor": "verse",
+      "count": 8,
+      "works": 8
+    },
+    {
+      "occasion": "dating",
+      "purpose": "finish",
+      "flavor": "fun",
+      "count": 2,
+      "works": 2
+    },
+    {
+      "occasion": "dating",
+      "purpose": "finish",
+      "flavor": "formal",
+      "count": 6,
+      "works": 6
+    }
+  ],
+  "routes": {
+    "general-verse-01": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "spoken-table-04": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "spoken-table-06": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-bai-invite": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-li-askmoon": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-li-rest": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-bai-city": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-qian-tea": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-02-1": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-08-1": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-10-1": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-16-1": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-18-1": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-20-1": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-24-1": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-08-1": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-09-1": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-12-1": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-357-2": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-687-2": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-1001-2": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-04-2": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-19-2": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-26-2": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-17-2": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-18-2": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-20-1": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-zhang-autumn": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-du-lamplight-table": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-bai-moonfriend": [
+      "直接给我一句 / 敬大家 / 诗意自然 / table / 2026-09-25",
+      "直接给我一句 / 敬大家 / 郑重得体 / table / 2026-09-25"
+    ],
+    "general-03": [
+      "直接给我一句 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-table-07": [
+      "直接给我一句 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-table-08": [
+      "直接给我一句 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-table-11": [
+      "直接给我一句 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-table-12": [
+      "直接给我一句 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "culture-rescue-01": [
+      "直接给我一句 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "general-01": [
+      "直接给我一句 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "general-02": [
+      "直接给我一句 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-table-01": [
+      "直接给我一句 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-table-02": [
+      "直接给我一句 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-table-03": [
+      "直接给我一句 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-table-09": [
+      "直接给我一句 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "culture-table-01": [
+      "直接给我一句 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "直接给我一句 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "直接给我一句 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "c05-general-personal-1": [
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-10-29",
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-01-15",
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-04-15"
+    ],
+    "c05-general-personal-2": [
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-10-29",
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-01-15",
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-04-15"
+    ],
+    "c06-sweet-personal": [
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-10-29",
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-01-15",
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-04-15"
+    ],
+    "c06-eyes-personal": [
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-10-29",
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-01-15",
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-04-15"
+    ],
+    "c06-spring-personal": [
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-10-29",
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-01-15",
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-04-15"
+    ],
+    "c06-boat-personal": [
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-10-29",
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-01-15",
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-04-15"
+    ],
+    "c06-gull-personal": [
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-10-29",
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-01-15",
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-04-15"
+    ],
+    "c06-cloud-personal": [
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-10-29",
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-01-15",
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-04-15"
+    ],
+    "c06-pine-personal": [
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-10-29",
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-01-15",
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-04-15"
+    ],
+    "c06-path-personal": [
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-10-29",
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-01-15",
+      "直接给我一句 / 单独敬一位 / 诗意自然 / person / 2026-04-15"
+    ],
+    "spoken-reply-06": [
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-liu-renew": [
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-xu-light-reply": [
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-44-2": [
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-702-2": [
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-991-2": [
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-sweet-reply": [
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-eyes-reply": [
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-spring-reply": [
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-boat-reply": [
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-gull-reply": [
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-cloud-reply": [
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-pine-reply": [
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-path-reply": [
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "reply-01": [
+      "直接给我一句 / 接一句祝福 / 郑重得体 / table / 2026-10-29",
+      "直接给我一句 / 接一句祝福 / 郑重得体 / table / 2026-01-15",
+      "直接给我一句 / 接一句祝福 / 郑重得体 / table / 2026-04-15"
+    ],
+    "reply-02": [
+      "直接给我一句 / 接一句祝福 / 郑重得体 / table / 2026-10-29",
+      "直接给我一句 / 接一句祝福 / 郑重得体 / table / 2026-01-15",
+      "直接给我一句 / 接一句祝福 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-reply-03": [
+      "直接给我一句 / 接一句祝福 / 郑重得体 / table / 2026-10-29",
+      "直接给我一句 / 接一句祝福 / 郑重得体 / table / 2026-01-15",
+      "直接给我一句 / 接一句祝福 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-reply-09": [
+      "直接给我一句 / 接一句祝福 / 郑重得体 / table / 2026-10-29",
+      "直接给我一句 / 接一句祝福 / 郑重得体 / table / 2026-01-15",
+      "直接给我一句 / 接一句祝福 / 郑重得体 / table / 2026-04-15"
+    ],
+    "thanks-verse-02": [
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "spoken-guest-04": [
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "verse-wang-welcome": [
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "verse-qian-tea-guest": [
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "r04-ci-09-1": [
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "r04-shi-1074-2": [
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "r04-story-05-2": [
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "r04-story-13-2": [
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "r04-story-23-2": [
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "c06-sweet-thanks": [
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "c06-eyes-thanks": [
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "c06-spring-thanks": [
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "c06-boat-thanks": [
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "c06-gull-thanks": [
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "c06-cloud-thanks": [
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "c06-pine-thanks": [
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "c06-path-thanks": [
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "直接给我一句 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "spoken-guest-12": [
+      "直接给我一句 / 感谢款待 / 轻松有趣 / host / 2026-10-29",
+      "直接给我一句 / 感谢款待 / 轻松有趣 / host / 2026-01-15",
+      "直接给我一句 / 感谢款待 / 轻松有趣 / host / 2026-04-15"
+    ],
+    "spoken-guest-08": [
+      "直接给我一句 / 感谢款待 / 轻松有趣 / host / 2026-10-29",
+      "直接给我一句 / 感谢款待 / 轻松有趣 / host / 2026-01-15",
+      "直接给我一句 / 感谢款待 / 轻松有趣 / host / 2026-04-15"
+    ],
+    "thanks-host-01": [
+      "直接给我一句 / 感谢款待 / 郑重得体 / host / 2026-10-29",
+      "直接给我一句 / 感谢款待 / 郑重得体 / host / 2026-01-15",
+      "直接给我一句 / 感谢款待 / 郑重得体 / host / 2026-04-15"
+    ],
+    "spoken-guest-01": [
+      "直接给我一句 / 感谢款待 / 郑重得体 / host / 2026-10-29",
+      "直接给我一句 / 感谢款待 / 郑重得体 / host / 2026-01-15",
+      "直接给我一句 / 感谢款待 / 郑重得体 / host / 2026-04-15"
+    ],
+    "spoken-guest-02": [
+      "直接给我一句 / 感谢款待 / 郑重得体 / host / 2026-10-29",
+      "直接给我一句 / 感谢款待 / 郑重得体 / host / 2026-01-15",
+      "直接给我一句 / 感谢款待 / 郑重得体 / host / 2026-04-15"
+    ],
+    "spoken-guest-03": [
+      "直接给我一句 / 感谢款待 / 郑重得体 / host / 2026-10-29",
+      "直接给我一句 / 感谢款待 / 郑重得体 / host / 2026-01-15",
+      "直接给我一句 / 感谢款待 / 郑重得体 / host / 2026-04-15"
+    ],
+    "spoken-guest-09": [
+      "直接给我一句 / 感谢款待 / 郑重得体 / host / 2026-10-29",
+      "直接给我一句 / 感谢款待 / 郑重得体 / host / 2026-01-15",
+      "直接给我一句 / 感谢款待 / 郑重得体 / host / 2026-04-15"
+    ],
+    "host-01": [
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "host-02": [
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "spoken-host-04": [
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-li-spring": [
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-du-guest": [
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-zhang-world": [
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-683-1": [
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-687-1": [
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-706-1": [
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-13-1": [
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-sweet-welcome": [
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-eyes-welcome": [
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-spring-welcome": [
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-boat-welcome": [
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-gull-welcome": [
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-cloud-welcome": [
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-pine-welcome": [
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-path-welcome": [
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-469-1": [
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-li-askmoon-midautumn": [
+      "直接给我一句 / 主人开场 / 诗意自然 / table / 2026-09-25",
+      "直接给我一句 / 主人开场 / 郑重得体 / table / 2026-09-25",
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-09-25"
+    ],
+    "spoken-host-02": [
+      "直接给我一句 / 主人开场 / 郑重得体 / table / 2026-10-29",
+      "直接给我一句 / 主人开场 / 郑重得体 / table / 2026-01-15",
+      "直接给我一句 / 主人开场 / 郑重得体 / table / 2026-04-15"
+    ],
+    "r04-shi-1192-2": [
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-01-2": [
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-07-2": [
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-12-2": [
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-sweet-closing": [
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-eyes-closing": [
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-spring-closing": [
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-boat-closing": [
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-gull-closing": [
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-cloud-closing": [
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-pine-closing": [
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-path-closing": [
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-765-1": [
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-01-1": [
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-05-1": [
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-06-1": [
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-07-1": [
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-sweet-farewell": [
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-eyes-farewell": [
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-spring-farewell": [
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-boat-farewell": [
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-gull-farewell": [
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-cloud-farewell": [
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-pine-farewell": [
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-path-farewell": [
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-dai-reunion-farewell": [
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "farewell-01": [
+      "直接给我一句 / 送别珍重 / 郑重得体 / table / 2026-10-29",
+      "直接给我一句 / 送别珍重 / 郑重得体 / table / 2026-01-15",
+      "直接给我一句 / 送别珍重 / 郑重得体 / table / 2026-04-15"
+    ],
+    "farewell-02": [
+      "直接给我一句 / 送别珍重 / 郑重得体 / table / 2026-10-29",
+      "直接给我一句 / 送别珍重 / 郑重得体 / table / 2026-01-15",
+      "直接给我一句 / 送别珍重 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-farewell-02": [
+      "直接给我一句 / 送别珍重 / 郑重得体 / table / 2026-10-29",
+      "直接给我一句 / 送别珍重 / 郑重得体 / table / 2026-01-15",
+      "直接给我一句 / 送别珍重 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-thanks-06": [
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-wei-kindness": [
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-cha-stars-thanks": [
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-qian-tea-thanks": [
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-710-1": [
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-311-2": [
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-339-2": [
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-697-2": [
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-01-2": [
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-10-2": [
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-sweet-gratitude": [
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-eyes-gratitude": [
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-spring-gratitude": [
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-boat-gratitude": [
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-gull-gratitude": [
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-cloud-gratitude": [
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-pine-gratitude": [
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-path-gratitude": [
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 诗意自然 / table / 2026-04-15"
+    ],
+    "spoken-thanks-07": [
+      "直接给我一句 / 感谢帮助 / 轻松有趣 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 轻松有趣 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-thanks-08": [
+      "直接给我一句 / 感谢帮助 / 轻松有趣 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 轻松有趣 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-thanks-11": [
+      "直接给我一句 / 感谢帮助 / 轻松有趣 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 轻松有趣 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-thanks-12": [
+      "直接给我一句 / 感谢帮助 / 轻松有趣 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 轻松有趣 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "thanks-01": [
+      "直接给我一句 / 感谢帮助 / 郑重得体 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 郑重得体 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-thanks-01": [
+      "直接给我一句 / 感谢帮助 / 郑重得体 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 郑重得体 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-thanks-02": [
+      "直接给我一句 / 感谢帮助 / 郑重得体 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 郑重得体 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-thanks-03": [
+      "直接给我一句 / 感谢帮助 / 郑重得体 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 郑重得体 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-thanks-09": [
+      "直接给我一句 / 感谢帮助 / 郑重得体 / table / 2026-10-29",
+      "直接给我一句 / 感谢帮助 / 郑重得体 / table / 2026-01-15",
+      "直接给我一句 / 感谢帮助 / 郑重得体 / table / 2026-04-15"
+    ],
+    "closing-verse-01": [
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-04-15"
+    ],
+    "spoken-closing-04": [
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-04-15"
+    ],
+    "spoken-closing-05": [
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-04-15"
+    ],
+    "spoken-closing-06": [
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-04-15"
+    ],
+    "spoken-closing-10": [
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-li-stars": [
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-li-flower": [
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-sweet-finish": [
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-eyes-finish": [
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-spring-finish": [
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-boat-finish": [
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-gull-finish": [
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-cloud-finish": [
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-pine-finish": [
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c06-path-finish": [
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-10-29",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-01-15",
+      "直接给我一句 / 结束发言 / 诗意自然 / table / 2026-04-15"
+    ],
+    "closing-02": [
+      "直接给我一句 / 结束发言 / 轻松有趣 / table / 2026-10-29",
+      "直接给我一句 / 结束发言 / 轻松有趣 / table / 2026-01-15",
+      "直接给我一句 / 结束发言 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-closing-07": [
+      "直接给我一句 / 结束发言 / 轻松有趣 / table / 2026-10-29",
+      "直接给我一句 / 结束发言 / 轻松有趣 / table / 2026-01-15",
+      "直接给我一句 / 结束发言 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-closing-08": [
+      "直接给我一句 / 结束发言 / 轻松有趣 / table / 2026-10-29",
+      "直接给我一句 / 结束发言 / 轻松有趣 / table / 2026-01-15",
+      "直接给我一句 / 结束发言 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-closing-11": [
+      "直接给我一句 / 结束发言 / 轻松有趣 / table / 2026-10-29",
+      "直接给我一句 / 结束发言 / 轻松有趣 / table / 2026-01-15",
+      "直接给我一句 / 结束发言 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-closing-12": [
+      "直接给我一句 / 结束发言 / 轻松有趣 / table / 2026-10-29",
+      "直接给我一句 / 结束发言 / 轻松有趣 / table / 2026-01-15",
+      "直接给我一句 / 结束发言 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "closing-01": [
+      "直接给我一句 / 结束发言 / 郑重得体 / table / 2026-10-29",
+      "直接给我一句 / 结束发言 / 郑重得体 / table / 2026-01-15",
+      "直接给我一句 / 结束发言 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-closing-01": [
+      "直接给我一句 / 结束发言 / 郑重得体 / table / 2026-10-29",
+      "直接给我一句 / 结束发言 / 郑重得体 / table / 2026-01-15",
+      "直接给我一句 / 结束发言 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-closing-02": [
+      "直接给我一句 / 结束发言 / 郑重得体 / table / 2026-10-29",
+      "直接给我一句 / 结束发言 / 郑重得体 / table / 2026-01-15",
+      "直接给我一句 / 结束发言 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-closing-03": [
+      "直接给我一句 / 结束发言 / 郑重得体 / table / 2026-10-29",
+      "直接给我一句 / 结束发言 / 郑重得体 / table / 2026-01-15",
+      "直接给我一句 / 结束发言 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-closing-09": [
+      "直接给我一句 / 结束发言 / 郑重得体 / table / 2026-10-29",
+      "直接给我一句 / 结束发言 / 郑重得体 / table / 2026-01-15",
+      "直接给我一句 / 结束发言 / 郑重得体 / table / 2026-04-15"
+    ],
+    "friends-01": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "friends-02": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "friends-03": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-09-25",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-18"
+    ],
+    "spoken-friends-04": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "spoken-friends-05": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "spoken-friends-06": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "spoken-friends-10": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-su-cupmoon": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-li-mountain": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-du-lamplight": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-bai-next": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-wei-reunion": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-cen-joke": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-tao-neighbor": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-tao-friend": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-huang-friend": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-dai-reunion": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-bai-invite-friends": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-357-1": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-649-1": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-697-1": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-1223-1": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-03-1": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-04-1": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-13-1": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-19-1": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-21-1": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-22-1": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-01-1": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-04-1": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-18-1": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-232-2": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-02-2": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-16-2": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-23-2": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-24-2": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-19-2": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-12-1": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-06-1": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-14-1": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-21-1": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-22-1": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-15-1": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-26-1": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-27-1": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-17-1": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-chen-night": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-bai-moonfriend-friends": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-09-25",
+      "朋友聚会 / 敬大家 / 郑重得体 / table / 2026-09-25"
+    ],
+    "verse-meng-ninth": [
+      "朋友聚会 / 敬大家 / 诗意自然 / table / 2026-10-18",
+      "朋友聚会 / 敬大家 / 郑重得体 / table / 2026-10-18"
+    ],
+    "spoken-friends-07": [
+      "朋友聚会 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-friends-08": [
+      "朋友聚会 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-friends-11": [
+      "朋友聚会 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-friends-12": [
+      "朋友聚会 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "culture-friends-02": [
+      "朋友聚会 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-friends-01": [
+      "朋友聚会 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-friends-02": [
+      "朋友聚会 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-friends-03": [
+      "朋友聚会 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-friends-09": [
+      "朋友聚会 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "culture-friends-01": [
+      "朋友聚会 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "朋友聚会 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "朋友聚会 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "c05-friends-personal-1": [
+      "朋友聚会 / 单独敬一位 / 诗意自然 / person / 2026-10-29",
+      "朋友聚会 / 单独敬一位 / 诗意自然 / person / 2026-01-15",
+      "朋友聚会 / 单独敬一位 / 诗意自然 / person / 2026-04-15"
+    ],
+    "c05-friends-personal-2": [
+      "朋友聚会 / 单独敬一位 / 诗意自然 / person / 2026-10-29",
+      "朋友聚会 / 单独敬一位 / 诗意自然 / person / 2026-01-15",
+      "朋友聚会 / 单独敬一位 / 诗意自然 / person / 2026-04-15"
+    ],
+    "verse-wei-kindness-reply": [
+      "朋友聚会 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-706-2": [
+      "朋友聚会 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-13-2": [
+      "朋友聚会 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-22-2": [
+      "朋友聚会 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-12-2": [
+      "朋友聚会 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-20-2": [
+      "朋友聚会 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-friends-reply-1": [
+      "朋友聚会 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-friends-reply-2": [
+      "朋友聚会 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "spoken-reply-07": [
+      "朋友聚会 / 接一句祝福 / 轻松有趣 / table / 2026-10-29",
+      "朋友聚会 / 接一句祝福 / 轻松有趣 / table / 2026-01-15",
+      "朋友聚会 / 接一句祝福 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-reply-11": [
+      "朋友聚会 / 接一句祝福 / 轻松有趣 / table / 2026-10-29",
+      "朋友聚会 / 接一句祝福 / 轻松有趣 / table / 2026-01-15",
+      "朋友聚会 / 接一句祝福 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-reply-12": [
+      "朋友聚会 / 接一句祝福 / 轻松有趣 / table / 2026-10-29",
+      "朋友聚会 / 接一句祝福 / 轻松有趣 / table / 2026-01-15",
+      "朋友聚会 / 接一句祝福 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-reply-08": [
+      "朋友聚会 / 接一句祝福 / 轻松有趣 / table / 2026-10-29",
+      "朋友聚会 / 接一句祝福 / 轻松有趣 / table / 2026-01-15",
+      "朋友聚会 / 接一句祝福 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-reply-01": [
+      "朋友聚会 / 接一句祝福 / 郑重得体 / table / 2026-10-29",
+      "朋友聚会 / 接一句祝福 / 郑重得体 / table / 2026-01-15",
+      "朋友聚会 / 接一句祝福 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-reply-02": [
+      "朋友聚会 / 接一句祝福 / 郑重得体 / table / 2026-10-29",
+      "朋友聚会 / 接一句祝福 / 郑重得体 / table / 2026-01-15",
+      "朋友聚会 / 接一句祝福 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-guest-06": [
+      "朋友聚会 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "朋友聚会 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "朋友聚会 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "spoken-guest-10": [
+      "朋友聚会 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "朋友聚会 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "朋友聚会 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "verse-su-flower": [
+      "朋友聚会 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "朋友聚会 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "朋友聚会 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "r04-shi-469-2": [
+      "朋友聚会 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "朋友聚会 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "朋友聚会 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "r04-shi-683-2": [
+      "朋友聚会 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "朋友聚会 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "朋友聚会 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "c05-friends-thanks-1": [
+      "朋友聚会 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "朋友聚会 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "朋友聚会 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "c05-friends-thanks-2": [
+      "朋友聚会 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "朋友聚会 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "朋友聚会 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "spoken-guest-07": [
+      "朋友聚会 / 感谢款待 / 轻松有趣 / host / 2026-10-29",
+      "朋友聚会 / 感谢款待 / 轻松有趣 / host / 2026-01-15",
+      "朋友聚会 / 感谢款待 / 轻松有趣 / host / 2026-04-15"
+    ],
+    "spoken-guest-11": [
+      "朋友聚会 / 感谢款待 / 轻松有趣 / host / 2026-10-29",
+      "朋友聚会 / 感谢款待 / 轻松有趣 / host / 2026-01-15",
+      "朋友聚会 / 感谢款待 / 轻松有趣 / host / 2026-04-15"
+    ],
+    "spoken-host-05": [
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "spoken-host-10": [
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-bai-fire": [
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-wang-lake": [
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-1074-1": [
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-05-1": [
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-03-2": [
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-09-2": [
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-21-2": [
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-friends-welcome-1": [
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-friends-welcome-2": [
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-23-1": [
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "host-03": [
+      "朋友聚会 / 主人开场 / 轻松有趣 / table / 2026-10-29",
+      "朋友聚会 / 主人开场 / 轻松有趣 / table / 2026-01-15",
+      "朋友聚会 / 主人开场 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-host-07": [
+      "朋友聚会 / 主人开场 / 轻松有趣 / table / 2026-10-29",
+      "朋友聚会 / 主人开场 / 轻松有趣 / table / 2026-01-15",
+      "朋友聚会 / 主人开场 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-host-08": [
+      "朋友聚会 / 主人开场 / 轻松有趣 / table / 2026-10-29",
+      "朋友聚会 / 主人开场 / 轻松有趣 / table / 2026-01-15",
+      "朋友聚会 / 主人开场 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-host-11": [
+      "朋友聚会 / 主人开场 / 轻松有趣 / table / 2026-10-29",
+      "朋友聚会 / 主人开场 / 轻松有趣 / table / 2026-01-15",
+      "朋友聚会 / 主人开场 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-host-12": [
+      "朋友聚会 / 主人开场 / 轻松有趣 / table / 2026-10-29",
+      "朋友聚会 / 主人开场 / 轻松有趣 / table / 2026-01-15",
+      "朋友聚会 / 主人开场 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-host-01": [
+      "朋友聚会 / 主人开场 / 郑重得体 / table / 2026-10-29",
+      "朋友聚会 / 主人开场 / 郑重得体 / table / 2026-01-15",
+      "朋友聚会 / 主人开场 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-host-03": [
+      "朋友聚会 / 主人开场 / 郑重得体 / table / 2026-10-29",
+      "朋友聚会 / 主人开场 / 郑重得体 / table / 2026-01-15",
+      "朋友聚会 / 主人开场 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-host-09": [
+      "朋友聚会 / 主人开场 / 郑重得体 / table / 2026-10-29",
+      "朋友聚会 / 主人开场 / 郑重得体 / table / 2026-01-15",
+      "朋友聚会 / 主人开场 / 郑重得体 / table / 2026-04-15"
+    ],
+    "r04-shi-765-2": [
+      "朋友聚会 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-05-2": [
+      "朋友聚会 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-15-2": [
+      "朋友聚会 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-28-2": [
+      "朋友聚会 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-friends-closing-1": [
+      "朋友聚会 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-friends-closing-2": [
+      "朋友聚会 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "farewell-verse-03": [
+      "朋友聚会 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "spoken-farewell-06": [
+      "朋友聚会 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-24-1": [
+      "朋友聚会 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-28-1": [
+      "朋友聚会 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-friends-farewell-1": [
+      "朋友聚会 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-friends-farewell-2": [
+      "朋友聚会 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-ou-calm-farewell": [
+      "朋友聚会 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-wang-same": [
+      "朋友聚会 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "朋友聚会 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "朋友聚会 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "farewell-03": [
+      "朋友聚会 / 送别珍重 / 轻松有趣 / table / 2026-10-29",
+      "朋友聚会 / 送别珍重 / 轻松有趣 / table / 2026-01-15",
+      "朋友聚会 / 送别珍重 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-farewell-07": [
+      "朋友聚会 / 送别珍重 / 轻松有趣 / table / 2026-10-29",
+      "朋友聚会 / 送别珍重 / 轻松有趣 / table / 2026-01-15",
+      "朋友聚会 / 送别珍重 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-farewell-08": [
+      "朋友聚会 / 送别珍重 / 轻松有趣 / table / 2026-10-29",
+      "朋友聚会 / 送别珍重 / 轻松有趣 / table / 2026-01-15",
+      "朋友聚会 / 送别珍重 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-farewell-11": [
+      "朋友聚会 / 送别珍重 / 轻松有趣 / table / 2026-10-29",
+      "朋友聚会 / 送别珍重 / 轻松有趣 / table / 2026-01-15",
+      "朋友聚会 / 送别珍重 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-farewell-12": [
+      "朋友聚会 / 送别珍重 / 轻松有趣 / table / 2026-10-29",
+      "朋友聚会 / 送别珍重 / 轻松有趣 / table / 2026-01-15",
+      "朋友聚会 / 送别珍重 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-farewell-01": [
+      "朋友聚会 / 送别珍重 / 郑重得体 / table / 2026-10-29",
+      "朋友聚会 / 送别珍重 / 郑重得体 / table / 2026-01-15",
+      "朋友聚会 / 送别珍重 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-farewell-03": [
+      "朋友聚会 / 送别珍重 / 郑重得体 / table / 2026-10-29",
+      "朋友聚会 / 送别珍重 / 郑重得体 / table / 2026-01-15",
+      "朋友聚会 / 送别珍重 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-farewell-09": [
+      "朋友聚会 / 送别珍重 / 郑重得体 / table / 2026-10-29",
+      "朋友聚会 / 送别珍重 / 郑重得体 / table / 2026-01-15",
+      "朋友聚会 / 送别珍重 / 郑重得体 / table / 2026-04-15"
+    ],
+    "work-verse-02": [
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "spoken-colleagues-05": [
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-bai-history": [
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-tao-reading": [
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-655-1": [
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-702-1": [
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-987-1": [
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-11-1": [
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-16-1": [
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-637-2": [
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-10-2": [
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-11-2": [
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-20-2": [
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-03-2": [
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-04-2": [
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-22-2": [
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-758-1": [
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-lu-tea": [
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "work-table-03": [
+      "同事聚餐 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-colleagues-07": [
+      "同事聚餐 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-colleagues-08": [
+      "同事聚餐 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-colleagues-12": [
+      "同事聚餐 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "culture-work-01": [
+      "同事聚餐 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-colleagues-11": [
+      "同事聚餐 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "work-table-01": [
+      "同事聚餐 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "work-table-02": [
+      "同事聚餐 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-colleagues-01": [
+      "同事聚餐 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-colleagues-02": [
+      "同事聚餐 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-colleagues-03": [
+      "同事聚餐 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-colleagues-09": [
+      "同事聚餐 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "同事聚餐 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "同事聚餐 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-leader-06": [
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-10-29",
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-01-15",
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-04-15"
+    ],
+    "verse-su-breeze": [
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-10-29",
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-01-15",
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-04-15"
+    ],
+    "verse-li-rest-leader": [
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-10-29",
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-01-15",
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-04-15"
+    ],
+    "verse-tao-reading-leader": [
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-10-29",
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-01-15",
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-04-15"
+    ],
+    "verse-bai-history-leader": [
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-10-29",
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-01-15",
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-04-15"
+    ],
+    "r04-shi-637-1": [
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-10-29",
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-01-15",
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-04-15"
+    ],
+    "r04-shi-691-1": [
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-10-29",
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-01-15",
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-04-15"
+    ],
+    "r04-story-02-1": [
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-10-29",
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-01-15",
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-04-15"
+    ],
+    "r04-shi-710-2": [
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-10-29",
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-01-15",
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-04-15"
+    ],
+    "r04-story-11-2": [
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-10-29",
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-01-15",
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-04-15"
+    ],
+    "r04-story-16-2": [
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-10-29",
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-01-15",
+      "同事聚餐 / 单独敬一位 / 诗意自然 / leader / 2026-04-15"
+    ],
+    "c05-work-personal-1": [
+      "同事聚餐 / 单独敬一位 / 诗意自然 / person / 2026-10-29",
+      "同事聚餐 / 单独敬一位 / 诗意自然 / person / 2026-01-15",
+      "同事聚餐 / 单独敬一位 / 诗意自然 / person / 2026-04-15"
+    ],
+    "c05-work-personal-2": [
+      "同事聚餐 / 单独敬一位 / 诗意自然 / person / 2026-10-29",
+      "同事聚餐 / 单独敬一位 / 诗意自然 / person / 2026-01-15",
+      "同事聚餐 / 单独敬一位 / 诗意自然 / person / 2026-04-15"
+    ],
+    "spoken-leader-08": [
+      "同事聚餐 / 单独敬一位 / 轻松有趣 / leader / 2026-10-29",
+      "同事聚餐 / 单独敬一位 / 轻松有趣 / leader / 2026-01-15",
+      "同事聚餐 / 单独敬一位 / 轻松有趣 / leader / 2026-04-15"
+    ],
+    "spoken-leader-11": [
+      "同事聚餐 / 单独敬一位 / 轻松有趣 / leader / 2026-10-29",
+      "同事聚餐 / 单独敬一位 / 轻松有趣 / leader / 2026-01-15",
+      "同事聚餐 / 单独敬一位 / 轻松有趣 / leader / 2026-04-15"
+    ],
+    "spoken-leader-12": [
+      "同事聚餐 / 单独敬一位 / 轻松有趣 / leader / 2026-10-29",
+      "同事聚餐 / 单独敬一位 / 轻松有趣 / leader / 2026-01-15",
+      "同事聚餐 / 单独敬一位 / 轻松有趣 / leader / 2026-04-15"
+    ],
+    "work-leader-03": [
+      "同事聚餐 / 单独敬一位 / 轻松有趣 / leader / 2026-10-29",
+      "同事聚餐 / 单独敬一位 / 轻松有趣 / leader / 2026-01-15",
+      "同事聚餐 / 单独敬一位 / 轻松有趣 / leader / 2026-04-15"
+    ],
+    "spoken-leader-07": [
+      "同事聚餐 / 单独敬一位 / 轻松有趣 / leader / 2026-10-29",
+      "同事聚餐 / 单独敬一位 / 轻松有趣 / leader / 2026-01-15",
+      "同事聚餐 / 单独敬一位 / 轻松有趣 / leader / 2026-04-15"
+    ],
+    "work-leader-02": [
+      "同事聚餐 / 单独敬一位 / 郑重得体 / leader / 2026-10-29",
+      "同事聚餐 / 单独敬一位 / 郑重得体 / leader / 2026-01-15",
+      "同事聚餐 / 单独敬一位 / 郑重得体 / leader / 2026-04-15"
+    ],
+    "spoken-leader-01": [
+      "同事聚餐 / 单独敬一位 / 郑重得体 / leader / 2026-10-29",
+      "同事聚餐 / 单独敬一位 / 郑重得体 / leader / 2026-01-15",
+      "同事聚餐 / 单独敬一位 / 郑重得体 / leader / 2026-04-15"
+    ],
+    "spoken-leader-02": [
+      "同事聚餐 / 单独敬一位 / 郑重得体 / leader / 2026-10-29",
+      "同事聚餐 / 单独敬一位 / 郑重得体 / leader / 2026-01-15",
+      "同事聚餐 / 单独敬一位 / 郑重得体 / leader / 2026-04-15"
+    ],
+    "spoken-leader-03": [
+      "同事聚餐 / 单独敬一位 / 郑重得体 / leader / 2026-10-29",
+      "同事聚餐 / 单独敬一位 / 郑重得体 / leader / 2026-01-15",
+      "同事聚餐 / 单独敬一位 / 郑重得体 / leader / 2026-04-15"
+    ],
+    "spoken-leader-09": [
+      "同事聚餐 / 单独敬一位 / 郑重得体 / leader / 2026-10-29",
+      "同事聚餐 / 单独敬一位 / 郑重得体 / leader / 2026-01-15",
+      "同事聚餐 / 单独敬一位 / 郑重得体 / leader / 2026-04-15"
+    ],
+    "culture-leader-01": [
+      "同事聚餐 / 单独敬一位 / 郑重得体 / leader / 2026-10-29",
+      "同事聚餐 / 单独敬一位 / 郑重得体 / leader / 2026-01-15",
+      "同事聚餐 / 单独敬一位 / 郑重得体 / leader / 2026-04-15"
+    ],
+    "work-leader-01": [
+      "同事聚餐 / 单独敬一位 / 郑重得体 / leader / 2026-10-29",
+      "同事聚餐 / 单独敬一位 / 郑重得体 / leader / 2026-01-15",
+      "同事聚餐 / 单独敬一位 / 郑重得体 / leader / 2026-04-15"
+    ],
+    "c05-work-reply-1": [
+      "同事聚餐 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "同事聚餐 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "同事聚餐 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-work-reply-2": [
+      "同事聚餐 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "同事聚餐 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "同事聚餐 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-work-thanks-1": [
+      "同事聚餐 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "同事聚餐 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "同事聚餐 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "c05-work-thanks-2": [
+      "同事聚餐 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "同事聚餐 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "同事聚餐 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "c05-work-welcome-1": [
+      "同事聚餐 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "同事聚餐 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "同事聚餐 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-work-welcome-2": [
+      "同事聚餐 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "同事聚餐 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "同事聚餐 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-work-closing-1": [
+      "同事聚餐 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "同事聚餐 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "同事聚餐 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-work-closing-2": [
+      "同事聚餐 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "同事聚餐 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "同事聚餐 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-work-farewell-1": [
+      "同事聚餐 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "同事聚餐 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "同事聚餐 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-work-farewell-2": [
+      "同事聚餐 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "同事聚餐 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "同事聚餐 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "family-verse-02": [
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "spoken-family-04": [
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "spoken-family-05": [
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "spoken-family-06": [
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "spoken-family-10": [
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-du-meal": [
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-su-tea": [
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-642-1": [
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-1185-1": [
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-17-1": [
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-23-1": [
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-10-1": [
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-06-2": [
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-08-2": [
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-14-2": [
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-27-2": [
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-07-2": [
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-08-2": [
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-03-1": [
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-311-1": [
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-335-1": [
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-su-midautumn": [
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-09-25",
+      "家庭聚会 / 敬大家 / 郑重得体 / table / 2026-09-25"
+    ],
+    "verse-du-ninth": [
+      "家庭聚会 / 敬大家 / 诗意自然 / table / 2026-10-18",
+      "家庭聚会 / 敬大家 / 郑重得体 / table / 2026-10-18"
+    ],
+    "family-03": [
+      "家庭聚会 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-family-07": [
+      "家庭聚会 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-family-12": [
+      "家庭聚会 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "culture-family-02": [
+      "家庭聚会 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-family-08": [
+      "家庭聚会 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-family-11": [
+      "家庭聚会 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "family-02": [
+      "家庭聚会 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-family-01": [
+      "家庭聚会 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-family-02": [
+      "家庭聚会 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-family-03": [
+      "家庭聚会 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-family-09": [
+      "家庭聚会 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "culture-family-01": [
+      "家庭聚会 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "家庭聚会 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "家庭聚会 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "family-verse-01": [
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-04-15"
+    ],
+    "spoken-elders-04": [
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-04-15"
+    ],
+    "spoken-elders-05": [
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-04-15"
+    ],
+    "spoken-elders-06": [
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-04-15"
+    ],
+    "spoken-elders-10": [
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-04-15"
+    ],
+    "verse-li-followmoon": [
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-04-15"
+    ],
+    "verse-du-lamplight-elder": [
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-04-15"
+    ],
+    "r04-shi-44-1": [
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-04-15"
+    ],
+    "r04-shi-991-1": [
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-04-15"
+    ],
+    "r04-shi-1192-1": [
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-04-15"
+    ],
+    "r04-story-07-1": [
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-04-15"
+    ],
+    "r04-shi-335-2": [
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-04-15"
+    ],
+    "r04-shi-655-2": [
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-04-15"
+    ],
+    "r04-shi-691-2": [
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-04-15"
+    ],
+    "r04-shi-1185-2": [
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-04-15"
+    ],
+    "r04-ci-17-2": [
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-04-15"
+    ],
+    "r04-ci-21-2": [
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-04-15"
+    ],
+    "r04-story-02-2": [
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-04-15"
+    ],
+    "r04-ci-11-1": [
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-04-15"
+    ],
+    "verse-su-midautumn-elder": [
+      "家庭聚会 / 单独敬一位 / 诗意自然 / elder / 2026-09-25",
+      "家庭聚会 / 单独敬一位 / 郑重得体 / elder / 2026-09-25"
+    ],
+    "c05-family-personal-1": [
+      "家庭聚会 / 单独敬一位 / 诗意自然 / person / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / person / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / person / 2026-04-15"
+    ],
+    "c05-family-personal-2": [
+      "家庭聚会 / 单独敬一位 / 诗意自然 / person / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / person / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 诗意自然 / person / 2026-04-15"
+    ],
+    "spoken-elders-08": [
+      "家庭聚会 / 单独敬一位 / 轻松有趣 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 轻松有趣 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 轻松有趣 / elder / 2026-04-15"
+    ],
+    "spoken-elders-12": [
+      "家庭聚会 / 单独敬一位 / 轻松有趣 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 轻松有趣 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 轻松有趣 / elder / 2026-04-15"
+    ],
+    "spoken-elders-07": [
+      "家庭聚会 / 单独敬一位 / 轻松有趣 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 轻松有趣 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 轻松有趣 / elder / 2026-04-15"
+    ],
+    "spoken-elders-11": [
+      "家庭聚会 / 单独敬一位 / 轻松有趣 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 轻松有趣 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 轻松有趣 / elder / 2026-04-15"
+    ],
+    "family-elder-01": [
+      "家庭聚会 / 单独敬一位 / 郑重得体 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 郑重得体 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 郑重得体 / elder / 2026-04-15"
+    ],
+    "spoken-elders-02": [
+      "家庭聚会 / 单独敬一位 / 郑重得体 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 郑重得体 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 郑重得体 / elder / 2026-04-15"
+    ],
+    "spoken-elders-09": [
+      "家庭聚会 / 单独敬一位 / 郑重得体 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 郑重得体 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 郑重得体 / elder / 2026-04-15"
+    ],
+    "spoken-elders-01": [
+      "家庭聚会 / 单独敬一位 / 郑重得体 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 郑重得体 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 郑重得体 / elder / 2026-04-15"
+    ],
+    "spoken-elders-03": [
+      "家庭聚会 / 单独敬一位 / 郑重得体 / elder / 2026-10-29",
+      "家庭聚会 / 单独敬一位 / 郑重得体 / elder / 2026-01-15",
+      "家庭聚会 / 单独敬一位 / 郑重得体 / elder / 2026-04-15"
+    ],
+    "c05-family-reply-1": [
+      "家庭聚会 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-family-reply-2": [
+      "家庭聚会 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-family-thanks-1": [
+      "家庭聚会 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "家庭聚会 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "家庭聚会 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "c05-family-thanks-2": [
+      "家庭聚会 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "家庭聚会 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "家庭聚会 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "c05-family-welcome-1": [
+      "家庭聚会 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-family-welcome-2": [
+      "家庭聚会 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-642-2": [
+      "家庭聚会 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-family-closing-1": [
+      "家庭聚会 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-family-closing-2": [
+      "家庭聚会 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-family-farewell-1": [
+      "家庭聚会 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-family-farewell-2": [
+      "家庭聚会 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "家庭聚会 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "家庭聚会 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "meeting-verse-02": [
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "spoken-new-05": [
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "spoken-new-06": [
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "spoken-new-10": [
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-tao-talk": [
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-cha-stars": [
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-xu-light": [
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-25-1": [
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-15-1": [
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-19-1": [
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-369-2": [
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-649-2": [
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-758-2": [
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-987-2": [
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-1223-2": [
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-18-2": [
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-06-2": [
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-09-2": [
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-14-2": [
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-232-1": [
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "meeting-03": [
+      "认识新朋友 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-new-07": [
+      "认识新朋友 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-new-08": [
+      "认识新朋友 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-new-11": [
+      "认识新朋友 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-new-12": [
+      "认识新朋友 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "meeting-01": [
+      "认识新朋友 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "meeting-02": [
+      "认识新朋友 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-new-01": [
+      "认识新朋友 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-new-02": [
+      "认识新朋友 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-new-03": [
+      "认识新朋友 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-new-09": [
+      "认识新朋友 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "认识新朋友 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "认识新朋友 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "c05-meeting-personal-1": [
+      "认识新朋友 / 单独敬一位 / 诗意自然 / person / 2026-10-29",
+      "认识新朋友 / 单独敬一位 / 诗意自然 / person / 2026-01-15",
+      "认识新朋友 / 单独敬一位 / 诗意自然 / person / 2026-04-15"
+    ],
+    "c05-meeting-personal-2": [
+      "认识新朋友 / 单独敬一位 / 诗意自然 / person / 2026-10-29",
+      "认识新朋友 / 单独敬一位 / 诗意自然 / person / 2026-01-15",
+      "认识新朋友 / 单独敬一位 / 诗意自然 / person / 2026-04-15"
+    ],
+    "c05-meeting-reply-1": [
+      "认识新朋友 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-meeting-reply-2": [
+      "认识新朋友 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-meeting-thanks-1": [
+      "认识新朋友 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "认识新朋友 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "认识新朋友 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "c05-meeting-thanks-2": [
+      "认识新朋友 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "认识新朋友 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "认识新朋友 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "c05-meeting-welcome-1": [
+      "认识新朋友 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-meeting-welcome-2": [
+      "认识新朋友 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-meeting-closing-1": [
+      "认识新朋友 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-meeting-closing-2": [
+      "认识新朋友 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-meeting-farewell-1": [
+      "认识新朋友 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-meeting-farewell-2": [
+      "认识新朋友 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "认识新朋友 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "认识新朋友 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "dating-verse-01": [
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "dating-verse-02": [
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "spoken-date-04": [
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "spoken-date-05": [
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "spoken-date-10": [
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-su-cupmoon-dating": [
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-25-2": [
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-15-2": [
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-story-24-2": [
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-369-1": [
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-1001-1": [
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-ci-14-1": [
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-ou-calm": [
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "r04-shi-339-1": [
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "verse-xu-light-dating": [
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-10-29",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-01-15",
+      "相亲约会 / 敬大家 / 诗意自然 / table / 2026-04-15"
+    ],
+    "dating-03": [
+      "相亲约会 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "相亲约会 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "相亲约会 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-date-07": [
+      "相亲约会 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "相亲约会 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "相亲约会 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-date-08": [
+      "相亲约会 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "相亲约会 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "相亲约会 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-date-12": [
+      "相亲约会 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "相亲约会 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "相亲约会 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "spoken-date-11": [
+      "相亲约会 / 敬大家 / 轻松有趣 / table / 2026-10-29",
+      "相亲约会 / 敬大家 / 轻松有趣 / table / 2026-01-15",
+      "相亲约会 / 敬大家 / 轻松有趣 / table / 2026-04-15"
+    ],
+    "dating-01": [
+      "相亲约会 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "相亲约会 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "相亲约会 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "dating-02": [
+      "相亲约会 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "相亲约会 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "相亲约会 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-date-01": [
+      "相亲约会 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "相亲约会 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "相亲约会 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-date-02": [
+      "相亲约会 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "相亲约会 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "相亲约会 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-date-03": [
+      "相亲约会 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "相亲约会 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "相亲约会 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "spoken-date-09": [
+      "相亲约会 / 敬大家 / 郑重得体 / table / 2026-10-29",
+      "相亲约会 / 敬大家 / 郑重得体 / table / 2026-01-15",
+      "相亲约会 / 敬大家 / 郑重得体 / table / 2026-04-15"
+    ],
+    "c05-dating-personal-1": [
+      "相亲约会 / 单独敬一位 / 诗意自然 / person / 2026-10-29",
+      "相亲约会 / 单独敬一位 / 诗意自然 / person / 2026-01-15",
+      "相亲约会 / 单独敬一位 / 诗意自然 / person / 2026-04-15"
+    ],
+    "c05-dating-personal-2": [
+      "相亲约会 / 单独敬一位 / 诗意自然 / person / 2026-10-29",
+      "相亲约会 / 单独敬一位 / 诗意自然 / person / 2026-01-15",
+      "相亲约会 / 单独敬一位 / 诗意自然 / person / 2026-04-15"
+    ],
+    "c05-dating-reply-1": [
+      "相亲约会 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "相亲约会 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "相亲约会 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-dating-reply-2": [
+      "相亲约会 / 接一句祝福 / 诗意自然 / table / 2026-10-29",
+      "相亲约会 / 接一句祝福 / 诗意自然 / table / 2026-01-15",
+      "相亲约会 / 接一句祝福 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-dating-thanks-1": [
+      "相亲约会 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "相亲约会 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "相亲约会 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "c05-dating-thanks-2": [
+      "相亲约会 / 感谢款待 / 诗意自然 / host / 2026-10-29",
+      "相亲约会 / 感谢款待 / 诗意自然 / host / 2026-01-15",
+      "相亲约会 / 感谢款待 / 诗意自然 / host / 2026-04-15"
+    ],
+    "c05-dating-welcome-1": [
+      "相亲约会 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "相亲约会 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "相亲约会 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-dating-welcome-2": [
+      "相亲约会 / 主人开场 / 诗意自然 / table / 2026-10-29",
+      "相亲约会 / 主人开场 / 诗意自然 / table / 2026-01-15",
+      "相亲约会 / 主人开场 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-dating-closing-1": [
+      "相亲约会 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "相亲约会 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "相亲约会 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-dating-closing-2": [
+      "相亲约会 / 结束收尾 / 诗意自然 / table / 2026-10-29",
+      "相亲约会 / 结束收尾 / 诗意自然 / table / 2026-01-15",
+      "相亲约会 / 结束收尾 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-dating-farewell-1": [
+      "相亲约会 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "相亲约会 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "相亲约会 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ],
+    "c05-dating-farewell-2": [
+      "相亲约会 / 送别珍重 / 诗意自然 / table / 2026-10-29",
+      "相亲约会 / 送别珍重 / 诗意自然 / table / 2026-01-15",
+      "相亲约会 / 送别珍重 / 诗意自然 / table / 2026-04-15"
+    ]
+  }
+}

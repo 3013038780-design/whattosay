@@ -1,3 +1,4 @@
+import {editorialSourcePatches} from './editorial-revisions';
 import {expansionSources} from './expansion-06';
 import {readingSources} from './reading-batch';
 import {fullOriginals} from './full-originals';
@@ -28,3 +29,5 @@ sources.folkDumplings={id:'folkDumplings',title:'茶壶里煮饺子——有货�
 
 // Preserve the selected excerpt; attach the complete work independently.
 for(const [id,full] of Object.entries(fullOriginals)){if(sources[id])Object.assign(sources[id],full);}
+
+for(const [id,patch] of Object.entries(editorialSourcePatches)){if(!sources[id])throw new Error("Unknown reviewed source: "+id);Object.assign(sources[id],patch);}

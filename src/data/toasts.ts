@@ -1,3 +1,4 @@
+import {editorialRevisions} from './editorial-revisions';
 import {expansionToasts} from './expansion-06';
 import {contextualToasts} from './contextual';
 import {readingToasts} from './reading-batch';
@@ -81,7 +82,15 @@ toasts.push({...gatheringV1,version:2,active:true,full:'“有朋自远方来，
 
 // Poetry remains in recommendations. Conversational and rhythmic additions supplement it.
 // Preserve every old wording; the latest request also reserves specific familiar sources below.
-toasts.push(...spokenToasts,...culturalToasts,...collectedToasts,...readingToasts,...contextualToasts,...expansionToasts);
+toasts.push(...[...spokenToasts,...culturalToasts,...collectedToasts,...readingToasts,...contextualToasts,...expansionToasts].map(t=>({...t})));
 // User explicitly requested less overfamiliar references. Keep these exact versions for review/shares.
 const commonReferences=new Set(['welcoming','practice','bode','gaoshi','reciprocate']);
 for(const t of toasts)if(t.active!==false&&commonReferences.has(t.source)){t.active=false;t.archiveReason='common';}
+
+// A corrected recommendation never overwrites the wording carried by an old share.
+for(const [id,patch] of Object.entries(editorialRevisions)) {
+ const old=toasts.filter(t=>t.id===id&&t.active!==false).sort((a,b)=>b.version-a.version)[0];
+ if(!old)throw new Error('Editorial revision has no active original: '+id);
+ const {reason,...fields}=patch;old.active=false;old.editorialNote=reason;
+ toasts.push({...old,...fields,version:old.version+1,active:true,editorialNote:reason});
+}

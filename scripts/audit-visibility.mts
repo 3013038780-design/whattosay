@@ -11,5 +11,5 @@ for(const o of occasionOptions)for(const p of purposeOptions)for(const f of flav
  for(const t of pool){reachable.add(t.id);if(date===dates[0])today.add(t.id);const label=[o.name,p.name,f.name,c.target,date].join(' / ');if(!routes[t.id])routes[t.id]=[];if(routes[t.id].length<3&&!routes[t.id].includes(label))routes[t.id].push(label);}
  if(date===dates[0]&&target==='table')groups.push({occasion:o.id,purpose:p.id,flavor:f.id,count:pool.length,works:new Set(pool.filter(t=>t.kind==='引句后整理').map(t=>workKey(t.source))).size});
 }
-const report={date:dates[0],version:'0.6.0',active:active.length,quoted:active.filter(t=>t.kind==='引句后整理').length,totalVersions:toasts.length,todayReachable:today.size,seasonAndFestivalReachable:reachable.size,unreachable:active.filter(t=>!reachable.has(t.id)).map(t=>t.id),groups,routes};
-await mkdir('docs/verification',{recursive:true});await writeFile('docs/verification/0.6-visibility.json',JSON.stringify(report,null,2)+'\n');console.log(JSON.stringify({...report,groups:undefined,routes:undefined},null,2));
+const report={date:dates[0],version:'0.6.1',active:active.length,quoted:active.filter(t=>t.kind==='引句后整理').length,totalVersions:toasts.length,todayReachable:today.size,seasonAndFestivalReachable:reachable.size,unreachable:active.filter(t=>!reachable.has(t.id)).map(t=>t.id),groups,routes};
+await mkdir('docs/verification',{recursive:true});await writeFile('docs/verification/0.6.1-visibility.json',JSON.stringify(report,null,2)+'\n');console.log(JSON.stringify({...report,groups:undefined,routes:undefined},null,2));

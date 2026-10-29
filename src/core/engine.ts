@@ -24,6 +24,7 @@ export function eligiblePool(choice:Choice) {
  if(!pool.length)throw new Error('该场景暂无合适内容');
  return {pool,relaxed,topicRelaxed};
 }
+const currentToast=(id:string)=>toasts.find(t=>t.id===id&&t.active!==false)||toasts.find(t=>t.id===id);
 export function select(choice:Choice,seen:string[],rng=Math.random):Selection {
  const {pool,relaxed,topicRelaxed}=eligiblePool(choice),cal=calendar(choice.date);
  const visits=seen.filter(id=>pool.some(t=>t.id===id));
@@ -39,9 +40,9 @@ export function select(choice:Choice,seen:string[],rng=Math.random):Selection {
  const contextual=cal.festivalId?available.filter(t=>t.festivals?.includes(cal.festivalId!)):[];
  if(contextual.length)available=contextual;
  // Prefer a reviewed occasion-specific speech before neutral shared entries.
- if(choice.occasion){const usedScoped=seen.some(id=>{const t=toasts.find(t=>t.id===id);return t?.occasions?.includes(choice.occasion!)&&t.purpose===choice.purpose&&t.target===choice.target;});const scoped=available.filter(t=>t.occasions?.includes(choice.occasion!));if(!usedScoped&&scoped.length)available=scoped;}
+ if(choice.occasion){const usedScoped=seen.some(id=>{const t=currentToast(id);return t?.occasions?.includes(choice.occasion!)&&t.purpose===choice.purpose&&t.target===choice.target;});const scoped=available.filter(t=>t.occasions?.includes(choice.occasion!));if(!usedScoped&&scoped.length)available=scoped;}
  const sourceKey=(t:Toast)=>{const id=t.source==='lumingGuest'?'luming':t.source;return sources[id]?.url||id;};
- const visitedSources=new Set(seen.map(id=>toasts.find(t=>t.id===id)).filter((t):t is Toast=>!!t).map(sourceKey));
+ const visitedSources=new Set(seen.map(id=>currentToast(id)).filter((t):t is Toast=>!!t).map(sourceKey));
  const newSources=available.filter(t=>!visitedSources.has(sourceKey(t)));if(newSources.length)available=newSources;
  const recentThemes=visits.slice(-2).map(id=>pool.find(t=>t.id===id)?.theme);
  const freshStyle=available.filter(t=>!recentThemes.includes(t.theme));
