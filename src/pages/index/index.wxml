@@ -1,5 +1,5 @@
 <view class="page">
- <view class="masthead"><text>席 间 有 话</text><text class="edition">试读版 0.6.1 · {{calendar.season}}日小笺</text></view>
+ <view class="masthead"><text>席 间 有 话</text><text class="edition">试读版 0.6.2 · {{calendar.season}}日小笺</text></view>
  <view class="heading"><view><view class="title">轮到我了<text class="dot">。</text></view><view class="subtitle">一杯有心意，一席有好词。</view></view><view class="seal">好好<view>说话</view></view></view>
  <view class="date-row"><text>{{calendar.date}} · {{calendar.lunar}}{{calendar.festivalName ? ' · ' + calendar.festivalName : ''}}</text><text>{{calendar.term}}{{calendar.termDay ? ' · 今日交节' : '时节'}}</text></view>
  <view wx:if="{{editor}}" class="draft-editor">
