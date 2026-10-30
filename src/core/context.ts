@@ -1,6 +1,9 @@
 import type {Choice,Toast,Occasion,Purpose,Scene} from './types';
 export const occasionOptions=[{id:'general',name:'直接给我一句'},{id:'friends',name:'朋友聚会'},{id:'work',name:'同事聚餐'},{id:'family',name:'家庭聚会'},{id:'meeting',name:'认识新朋友'},{id:'dating',name:'相亲约会'}] as const;
-export const purposeOptions=[{id:'toast',name:'敬大家'},{id:'personal',name:'单独敬一位'},{id:'reply',name:'接一句祝福'},{id:'thanks',name:'感谢款待'},{id:'welcome',name:'主人开场'},{id:'closing',name:'结束收尾'},{id:'farewell',name:'送别珍重'},{id:'gratitude',name:'感谢帮助'},{id:'finish',name:'结束发言'}] as const;
+export const purposeOptions=[{id:'toast',name:'敬大家'},{id:'personal',name:'单独敬一位'},{id:'reply',name:'回应祝福'},{id:'thanks',name:'表达感谢'},{id:'welcome',name:'主人开场'},{id:'closing',name:'收尾告别'}] as const;
+// Old shared cards retain their original purpose and exact wording.
+export const acceptedPurposes=[...purposeOptions,{id:'farewell',name:'收尾告别'},{id:'gratitude',name:'表达感谢'},{id:'finish',name:'收尾告别'}] as const;
+export const visiblePurpose=(purpose:string)=>purpose==='gratitude'?'thanks':purpose==='farewell'||purpose==='finish'?'closing':purpose;
 export const flavorOptions=[{id:'verse',name:'诗意自然'},{id:'fun',name:'轻松有趣'},{id:'formal',name:'郑重得体'}] as const;
 export const imageryOptions=[{id:'any',name:'不限意象'},{id:'night',name:'夜晚'},{id:'moon',name:'月色'},{id:'wine',name:'茶酒待客'}] as const;
 export const purposeScene:Partial<Record<Purpose,Scene>>={reply:'reply',thanks:'thanks',welcome:'host',closing:'closing',farewell:'farewell',gratitude:'thanks',finish:'closing'};
@@ -30,5 +33,5 @@ export function matchesContext(t:Toast,c:Choice):boolean {
  if(t.id==='r04-ci-12-2'&&c.occasion==='meeting')return false;
  return shared.has(t.id);
 }
-export function choiceLabel(c:Choice){return c.occasion?`${occasionOptions.find(o=>o.id===c.occasion)?.name} · ${purposeOptions.find(p=>p.id===c.purpose)?.name||'敬大家'}`:'';}
+export function choiceLabel(c:Choice){return c.occasion?`${occasionOptions.find(o=>o.id===c.occasion)?.name} · ${purposeOptions.find(p=>p.id===visiblePurpose(c.purpose||'toast'))?.name||'敬大家'}`:'';}
 export function targetOptions(c:Choice){if(c.purpose!=='personal')return [];return c.occasion==='work'?[{id:'leader',name:'领导／前辈'},{id:'person',name:'一位同事'}]:c.occasion==='family'?[{id:'elder',name:'家中长辈'},{id:'person',name:'一位家人'}]:[];}

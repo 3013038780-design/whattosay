@@ -8,7 +8,7 @@
 
 有文采 · 有人情 · 合场景 · 能开口
 
-[下载微信试读工程](releases/whattosay-0.6.1-preview.zip) · [浏览完整诗文库](docs/poetry-library.txt) · [功能详解](#从选场景到开口只需几步) · [本地体验](#三分钟跑起来) · [提建议](https://github.com/3013038780-design/whattosay/issues)
+[下载微信试读工程](releases/whattosay-0.6.2-preview.zip) · [浏览完整诗文库](docs/poetry-library.txt) · [功能详解](#从选场景到开口只需几步) · [本地体验](#三分钟跑起来) · [提建议](https://github.com/3013038780-design/whattosay/issues)
 
 A poetry-inspired WeChat mini program for finding the right words at the table.
 
@@ -24,6 +24,10 @@ A poetry-inspired WeChat mini program for finding the right words at the table.
 >
 > —— 小程序现有文案；引句出自《问刘十九》，其余为整理表达。
 
+## 0.6.2：六个入口，两行选好
+
+敬大家、单独敬一位、回应祝福、表达感谢、主人开场、收尾告别。感谢款待与感谢帮助合并；结束发言、收尾和送别合并，相关素材继续可选。风格、中文／English与以茶代酒放入底部“调整表达”面板。
+
 ## 0.6.1：逐条审校，先读懂诗，再开口
 
 独立审校覆盖修订前全部580个版本，逐读中文长短稿、英文、译意，并对照153条来源记录。初审标出171条需修订、67条建议润色。主编辑接入261条校订稿、14条原文／释义／来源校正后，交回独立审校复读；本轮未解决必须修项为0。修订不是新增素材，也不把审校说成审美的永久保证。
@@ -32,7 +36,7 @@ A poetry-inspired WeChat mini program for finding the right words at the table.
 - 明确来宾与主人、家人与同事、初识与熟识；中英文使用同一发言身份。给长辈的祝愿不再误套“努力成长”。
 - 修正借古训人、影射迟到、嫌人话多、初次相亲过早定情等问题。不合场景的原句换到合适原作，旧诗和典故全文仍留档。
 - 苏轼《临江仙·夜归临皋》重新核原页，区分门外听江声、身不由己与向往自在；不再误接“回去还是要把日子过好”。
-- 旧分享保留原文，提供“查看校订版”；仅换行而文字相同的稿件，不再显示虚假的长短切换。三种风格和中文／English继续常显。
+- 旧分享保留原文，提供“查看校订版”；仅换行而文字相同的稿件，不再显示虚假的长短切换。三种风格和中文／English保留，0.6.2起在“调整表达”面板中选择。
 
 [打开全部580条原稿与校订稿对照](docs/editorial-review.html) · [原始逐条审校报告](docs/verification/editorial-audit-agent.md) · [261条校订稿复审](docs/verification/editorial-final-review-agent.md) · [全部对照JSON](docs/verification/editorial-review.json)
 

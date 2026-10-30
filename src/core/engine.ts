@@ -1,4 +1,4 @@
-import {occasionOptions,purposeOptions,flavorOptions,purposeScene,matchesContext} from './context';
+import {occasionOptions,acceptedPurposes,flavorOptions,purposeScene,matchesContext} from './context';
 import type {Choice,Selection,Toast,Scene,Target,Tone,Length,Topic} from './types';
 import {toasts} from '../data/toasts';
 import {sources} from '../data/sources';
@@ -7,16 +7,22 @@ export const sceneOptions = [{id:'general',name:'临场救急',hint:'突然轮�
 export const topicOptions=[{id:'any',name:'随席取意'},{id:'night',name:'夜晚小酌'},{id:'moon',name:'月色入杯'},{id:'wine',name:'邀饮待客'},{id:'friend',name:'好友知己'},{id:'reunion',name:'团圆相聚'}] as const;
 export const defaults = ():Choice=>({scene:'general',target:'table',tone:'verse',length:'short',tea:false,calendarMode:'none',date:today(),topic:'any'});
 export function normalize(raw:Partial<Choice>):Choice {const d=defaults();const choice:Choice={...d,scene:sceneOptions.some(s=>s.id===raw.scene)?raw.scene!:d.scene,target:raw.scene==='work'&&raw.target==='leader'?'leader':raw.scene==='family'&&raw.target==='elder'?'elder':raw.scene==='thanks'&&raw.target==='host'?'host':raw.target==='person'&&['general','work','friends','meeting','dating','family'].includes(raw.scene||d.scene)?'person':'table',tone:['auto','poetic','verse','fun','english'].includes(raw.tone||'')?raw.tone!:d.tone,length:raw.length==='full'?'full':raw.length==='short'?'short':d.length,tea:raw.tea===true,date:raw.date&&validDate(raw.date)?raw.date:d.date,calendarMode:['none','day','season','term','festival'].includes(raw.calendarMode||'')?raw.calendarMode!:d.calendarMode,topic:topicOptions.some(t=>t.id===raw.topic)?raw.topic!:d.topic};if(occasionOptions.some(o=>o.id===raw.occasion)){
- choice.occasion=raw.occasion;choice.purpose=purposeOptions.some(p=>p.id===raw.purpose)?raw.purpose!:'toast';
+ choice.occasion=raw.occasion;choice.purpose=acceptedPurposes.some(p=>p.id===raw.purpose)?raw.purpose!:'toast';
  choice.flavor=flavorOptions.some(f=>f.id===raw.flavor)?raw.flavor!:'verse';choice.language=raw.language==='en'?'en':'zh';
  choice.scene=purposeScene[choice.purpose]||choice.occasion!;
  choice.target=choice.purpose==='thanks'?'host':choice.purpose==='personal'?(choice.occasion==='work'&&raw.target!=='person'?'leader':choice.occasion==='family'&&raw.target!=='person'?'elder':'person'):'table';
  choice.tone=choice.language==='en'?'english':choice.flavor==='fun'?'fun':choice.flavor==='formal'?'poetic':'verse';
  }if(choice.calendarMode==='festival'&&!calendar(choice.date).festivalId)choice.calendarMode='none';return choice;}
 function matchesScene(t:Toast,c:Choice){return t.scene===c.scene||(c.purpose==='personal'&&c.target==='person'&&t.purpose==='personal'&&t.scene==='general');}
+function purposeVariants(c:Choice):Choice[] {
+ if(!c.occasion)return [c];
+ const extras=c.purpose==='thanks'?['gratitude']:c.purpose==='closing'?['finish','farewell']:[];
+ return [c,...extras.map(purpose=>normalize({...c,purpose:purpose as Choice['purpose']}))];
+}
+export function matchesChoice(t:Toast,c:Choice){return purposeVariants(c).some(v=>matchesScene(t,v)&&t.target===v.target&&matchesContext(t,v));}
 export function eligiblePool(choice:Choice) {
  const cal=calendar(choice.date),season=cal.season;
- let pool=toasts.filter(t=>t.active!==false&&matchesScene(t,choice)&&t.target===choice.target&&matchesContext(t,choice)&&(!t.seasons||t.seasons.includes(season))&&(!t.festivals||!!cal.festivalId&&t.festivals.includes(cal.festivalId)));
+ let pool=toasts.filter(t=>t.active!==false&&matchesChoice(t,choice)&&(!t.seasons||t.seasons.includes(season))&&(!t.festivals||!!cal.festivalId&&t.festivals.includes(cal.festivalId)));
  const themed=choice.topic==='any'?pool:pool.filter(t=>t.topics?.includes(choice.topic));
  const topicRelaxed=choice.topic!=='any'&&!themed.length;if(themed.length)pool=themed;
  const preferred=pool.filter(t=>choice.occasion?(choice.flavor==='fun'?t.tone==='fun':choice.flavor==='formal'?t.tone!=='fun':t.kind==='引句后整理'):choice.tone==='auto'||choice.tone==='english'||(choice.tone==='verse'?t.kind==='引句后整理':t.tone===choice.tone&&(choice.tone!=='poetic'||t.kind!=='引句后整理')));
@@ -62,7 +68,7 @@ export function speech(t:Toast,c:Choice):string {
 }
 export function ending(t:Toast,c:Choice):string {let s=speech(t,c);if(c.tone!=='english'&&!c.tea&&t.target==='leader')s=s.replace(/借这一杯，敬大家。$/,'借这一杯，敬您。');if(c.tone!=='english'&&!c.tea&&t.target==='elder')s=s.replace(/借这一杯，敬大家。$/,'这一杯，敬家中长辈。');if(c.tone!=='english'&&!c.tea&&t.target==='host')s=s.replace(/借这一杯，敬大家。$/,'这一杯，谢款待，也敬心意。');return s;}
 export function shareQuery(t:Toast,c:Choice):string {return Object.entries({id:t.id,v:String(t.version),scene:c.scene,target:c.target,tone:c.tone,length:c.length,tea:c.tea?'1':'0',mode:c.calendarMode,date:c.date,...(c.topic!=='any'?{topic:c.topic}:{}),...(c.occasion?{occasion:c.occasion,purpose:c.purpose!,flavor:c.flavor!,lang:c.language!}:{})}).map(([k,v])=>encodeURIComponent(k)+'='+encodeURIComponent(v)).join('&');}
-export function restore(params:Record<string,string>){const choice=normalize({occasion:params.occasion as Choice['occasion'],purpose:params.purpose as Choice['purpose'],flavor:params.flavor as Choice['flavor'],language:params.lang as Choice['language'],scene:params.scene as Scene,target:params.target as Target,tone:params.tone as Tone,length:params.length as Length,tea:params.tea==='1',calendarMode:params.mode as Choice['calendarMode'],date:params.date,topic:params.topic as Topic});const toast=toasts.find(t=>t.id===params.id&&String(t.version)===params.v);if((params.occasion&&params.scene!==choice.scene)||!toast||!matchesScene(toast,choice)||toast.target!==choice.target||!matchesContext(toast,choice)||(!validDate(params.date))||(toast.seasons&&!toast.seasons.includes(calendar(choice.date).season))||(toast.festivals&&(!calendar(choice.date).festivalId||!toast.festivals.includes(calendar(choice.date).festivalId!))))return {choice,toast:undefined};return {choice,toast};}
+export function restore(params:Record<string,string>){const choice=normalize({occasion:params.occasion as Choice['occasion'],purpose:params.purpose as Choice['purpose'],flavor:params.flavor as Choice['flavor'],language:params.lang as Choice['language'],scene:params.scene as Scene,target:params.target as Target,tone:params.tone as Tone,length:params.length as Length,tea:params.tea==='1',calendarMode:params.mode as Choice['calendarMode'],date:params.date,topic:params.topic as Topic});const toast=toasts.find(t=>t.id===params.id&&String(t.version)===params.v);if((params.occasion&&params.scene!==choice.scene)||!toast||!matchesChoice(toast,choice)||(!validDate(params.date))||(toast.seasons&&!toast.seasons.includes(calendar(choice.date).season))||(toast.festivals&&(!calendar(choice.date).festivalId||!toast.festivals.includes(calendar(choice.date).festivalId!))))return {choice,toast:undefined};return {choice,toast};}
 export function sourceFor(t:Toast){return sources[t.source];}
 export function wrapLines(text:string):string[]{return text.split('\n');}
 

@@ -1,25 +1,25 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
 import {occasionOptions,purposeOptions,flavorOptions,matchesContext} from '../src/core/context';
-import {normalize,select,eligiblePool,shareQuery,restore,ending,parseQuery} from '../src/core/engine';
+import {normalize,select,eligiblePool,matchesChoice,shareQuery,restore,ending,parseQuery} from '../src/core/engine';
 import {sources} from '../src/data/sources';
 import {toasts} from '../src/data/toasts';
 import {Session} from '../src/core/session';
 test('occasion and purpose jointly select usable cultural speeches in every supported combination',()=>{
  for(const o of occasionOptions)for(const p of purposeOptions)for(const f of flavorOptions)for(const language of ['zh','en'] as const){
   const c=normalize({occasion:o.id,purpose:p.id,flavor:f.id,language,date:'2026-10-29'}),r=select(c,[],()=>0);
-  assert.ok(r.poolIds.length,o.id+'/'+p.id+'/'+f.id);assert.ok(matchesContext(r.toast,c));assert.ok(r.toast.scene===c.scene||(p.id==='personal'&&r.toast.scene==='general'));assert.equal(r.toast.target,c.target);
+  assert.ok(r.poolIds.length,o.id+'/'+p.id+'/'+f.id);assert.ok(matchesChoice(r.toast,c));
   assert.ok(ending(r.toast,c));assert.ok(sources[r.toast.source]);
   if(f.id==='verse')assert.equal(r.toast.kind,'引句后整理',o.id+'/'+p.id);
   const restored=restore(parseQuery(shareQuery(r.toast,c)));assert.ok(restored.toast);assert.equal(ending(restored.toast!,restored.choice),ending(r.toast,c));assert.equal(restored.choice.occasion,o.id);assert.equal(restored.choice.purpose,p.id);
  }
 });
 test('ending a family meal does not use generic keep-eating speeches or a colleague address',()=>{
- for(const occasion of ['family','work','dating'] as const){const c=normalize({occasion,purpose:'closing',date:'2026-10-29'}),pool=select(c,[],()=>0).poolIds.map(id=>toasts.find(t=>t.id===id)!);assert.ok(pool.some(t=>t.occasions?.includes(occasion)));assert.ok(select(c,[],()=>0).toast.occasions?.includes(occasion));for(const t of pool){assert.doesNotMatch(t.full,/咱们接着吃|咱们接着聊|不耽误大家吃饭/);assert.ok(!t.occasions||t.occasions.includes(occasion));}}
+ for(const occasion of ['family','work','dating'] as const){const c=normalize({occasion,purpose:'closing',date:'2026-10-29'}),pool=select(c,[],()=>0).poolIds.map(id=>toasts.find(t=>t.id===id)!);assert.ok(pool.some(t=>t.occasions?.includes(occasion)));assert.ok(select(c,[],()=>0).toast.occasions?.includes(occasion));for(const t of pool){assert.doesNotMatch(t.full.replace(/(?:往后|下次见面，)咱们接着聊/g,''),/咱们接着吃|咱们接着聊|不耽误大家吃饭/);assert.ok(!t.occasions||t.occasions.includes(occasion));}}
  const family=toasts.find(t=>t.id==='c05-family-closing-1')!;assert.match(family.short,/家里人/);assert.match(toasts.find(t=>t.id==='c05-work-closing-1')!.short,/共事/);
 });
 test('new language selection preserves the chosen card, full source and custom editor; legacy shares stay exact',()=>{
- const s=new Session({get:()=>[],set:()=>{}});assert.equal(s.choice.occasion,'general');assert.equal(s.optionsOpen,false);s.choose('occasion','work');s.choose('purpose','closing');const id=s.toast.id;s.choose('language','en');assert.equal(s.toast.id,id);assert.equal(s.choice.tone,'english');s.choose('language','zh');assert.equal(s.toast.id,id);s.beginDraft(true);assert.equal(s.editor!.scene,'同事聚餐 · 结束收尾');assert.equal(s.editor!.text,s.view().text);
+ const s=new Session({get:()=>[],set:()=>{}});assert.equal(s.choice.occasion,'general');assert.equal(s.optionsOpen,false);s.choose('occasion','work');s.choose('purpose','closing');const id=s.toast.id;s.choose('language','en');assert.equal(s.toast.id,id);assert.equal(s.choice.tone,'english');s.choose('language','zh');assert.equal(s.toast.id,id);s.beginDraft(true);assert.equal(s.editor!.scene,'同事聚餐 · 收尾告别');assert.equal(s.editor!.text,s.view().text);
  s.cancelDraft();const old=toasts.find(t=>t.id==='general-verse-02'&&t.version===1)!;const c=normalize({scene:'general',length:'full',date:'2026-10-17'});const oldShare=shareQuery(old,c),r=restore(parseQuery(oldShare));assert.equal(r.choice.occasion,undefined);assert.equal(ending(r.toast!,r.choice),ending(old,c));
  const newQ=parseQuery(s.query());assert.equal(restore({...newQ,scene:'dating'}).toast,undefined);assert.equal(restore({...newQ,occasion:'dating',id:'c05-work-closing-1'}).toast,undefined);
 });
@@ -40,4 +40,17 @@ test('all active entries have a current UI route, including seasonal and festiva
 test('thin poetic groups have at least eight different complete originals and language changes do not inflate counts',()=>{
  for(const occasion of occasionOptions)for(const purpose of purposeOptions){const c=normalize({occasion:occasion.id,purpose:purpose.id,flavor:'verse',target:'person',date:'2026-10-29'});const pool=eligiblePool(c).pool;const works=new Set(pool.map(t=>(sources[t.source].fullOriginal||'').replace(/[\s\p{P}]/gu,'')));assert.ok(works.size>=8,occasion.id+'/'+purpose.id+': '+works.size);}
  const s=new Session({get:()=>[],set:()=>{}});const initial=s.view();s.choose('language','en');assert.equal(s.view().poolCount,initial.poolCount);assert.equal(s.view().unseenCount,initial.unseenCount);assert.equal(s.toast.id,initial.toast.id);
+});
+
+test('six visible purposes retain merged material pools and old share identities',()=>{
+ assert.equal(purposeOptions.length,6);
+ for(const [merged,oldPurposes] of [['thanks',['thanks','gratitude']],['closing',['closing','finish','farewell']]] as const){
+  const c=normalize({occasion:'work',purpose:merged,date:'2026-10-29',flavor:'formal'});
+  const pool=eligiblePool(c).pool;
+  for(const purpose of oldPurposes){
+   const old=normalize({...c,purpose});
+   for(const t of eligiblePool(old).pool){assert.ok(pool.some(x=>x.id===t.id&&x.version===t.version),purpose+'/'+t.id);assert.equal(restore(parseQuery(shareQuery(t,old))).toast?.id,t.id);}
+  }
+  for(const t of pool)assert.equal(restore(parseQuery(shareQuery(t,c))).toast?.id,t.id);
+ }
 });
